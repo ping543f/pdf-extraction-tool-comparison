@@ -1,0 +1,845 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Efficient preparation of biomass-based mesoporous carbons for supercapacitors with both high energy density and high power density
+
+
+at SciVerse ScienceDirect
+
+Journal of Power Sources 240 (2013) 109e113
+Contents lists available
+Journal of Power Sources
+
+journal homepage: www.elsevier .com/locate/ jpowsour
+Short communication
+Efficient preparation of biomass-based mesoporous carbons for
+supercapacitors with both high energy density and high power
+density
+
+Xiaojun He a,*, Pinghua Ling a, Jieshan Qiu b,**, Moxin Yu a, Xiaoyong Zhang a, Chang Yu b,
+Mingdong Zheng a
+
+a School of Chemistry and Chemical Engineering, Anhui Key Lab of Coal Clean Conversion and Utilization, Anhui University of Technology, 59 Hudong Road,
+Maanshan 243002, China
+bCarbon Research Lab, Liaoning Key Lab for Energy Materials and Chemical Engineering, State Key Lab of Fine Chemicals, Dalian University of Technology,
+Dalian 116024, China
+h i g h l i g h t s
+* Corresponding author. Fax: þ86 555 2311822.
+** Corresponding author. Tel.: þ86 411 84986024; fa
+
+E-mail addresses: xjhe@ahut.edu.cn (X. He), jqiu@
+
+0378-7753/$ e see front matter � 2013 Elsevier B.V.
+http://dx.doi.org/10.1016/j.jpowsour.2013.03.174
+g r a p h i c a l a b s t r a c t
+� High performance mesoporous car-
+bons (MCs) for supercapacitors are
+made from biomass.
+
+� The specific surface area of MC varies
+from 1527 m2 g�1 to 1634 m2 g�1.
+
+� The energy density of MC super-
+capacitor reaches 19.3 Wh kg�1 at
+1007 W kg�1.
+
+� MCs made by microwave heating
+have higher energy density at higher
+power density.
+a r t i c l e i n f o
+
+Article history:
+Received 1 September 2012
+Received in revised form
+23 March 2013
+Accepted 29 March 2013
+Available online 9 April 2013
+
+Keywords:
+Microwave heating
+Zinc chloride activation
+Mesoporous carbon
+Supercapacitor
+a b s t r a c t
+
+Mesoporous carbons (MCs) with high surface area of 1527e1634 m2 g�1 for supercapacitors are made
+from biomass such as peanut shell and rice husk by one-step zinc chloride (ZnCl2) activation assisted
+with microwave heating. At higher current density, the MCs made by the microwave heating show both
+higher energy and higher power density than the MCs made by the conventional heating because of
+bigger average pore size and unique mesopore structure in the MCs made by the microwave-assisted
+technique. It has been found that the supercapacitors made from the MCs by the microwave-assisted
+method have a high energy density of 19.3 Wh kg�1 at high power density of 1007 W kg�1 in 1 M
+Et4NBF4/PC electrolyte, suggesting that the microwave-assisted one-step ZnCl2 activation technique is an
+efficient approach to the production of biomass-derived MCs with high performance for supercapacitors.
+
+� 2013 Elsevier B.V. All rights reserved.
+x: þ86 411 84986080.
+dlut.edu.cn (J. Qiu).
+
+All rights reserved.
+1. Introduction
+
+Supercapacitors are drawing much attention as a promising en-
+ergy storage device [1]. Porous carbons including mesoporous car-
+bons (MCs) and microporous carbons have been widely used as the
+electrodematerials of supercapacitors due to their high surface area.
+However, some micropores in traditional porous carbons are not
+accessible to the electrolyte, limiting the formation of electric
+
+mailto:xjhe@ahut.edu.cn
+mailto:jqiu@dlut.edu.cn
+http://crossmark.dyndns.org/dialog/?doi=10.1016/j.jpowsour.2013.03.174&domain=pdf
+www.sciencedirect.com/science/journal/03787753
+http://www.elsevier.com/locate/jpowsour
+http://dx.doi.org/10.1016/j.jpowsour.2013.03.174
+http://dx.doi.org/10.1016/j.jpowsour.2013.03.174
+http://dx.doi.org/10.1016/j.jpowsour.2013.03.174
+
+
+0.0 0.2 0.4 0.6 0.8 1.0
+
+0
+
+300
+
+600
+
+900
+
+1200 RMC4/1-M
+
+RMC4/1-C
+
+V
+ol
+
+um
+e 
+
+ad
+so
+
+rb
+ed
+
+ (c
+m
+
+3  g
+-1
+)
+
+Relative pressure (P/P
+0
+)
+
+PPC0-C
+RPC0-C
+
+PMC4/1-C
+
+PMC4/1-M
+
+(a)
+
+1 10 100
+0.00
+
+0.02
+
+0.04
+
+0.06
+
+0.08
+
+P
+or
+
+e 
+vo
+
+lu
+m
+
+e 
+(c
+
+m
+3  g
+
+-1
+)
+
+Pore size (nm)
+
+ RMC4/1-M
+ RMC4/1-C
+ PMC4/1-M
+ PMC4/1-C
+ RPC0-C
+ PPC0-C
+
+(b)
+
+Fig. 1. (a) Nitrogen adsorptionedesorption isotherms of MCs, PPC0-C and RPC0-C; (b)
+pore size distribution of MCs, PPC0-C and RPC0-C.
+
+X. He et al. / Journal of Power Sources 240 (2013) 109e113110
+double-layer to some degree [2]. Because of this, the specific
+capacitance of microporous carbons drops at higher current density
+while the MCs show better rate performance [3]. Traditionally, the
+MCs are mainly produced by the template method [4], which is
+tedious and not environmentally benign because the template
+needs to be synthesized before use and be removed by strong acids
+after the synthesis step. This results in a high production cost of the
+template MCs. Recently we reported on the synthesis of MCs for
+supercapacitors from coal tar pitch by coupling KOH activationwith
+MgO template [5]. In comparison to coal tar pitch, the abundant
+biomass including peanut shell and rice husk is one of the promising
+carbon precursors for preparing MCs, of which one of the key issues
+is how to efficiently convert the biomass to the MCs with desired
+mesopore structures for supercapacitors at low energy consumption
+and environmental impact. It has been demonstrated that the
+microwave-assisted heat-treatment has many advantages over the
+conventional heating process [6,7] in terms of the quick and uniform
+heating feature, and the low energy consumption [8]. Here we
+report on a simple method to prepare MCs with well-developed
+mesopore structure for supercapacitors from peanut shell and rice
+husk by one-step microwave-assisted ZnCl2 activation.
+
+2. Experimental
+
+The peanut shell with an ash content of 1.44% on a dry basis (Ad)
+was obtained from Huai-an in Jiangsu province. The rice husk was
+obtained from Huai-xiang Company in Anhui province, and before
+use it was deashed in 0.5 M NaOH solution at 343 K for 2 h under
+constant stirring to decrease its Ad from 18.44% to 7.00%.
+
+The peanut shell was washed using water and dried, then
+crushed to a particle size of 3 � 10 mm, and was impregnated in
+ZnCl2 solution for 12 h with a mass ratio of ZnCl2/peanut shell of
+4/1 while the total mass was kept at 27 g. The ZnCl2 solution was
+made by dissolving 21.6 g ZnCl2 in 60 ml distilled water. The
+ZnCl2-impregnated peanut shell was dried at 383 K for 24 h before
+being activated to make MCs at a heating rate of 5 K min�1e
+1123 K, and held at 1123 K for 1 h in flowing nitrogen by con-
+ventional heating [9]. This leads to MCs termed as PMC4/1-C, where
+the subscript (C) refers to the conventional heating at a ZnCl2/
+peanut shell mass ratio of 4/1. For comparison, MCs were also
+made in 20 min by the microwave heating in a LWMC-205-type
+microwave oven with a microwave power of 600 W [5], which
+resulted in MCs termed as PMC4/1-M, where the subscript (M) re-
+fers to the microwave heating. The MCs made from rice husk are
+termed as RMC4/1-C and RMC4/1-M, respectively. Porous carbons
+made from peanut shell and rice husk without ZnCl2 activation by
+conventional heating are termed as PPC0-C and RPC0-C, respec-
+tively. In the present study, we have found that porous carbons
+cannot be made from dried peanut shell or rice husk without
+ZnCl2 treatment by microwave heating because of the poor
+adsorbing capacity of the dried biomass toward the microwave
+energy [10]. The ash contents for all of the MCs are below 3.2%.
+The pore structures of the as-made MCs were characterized using
+nitrogen adsorptionedesorption isotherms [5].
+
+Electrodesweremade by pressing amixture of 89wt%MCs, 5 wt
+% carbon black with a BET surface area of 550 m2 g�1, and 6 wt%
+PTFE at 15.0 MPa for 10 s, which were dried at 383 K for 1 h under
+vacuum before the test [5]. Button-type capacitor was assembled
+with two carbon electrodes and a separator. For the 6 M KOH
+electrolyte, the separator used was polypropylene membrane,
+while for the 1 M Et4NBF4/PC electrolyte, the separator was TF4050.
+The capacitors were evaluated by cyclic voltammetry (CV) and
+electrochemical impedance spectroscopy (EIS) by an electro-
+chemical workstation (CHI-760C). The chargeedischarge perfor-
+mance of capacitors was tested in a land cell tester (CT-2001A) at
+lower current density between 0.05 and 3.0 A g�1 [5] and by the
+supercapacitance test system (SCTS, Arbin Instruments, USA) at
+high current density of 20 A g�1. The cutoff charge voltage for the
+supercapacitors using 6 M KOH was set at �0.5 to 0.5 V, while for
+the 1 M Et4NBF4/PC electrolyte, it was set at 0e2.7 V.
+3. Results and discussion
+
+Fig. 1(a) is the nitrogen adsorptionedesorption isotherms of
+MCs, PPC0-C and RPC0-C, showing clearly that the hysteresis loops
+are present for all of theMCs, and only a fewmicropores are formed
+in PPC0-C and RPC0-C without adding ZnCl2 to peanut shell or rice
+husk. This has evidenced that the well-developed mesopores in
+MCs made from peanut shell or rice husk can be attributed to the
+activation of ZnCl2. The pore structure parameters of theMCs, PPC0-
+C and RPC0-C in different yields are presented in Table 1. Kalderis
+et al. reported that the ZnCl2 activation can produce porous carbons
+with high BET surface area (SBET) of 750 m
+
+2 g�1 by the conventional
+heating [7]. In our case, the SBET of PMC1/1-M, PMC2/1-M, PMC3/1-M,
+PMC4/1-M and PMC5/1-M made by microwave-assisted ZnCl2 acti-
+vation at different ZnCl2/peanut shell mass ratio are 1307, 1454,
+1528, 1552 and 1409 m2 g�1, respectively. The PMC4/1-M sample
+with the biggest SBET shows the highest energy density in 6 M KOH
+aqueous electrolyte. The PMC4/1-M performance was further eval-
+uated in 1 M Et4NBF4/PC electrolyte, which will be discussed below.
+
+Fig. 1(b) is the pore size distribution of MCs, PPC0-C and RPC0-C,
+in which the macropores are ignorable or poorly developed. The
+pore size of PMC4/1-C and RMC4/1-C mainly centers at 1.0e2.0 and
+2.0e10 nm, while for PMC4/1-M and RMC4/1-M, it centers at 1.2e2.0
+
+
+
+0 20
+
+0
+
+10
+
+20
+
+30
+
+40
+
+-Z
+''
+
+(O
+hm
+
+)
+
+-Z
+''
+
+(O
+hm
+
+)
+
+Z
+
+(a)
+
+0.5 1.0
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+-Z
+'' 
+
+(O
+hm
+
+)
+
+Z
+
+(b)
+
+0.0 0.5 1.0 1.5 2.0 2.5 3.0
+-0.08
+
+-0.04
+
+0.00
+
+0.04
+
+0.08
+
+C
+ur
+
+re
+nt
+
+ d
+en
+
+si
+ty
+
+ 
+A
+
+ g
+-1
+
+Voltage (V)
+
+PMC4/1-C
+
+RMC4/1-M
+
+RMC4/1-C
+
+PMC4/1-M
+
+(c)
+
+(
+)
+
+Fig. 2. EIS of MC electrodes in different electrolytes: (a) 1 M Et4NBF4/PC; (b) 6 M KOH aqueo
+rate: (c) 2 mV s�1; (d) 100 mV s�1.
+
+Table 1
+The pore structure parameters of MCs, PPC0-C and RPC0-C in different yields.
+
+MC samples Dave (nm) SBET
+(m2 ge1)
+
+Vt
+(cm3 ge1)
+
+Vmic
+(cm3 ge1)
+
+Vmes/Vt
+(%)
+
+Yield
+(%)
+
+PMC4/1-M 4.52 1552 1.75 0.02 98.9 37.7
+PMC4/1-C 3.39 1634 1.39 0.25 82.0 38.9
+RMC4/1-M 5.13 1527 1.96 0.02 99.0 32.4
+RMC4/1-C 3.46 1565 1.35 0.20 85.2 30.0
+PPC0-C 2.11 294 0.15 0.12 20.0 28.7
+RPC0-C 1.95 216 0.11 0.09 18.2 27.7
+
+Dave, average pore diameter; SBET, BET specific surface area; Vt, total pore volume;
+Vmic, micropore volume; Vmes, mesopore volume.
+
+X. He et al. / Journal of Power Sources 240 (2013) 109e113 111
+and 2.0e30 nm, showing that the well-developed mesopores are
+present. For PPC0-C and RPC0-C, the pore size centers at 0.7e0.8 and
+1.0e1.2 nm, which are formed in the pyrolysis step of peanut shell
+or rice husk. The SBET or yield of PPC0-C and RPC0-C is smaller than
+that of PMC4/1-C and RMC4/1-C, illustrating that ZnCl2 has activated
+the dehydration of peanut shell or rice husk, the degradation of the
+carbon-containing structures, the charring and aromatization of
+the carbon skeleton, leading to the creation and formation of more
+porous structure in MCs. In a word, ZnCl2 has two functions, i.e.
+good receptor of microwave energy and chemical activation agent
+in the microwave-assisted heating. The PMC4/1-C and RMC4/1-C was
+made at a heating rate of 5 Kmin�1, while for PMC4/1-M and RMC4/1-
+M, the average heating rate was 41.1 K min
+
+�1 and 36.9 K min�1,
+respectively. Obviously, due to the high heating rate in the case of
+40 60 80
+
+0 5 10 15 20
+0
+
+2
+
+4
+
+6
+
+8
+
+-M
+RMC4/1-C
+PMC4/1-M
+PMC4/1-C
+
+Z' (Ohm)
+
+RMC4/1-M RMC4/1-C
+PMC4/1-M PMC4/1-C
+
+' (Ohm)
+
+1.5 2.0 2.5
+
+RMC4/1-M
+RMC4/1-C
+PMC4/1-M
+PMC4/1-C
+
+' (Ohm)
+
+0.0 0.5 1.0 1.5 2.0 2.5 3.0
+
+-2
+
+-1
+
+0
+
+1
+
+2
+
+Voltage (V)
+
+RMC4/1-C
+
+PMC4/1-C
+
+RMC4/1-M
+PMC4/1-M
+
+(d)
+
+C
+ur
+
+re
+nt
+
+ d
+en
+
+si
+ty
+
+ 
+A
+
+ g
+-1
+
+(
+)
+
+us solution; CV curves of MC electrodes in 1 M Et4NBF4/PC electrolyte at different scan
+
+
+
+0 5 10 15 20
+40
+
+80
+
+120
+
+160
+
+200
+
+240
+
+S
+pe
+
+ci
+fic
+
+ c
+ap
+
+ac
+ita
+
+nc
+e 
+
+(F
+ g
+
+-1
+)
+
+Current density (A g-1)
+
+ RMC4/1-M
+ RMC4/1-C
+ PMC4/1-M
+ PMC4/1-C
+
+(a)
+
+10 100 1000 10000
+
+4
+
+10
+
+16
+
+22
+
+28
+
+10.0
+20.0
+
+5.0
+
+2.0
+
+1.6
+
+0.8
+
+0.4
+0.2
+
+0.10.05
+
+3.0 A g-1
+
+3.0
+1.2
+
+0.8
+0.40.2
+
+0.1
+
+6 M KOH
+
+1 M Et
+4
+NBF
+
+4
+/PC
+
+ RMC4/1-M
+ RMC4/1-C
+ PMC4/1-M
+ PMC4/1-C
+
+E
+ne
+
+rg
+y 
+
+de
+ns
+
+ity
+ (W
+
+h 
+kg
+
+-1
+)
+
+Average power density (W kg-1)
+
+0.05
+
+(b)
+
+Fig. 3. (a) Specific capacitance of MCs vs. current density in 6 M KOH electrolyte; (b)
+Energy density of MC capacitors vs. average power density.
+
+X. He et al. / Journal of Power Sources 240 (2013) 109e113112
+the microwave heating, the pore size of PMC4/1-M and RMC4/1-M is
+bigger than that of PMC4/1-C and RMC4/1-C in both cases.
+
+Fig. 2(a) and (b) are the EIS of MC electrodes in 1 M Et4NBF4/PC
+electrolyte and in 6 M KOH aqueous electrolyte, respectively. All of
+the MC electrodes have bigger contact resistance in 1 M Et4NBF4/PC
+electrolyte than in 6 M KOH aqueous electrolyte. At the high-
+medium frequency, the MC electrodes show a depressed semi-
+circle. The smaller the diameter of the semicircle, the lower the
+charge transfer resistance. The smallest charge transfer resistance
+in RMC4/1-M is due to its biggest mesopore size. At the lower fre-
+quency range, the curve of RMC4/1-M electrode is nearly vertical to
+the Z1 axis, showing that the improved capacitance behavior of
+RMC4/1-M is due to its highest mesopore ratio as high as 99.0%.
+
+Fig. 2(c) is the CV curves of MC electrodes at 2 mV s�1 scan rate.
+The symmetric rectangular shapes of the CV curves imply a quick
+ion diffusion and good charge propagation in all of the MC elec-
+trodes at lower scan rate. Fig. 2(d) is the CV curves of MC electrodes
+at 100 mV s�1 scan rate. It can be seen clearly that even at a high
+scan rate of 100 mV s�1, an excellent symmetric rectangular shape
+for the CV curves of the MC electrodes can be kept. In comparison
+with the RMC4/1-M and PMC4/1-M samples, a large deviation from
+the rectangular shape is observed in the case of the RMC4/1-C and
+PMC4/1-C electrodes due to the limitation in charge transfer pro-
+cesses at higher scan rate that possibly results from the narrow
+micropores in theMCsmade by the conventional way. Compared to
+the RMC4/1-C and PMC4/1-C samples, the areas of CV curve of RMC4/1-
+M and PMC4/1-M samples are bigger owing to the combining effect of
+the bigger Dave and Vmes percentage as well as their smaller resis-
+tance. The specific capacitance of the RMC4/1-C and RMC4/1-M in 1 M
+Et4NBF4/PC electrolyte decreases from 99 F g
+
+�1 to 79 F g�1 and from
+94 F g�1 to 78 F g�1 with the discharge current density from
+0.05 A g�1 to 3.0 A g�1 (a current density increase by a factor of 60),
+respectively. This is comparable with the carbon that has a specific
+capacitance in a range of 80 F g�1e90 F g�1 in organic electrolyte
+[11]. The chargeedischarge rate of MCs in 1 M Et4NBF4/PC elec-
+trolyte at higher discharge current density of 5e20 A g�1 is so quick
+that a few data during the discharge process can be recorded by the
+latest SCTS tester. Hence, the specific capacitance of MCs in 1 M
+Et4NBF4/PC electrolyte at higher discharge current density of 5e
+20 A g�1 is not discussed in detail.
+
+As for the 6 M KOH electrolyte, the variation of specific capaci-
+tance ofMCswith the current density is shown in Fig. 3(a). It is found
+that the capacitance of RMC4/1-C electrode drops from 245 F g
+
+�1 to
+68 F g�1 as the current density increases from 0.05 A g�1 to 20 A g�1.
+The capacitance retention of RMC4/1-C electrode is 27.8% while for
+RMC4/1-M and PMC4/1-M, it is 31.2% and 56.1% because of the syner-
+gistic effect of the bigger Dave, Vmes percentage and the smaller
+resistance of MC electrode materials made by microwave heating.
+
+The variation of the energy density of theMC capacitors with the
+average power density is shown in Fig. 3(b). It is found that the
+energy density of PMC4/1-C capacitor in 6 KOH electrolyte drops
+from 6.18 Wh kg�1 to 0.83 Wh kg�1 with the increase of current
+density from 0.05 A g�1 to 20 A g�1 while for the PMC4/1-M capac-
+itor, it drops from 6.68Wh kg�1 to 1.10Wh kg�1. The energy density
+retention of PMC4/1-C capacitor is 13.4% while for the PMC4/1-M
+capacitor, it is 16.5%. For the 1 M Et4NBF4/PC electrolyte at higher
+discharge current density, the energy densities of the super-
+capacitors made of MCs by microwave-assisted heating are higher
+than the supercapacitorsmade ofMCs by conventional heating. This
+is obviously due to the bigger Dave of the MCs made by microwave-
+assisted heating. The energy density of the RMC4/1-M capacitor in
+1 M Et4NBF4/PC electrolyte drops from 23.4 Wh kg
+
+�1 to
+10.4Wh kg�1 with an energy density retention of 44.4%. The energy
+density of the PMC4/1-M capacitor reaches 26.6Wh kg
+
+�1 at a current
+density of 0.05 A g�1. The retention of the energy density of the
+RMC4/1-C, PMC4/1-C and PMC4/1-M capacitor is 22.5%, 26.6% and
+30.5%, respectively. At higher current density, the energy retention
+for the MCs made by microwave heating is higher than the MCs
+made by the conventional heating, showing a better rate perfor-
+mance. The average power density of the RMC4/1-M capacitor in-
+creases from 68 to 2894 W kg�1 as the current density increases.
+The energy density of the PMC4/1-M capacitor remains at
+19.3 Wh kg�1 at a power density of 1007 W kg�1. The energy
+density of the asymmetric supercapacitor reaches 17.8 Wh kg�1 at
+400 W kg�1 [12], and 15.0 Wh kg�1 at 1000 W kg�1 [13], respec-
+tively. An energy density of 3.5 Wh kg�1 at 1958 W kg�1 was once
+reported with hierarchical porous carbons as the electrode mate-
+rials for supercapacitors [14]. The energy density of the MC capac-
+itors in 1 M Et4NBF4/PC electrolyte is obviously higher than that of
+the MC capacitors in 6 M KOH aqueous electrolyte, which increases
+by 2.5e3.4 times. This is also the case for the average power density.
+For the MC capacitors in 1 M Et4NBF4/PC organic electrolyte, it in-
+creases by 1.6e2.8 times than in 6 M KOH aqueous electrolyte. The
+results reported here have shown that the MCs with high perfor-
+mance for supercapacitors can be made from peanut shell and rice
+husk by microwave-assisted one-step ZnCl2 activation.
+4. Conclusions
+
+The MCs for supercapacitors have been made both from the
+peanut shell and the rice husk by microwave-assisted one-step
+ZnCl2 activation. At higher current density in 1 M Et4NBF4/PC
+electrolyte, the MCs made by the microwave heating show both
+higher energy and higher power density than the MCs made by the
+
+
+
+X. He et al. / Journal of Power Sources 240 (2013) 109e113 113
+conventional heating because of bigger average pore size and
+unique mesopore structure in the MCs made by the microwave-
+assisted technique. The energy density of the PMC4/1-M capacitor
+reaches 19.3 Wh kg�1 at a power density of 1007 W kg�1. The re-
+sults have evidenced that the microwave-assisted ZnCl2 activation
+technique is an efficient approach to the production of biomass-
+derived MCs for supercapacitors with high performance.
+
+
+

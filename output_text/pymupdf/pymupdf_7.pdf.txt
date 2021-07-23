@@ -1,0 +1,752 @@
+Effect of activation time on the properties of activated carbons
+prepared by microwave-assisted activation for electric double
+layer capacitors
+Xiaojun He a,*, Yejing Geng a, Jieshan Qiu b,*, Mingdong Zheng a, Suan Long a,
+Xiaoyong Zhang a
+a School of Chemistry and Chemical Engineering, Anhui Key Lab of Coal Clean Conversion and Utilization,
+Anhui University of Technology, Ma’anshan 243002, China
+b Carbon Research Laboratory, State Key Lab of Fine Chemicals, School of Chemical Engineering, Dalian University of Technology,
+158 Zhongshan Road, P.O. Box 49, Dalian 116012, China
+A R T I C L E
+I N F O
+Article history:
+Received 17 November 2009
+Accepted 12 January 2010
+Available online 15 January 2010
+A B S T R A C T
+Activated carbons (ACs) were prepared by microwave-assisted heat treatment of petroleum
+coke with KOH as activation agent, and characterized by infrared spectroscopy and nitro-
+gen adsorption technique with the aim of studying the effect of activation time on the
+properties of ACs for electrodes in electric double layer capacitors (EDLCs). The electro-
+chemical properties of AC electrodes in EDLCs were studied by cyclic voltammetry, con-
+stant current charge–discharge and electrochemical impedance spectroscopy. The results
+show that the speciﬁc surface area (SBET) and total pore volume of ACs goes through a max-
+imum as the activation time increases. At 35 min of the activation time, the as-made AC
+(denoted as AC-35) has a SBET of 2312 m2/g. With AC-35 as the electrode, its speciﬁc capac-
+itance in EDLC at a current density of 50 mA/g can reach 342.8 F/g, and remains at 245.6 F/g
+even after 800 cycles while the energy density of the capacitor remains at 8.0 Wh/kg. The
+results have demonstrated that the microwave-assisted heat treatment is an efﬁcient
+approach to the preparation of ACs with high performance for EDLCs.
+� 2010 Elsevier Ltd. All rights reserved.
+1.
+Introduction
+The electric double layer capacitor (EDLC) is a new energy
+storage device with high power density and long lifetime that
+is better than traditional batteries [1], and has been used in
+many ﬁelds such as mobile communication and electric vehi-
+cles. EDLCs are based on electrochemical charge accommoda-
+tion at the electric double layer and the occurrence of Faradic
+reactions [2–6], of which the performance depends on the
+electrode materials to a great degree. Activated carbons
+(ACs) have been widely used as the EDLC electrode materials
+because of its unique physicochemical properties, good con-
+ductivity and low cost [3], which can be prepared from differ-
+ent carbon sources by heat treatment and activation [7–11]. To
+date, microwave-assisted heat treatment method has drawn
+much attention because of its fast and uniform heating capa-
+bility, which makes it possible to make ACs with high surface
+area and well-developed porous structure, at the same time,
+to consume less energy compared with the conventional heat
+treatment methods. For ACs, their speciﬁc capacitance is usu-
+ally proportional to their speciﬁc surface area. The ideal ACs
+for EDLC electrodes are required to have a high surface area
+and an optimal pore size distribution that are important to
+high speciﬁc capacitance of EDLCs [12]. Here we report on
+0008-6223/$ - see front matter � 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.carbon.2010.01.016
+* Corresponding authors: Fax: +86 555 2311822 (X. He), fax: +86 411 39893991 (J. Qiu).
+E-mail addresses: xjhe@ahut.edu.cn (X. He), jqiu@dlut.edu.cn (J. Qiu).
+C A R B O N 4 8 ( 2 0 1 0 ) 1 6 6 2 –1 6 6 9
+available at www.sciencedirect.com
+journal homepage: www.elsevier.com/locate/carbon
+microwave-assisted KOH activation of petroleum coke for
+preparing ACs with high performance for EDLCs. The effect
+of activation time on AC properties has been systematically
+studied in terms of the EDLC performance.
+2.
+Experimental
+2.1.
+Preparation and characterization of ACs
+Petroleum coke (<74 lm in particle size) from Daqing oil ﬁeld
+of China was used as raw material to prepare ACs, of which
+the proximate analysis and elemental analysis data are
+shown in Table 1. Mad is the water content in petroleum coke
+on the air dry basis, Ad is the ash content in petroleum coke
+on the dry basis, and Vdaf is the content of volatile matter in
+petroleum coke on dry and ash free basis.
+For each run, the petroleum coke was ﬁrst mixed with KOH
+in a weight ratio of 1:5. The mixture was dried under vacuum
+at 80 �C for 2 h to remove water, and then put in a corundum
+crucible with a lid in which there was a small gas hole. The
+crucible was surrounded by a cylindric Al2O3 ﬁber composite,
+and heated in a LWMC-205-type microwave oven with an out-
+put power of 250 W. The temperature of the sample in the cru-
+cible was monitored by a thermal couple. The as-made ACs
+were washed with deionized water till the pH of the washing
+solution reached ca. 7, then dried at 120 �C for 2 h under vac-
+uum before use.
+The as-made ACs were characterized by Fourier transform
+infrared spectrometry (FT-IR), and N2 adsorption technique.
+Before the liquid N2 adsorption at 77 K, the ACs were degassed
+at 250 �C in ﬂowing N2 for 4 h under vacuum. For the as-made
+ACs, the speciﬁc surface area was calculated using the BET
+equation, the pore size distribution was determined by BJH
+method, and the micropore size distribution was determined
+by micropore analysis method and t-plot method, while the
+total pore volume was assumed to be the liquid volume of ad-
+sorbed N2 at a relative pressure of 0.99.
+2.2.
+Preparation of AC electrode
+The EDLC electrodes were made of ACs, carbon black (CB) and
+poly(tetraﬂuoroethylene) (PTFE), in which AC was the base
+material, and CB with a speciﬁc surface area of 550 m2/g (Ca-
+bot-Corp., China) functioned as a conducting material. For a
+typical run, the AC, CB and PTFE were mixed in a weight ratio
+of 89:5:6, the mixture was pressed onto a foam nickel with a
+size of 1.5 · 1.5 cm (the nickel foam functions as the current
+collector), yielding electrodes with a height of ca. 0.6 mm
+and with an active mass of ca. 120 mg. Before the EDLC test,
+the electrodes were dried at 120 �C for 2 h under vacuum.
+2.3.
+Electrochemical measurements of AC electrodes
+The as-made AC electrodes were tested using cyclic voltam-
+metry and electrochemical impedance spectroscopy (EIS) in
+an electrochemical workstation (CHI-760C, China). The test
+cell was made of two electrodes, and tested in 6 M KOH and
+LiOH mixture solution at a KOH/LiOH weight ratio of 50:1 with
+a symmetrical cell conﬁguration. Before the test, the cell was
+soaked in the KOH/LiOH mixture solution for 1 h under vac-
+uum. The capacitance behavior of AC electrodes was exam-
+ined at a constant current discharge mode (LAND, CT-
+2001A). The tests of the electrodes include stabilization at a
+current density of 50 mA/g for 15 cycles under constant cur-
+rent charge–discharge conditions, discharge at different cur-
+rent density (20, 50, 100, 200 and 300 mA/g), and charge–
+discharge at different current density (50, 100 and 200 mA/g)
+as well as multi-cycle charge–discharge at a current density
+of 50 mA/g.
+3.
+Results and discussion
+3.1.
+FT-IR analysis
+Fig. 1 is the FT-IR spectra of ACs made in different activation
+time, showing that there is not much difference in the surface
+properties of the as-made ACs. The peak at 3440 cm�1 is due
+to the –O–H stretching vibration, and the band at 2925 cm�1 is
+due to the –C–H stretching. The peak at 1633 cm�1 is the char-
+acteristic of –C@O stretching vibration of carbonyl groups
+[13,14]. The peak at 1384 cm�1 is due to the –C–H stretching
+vibration [15]. The band at 1117 cm�1 is due to the –C–O
+stretching vibration. The weak peaks at 620 and 2297 cm�1
+are difﬁcult to assign though they are mentioned in the liter-
+ature [16]. It should be noted that the peak intensity of –C@O
+at 1633 cm�1 or –C–O at 1117 cm�1 for AC-31 sample is higher
+than other samples, implying that the intensity of oxygen-
+containing functional groups in the as-made ACs can be
+tuned to some degree by changing the activation time.
+3.2.
+Pore structure characterization
+The N2 adsorption–desorption isotherms of ACs made in dif-
+ferent activation time are shown in Fig. 2, showing that all
+of the as-made ACs are microporous materials, evidenced
+by the Type I isotherms. No obvious hysteresis loop can be
+seen in the adsorption–desorption isotherms for all of the
+as-made AC samples. When the relative pressure (P/P0) is be-
+low 0.1, N2 adsorption increases quickly for all of the as-made
+ACs. In the case of AC-35 sample, this trend continues till the
+relative pressure reaches 0.2. The adsorption at lower pres-
+Table 1 – The proximate analysis and elemental analysis of petroleum coke.
+Sample
+Proximate analysis (wt.%)
+Elemental analysis (daf, wt.%)
+Mad
+Ad
+Vdaf
+C
+H
+S
+N
+Oa
+Petroleum coke
+1.20
+0.21
+12.49
+90.30
+4.26
+0.81
+1.79
+2.84
+a By difference.
+C A R B O N 4 8 ( 2 0 1 0 ) 1 6 6 2 – 1 6 6 9
+1663
+sure is indicative of micropore structure. The pore structure
+parameters of ACs are summarized in Table 2.
+Table 2 shows that for the as-made ACs, the SBET, Vt, Vmic
+and Vmes+mac goes through a maximum as the activation time
+increases from 27 to 37 min, respectively. For AC-35, its SBET is
+2312 m2/g and its Vt is 1.13 cm3/g, which is the highest among
+the four AC samples. For all of the as-made ACs, their Vmic/Vt
+ratio is in a range of 90.7–94.6%, further evidencing that the
+as-made ACs are microporous. This demonstrates that micro-
+wave-assisted heat activation can lead to ACs with high sur-
+face area and large pore volume. This is also evidenced by
+other reports about the microwave-assisted preparation of
+ACs from different types of carbon sources [9,11].
+Fig. 3 shows the variation of the activation temperature
+with the microwave heating time. It can be seen from Fig. 3
+that the activation temperature reaches 800 �C in 30 min,
+and then levels off at 800 �C due to the limited output power
+of the microwave oven used for the heat treatment. During
+the activation step, the average heating rate is ca. 26.7 �C/
+min. The quick rise in the temperature due to the microwave
+heating makes it possible for the coke to be quickly yet efﬁ-
+ciently activated by reaction with KOH [17]. The chemical
+reactions between carbons and KOH have been explained in
+the literature [18]. Zhang et al. [19] once reported on the pro-
+duction of oxygen-rich ACs from coal by KOH activation at
+700 �C with a heating rate of 20 �C/min, yielding an AC with
+SBET of 1950 m2/g and Vt of 1.10 cm3/g.
+The effect of activation time on the pore volume of ACs is
+shown in Fig. 4, showing that as the activation time increases,
+the AC pore volume goes through a maximum at 35 min. For
+the AC-35 sample, its micropore size varies in a range of 0.7–
+1.1 nm.
+3.3.
+Electrochemical characterizations
+3.3.1.
+Cyclic voltammetry behavior of AC electrodes
+Fig. 5 is the cyclic voltammetry curves of AC electrodes ob-
+tained at a scan rate of 2 mV/s in 6 M KOH and LiOH aqueous
+solution, showing that all sweep curves are symmetric on the
+positive and negative sweeps, and the current at 0 V for elec-
+trodes made of different ACs are different from each other.
+The electrode made of AC-35 is the best among the four ACs
+tested, evidenced by the high current and the almost ideal
+standard rectangle. This is in good agreement with the large
+SBET, Vmic and Vt of the AC-35 sample discussed above. With
+the increase of the activation time from 27 to 35 min, the cyc-
+lic voltammetry shape of AC electrodes becomes ideal square
+cyclic voltammograms, indicating that the electric conductiv-
+ity properties of AC are greatly improved. However, the cur-
+rent of AC-37 electrodes decreases after the activation time
+further increase to 37 min, as shown in Fig. 5, implying that
+the electric conductivity properties of AC-37 electrode be-
+come poor. Obviously, the electric conductivity of AC-35 is
+the best among the four AC electrodes tested. This phenome-
+non will be further discussed in Section 3.3.2. Rectangular
+cyclic voltammetry shape of AC-35 electrodes implies a quick
+dynamics and good charge propagation of AC-35 sample.
+3.3.2.
+Charge–discharge behavior of AC electrodes
+Constant current charge–discharge is conducted to mea-
+sure the speciﬁc capacitance of AC electrodes. Fig. 6 is the lin-
+0
+1000
+2000
+3000
+4000
+5000
+Transmittance (a.u.)
+Wavenumber (cm
+-1)
+AC-27
+AC-31
+AC-35
+AC-37
+-C-H
+-O-H
+-C-H
+-C-O -C=O
+Fig. 1 – FT-IR spectra of ACs made by microwave-assisted
+activation in different activation time.
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+200
+300
+400
+500
+600
+700
+Volume (cm
+3/g)
+Relative pressure
+AC-35
+AC-31
+AC-37
+AC-27
+Fig. 2 – N2 adsorption–desorption isotherms of ACs made by
+microwave-assisted activation in different time.
+Table 2 – Pore structure parameters of ACs.
+Sample
+SBET (m2/g)
+Vt (cm3/g)
+Vmic (cm3/g)
+Vmes+mac (cm3/g)
+Vmic/Vt (%)
+Vmes+mac/Vt (%)
+AC-27
+792
+0.40
+0.37
+0.03
+93.5
+7.5
+AC-31
+1121
+0.56
+0.53
+0.03
+94.6
+5.4
+AC-35
+2312
+1.13
+1.05
+0.08
+92.9
+7.1
+AC-37
+1053
+0.54
+0.49
+0.05
+90.7
+9.3
+SBET, BET surface area; Vmic, volume of micropore (<2 nm); Vmes+mac, volume of mesopore and macropore; Vt, total pore volume.
+1664
+C A R B O N 4 8 ( 2 0 1 0 ) 1 6 6 2 –1 6 6 9
+ear voltage–time dependence of AC-35 and AC-37 electrodes,
+showing that the AC electrodes have the typical capacitive
+behavior and good charge–discharge reversibility, which is
+consistent with the cyclic voltammetry behavior of AC elec-
+trodes shown in Fig. 5. The speciﬁc capacitance of the elec-
+trode in EDLC can be calculated from the slope of the
+discharge curve [20,21]. The speciﬁc capacitance of AC elec-
+trodes measured at a current density of 100 mA/g after 17
+times of discharge goes through a maximum with the in-
+crease of activation time, which is 125.4 F/g for AC-27,
+251.6 F/g for AC-31, 287.8 F/g for AC-35 and 270.3 F/g for AC-
+37, respectively. It is known that for the EDLCs, their speciﬁc
+capacitance is governed by the accessibility of aqueous solu-
+tions to the micropores in ACs. In other words, the microp-
+ores in ACs that N2 molecules can enter at 77 K would
+function as space for the electro-adsorption of hydrated ions
+in EDLCs [22,23]. In principle, the pores larger than 0.5 nm are
+electrochemically accessible for aqueous solutions. In our
+case, the high capacitance of AC-35 electrode (e.g. 287.8 F/g
+for AC-35) in KOH and LiOH solutions is in proportion to its
+large Vt (1.13 cm3/g) and SBET (2312 m2/g) measured by the
+N2 adsorption. In general, speciﬁc capacitance of AC electrode
+increases with surface area [24].
+The equivalent series resistance (ESR) of AC electrode at
+the discharge beginning can be calculated according to the
+discharge curve [25]. The ESR of AC electrodes measured at
+a current density of 100 mA/g after 17 times of discharge goes
+through a minimum with the increase of activation time,
+which is 24.4 Ω for AC-27, 19.4 Ω for AC-31, 1.2 Ω for AC-35
+and 6.8 Ω for AC-37, respectively. In other words, the electric
+conductivity properties of AC electrode go through a maxi-
+mum with the increase of activation time. These results are
+in good agreement with the rectangular cyclic voltammetry
+shape of AC-35 electrodes in Fig. 5. The effect of cycle number
+on the speciﬁc capacitance and ESR of AC-35 electrode at a
+current density of 50 mA/g is shown in Fig. 7(a) and (b).
+Fig. 7(a) shows that the speciﬁc capacitance of AC-35 elec-
+trode decreases from 342.8 to 273.9 F/g after 100 cycles, and
+then levels off at about 245.6 F/g with a capacitance retention
+ratio of 71.6% after 800 cycles. The high speciﬁc capacitance
+of AC-35 in KOH and LiOH solutions is also partly due to the
+presence of LiOH in the KOH electrolyte. Varma and Rempe
+[26] reported that the Li+ and K+ ions would strongly coordi-
+nate with water molecules in aqueous solutions. For K+ ions,
+the hydration number is 6, and for Li+, the hydration number
+26
+28
+30
+32
+34
+36
+38
+-0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+Volume (cm
+3/g)
+Activation time (min)
+ 0.7-0.8 nm 
+ 0.8-0.9 nm
+ 0.9-1.0 nm 
+ 1.0-1.1 nm
+ 1.1-1.2 nm 
+ 1.2-1.3 nm
+ 1.4-1.5 nm 
+ 1.5-1.6 nm
+Fig. 4 – Effect of activation time on the pore volume of ACs
+with different pore size.
+0
+6
+12
+18
+24
+30
+36
+0
+200
+400
+600
+800
+1000
+Temperature (
+oC)
+Time (min)
+Fig. 3 – The temperature variation of the sample with the
+microwave heating time.
+0
+300
+600
+900
+1200
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Potential (V)
+Time (sec)
+AC-37
+AC-35
+Fig. 6 – Charge–discharge curves of AC electrodes at a
+current density of 100 mA/g.
+-0.6
+-0.3
+0.0
+0.3
+0.6
+-0.02
+-0.01
+0.00
+0.01
+0.02
+Scan rate: 2 mV/s
+Current (A)
+Potential (V)
+AC-37
+AC-35
+AC-31
+AC-27
+Fig. 5 – Cyclic voltammetry curves of different AC electrodes.
+C A R B O N 4 8 ( 2 0 1 0 ) 1 6 6 2 – 1 6 6 9
+1665
+is 4; this is because the radius of K+ ion is bigger than that of
+Li+ ion in aqueous solutions. The Li+ ions with smaller hydra-
+tion number in LiOH electrolyte can move faster, and can
+reach smaller pores in AC electrode than the K+ ions. This is
+one of the reasons why better electrochemical performance
+is observed in LiOH and KOH mixture electrolyte.
+Fig. 7(b) shows that the ESR of AC-35 electrode does not
+change much as the cycle number increases. Before 100 cy-
+cles, the ESR of AC-35 electrode is ca. 1.0 Ω, and then increases
+slowly and reaches 2.7 Ω after 800 cycles. This implies that
+after repeated uses, the capacitors with AC as electrodes will
+inevitably lose some capacitance, at the same time, the resis-
+tance will increase to some degree [27].
+For EDLCs made of AC-35 and AC-37, the energy density is
+plotted against the power density of the capacitors, as shown
+in Fig. 8(a). The energy density of capacitors is calculated
+according to Eq. (1) [28].
+E ¼ 1
+2 CV2
+ð1Þ
+where C is the capacitance of the two-electrode capacitor (F),
+V is the voltage decrease or the usable voltage (V) excluding
+the IR drop occurring at the discharge beginning [23,29].
+The power density is calculated according to Eq. (2).
+P ¼ VI
+m
+ð2Þ
+where I is the discharge current (mA) and m is the active mass
+in the two-electrode capacitor (g).
+It can be seen from Fig. 8(a) that the energy density of AC-
+35 capacitor is consistently higher than the AC-37 capacitor,
+and as the power density increases, the drop of energy den-
+sity for AC-35 capacitor is smaller than the AC-37 capacitor.
+For the AC-35 capacitor, the retention ratio of energy density
+is as high as 83.9% while in the case of AC-37 capacitor, it is
+only 54.7%. The energy density of AC-35 capacitor remains
+high at higher power density. This can be ascribed to the large
+micropore volume (1.05 cm3/g, AC-35) for energy storage [30],
+and the presence of some mesopore and macropore volume
+(0.08 cm3/g, AC-35) for ion transport, i.e. mesopores and
+0
+200
+400
+600
+800
+0
+80
+160
+240
+320
+400
+Specific capacitance (F/g)
+Cycle number (n)
+(a)
+0
+200
+400
+600
+800
+0
+2
+4
+6
+8
+Cycle number (n)
+ESR (Ohm)
+(b)
+Fig. 7 – Effect of cycle number on speciﬁc capacitance of AC-35 electrode (a) and ESR of AC-35 electrode (b).
+0.0
+0.1
+0.2
+0.3
+0
+3
+6
+9
+12
+Energy density (Wh/kg)
+Power density (kW/kg)
+ AC-35
+ AC-37
+(a)
+0
+200
+400
+600
+800
+1000
+0
+3
+6
+9
+12
+Energy density (Wh/kg)
+Cycle number (n)
+ AC-35 before heat treatment
+ AC-35 after 800
+oC heat treatment
+(b)
+Fig. 8 – (a) Energy density vs. power density of capacitors made of AC-35 and AC-37, (b) energy density vs. cycle number of
+capacitors made of AC-35 before and after heat treatment.
+1666
+C A R B O N 4 8 ( 2 0 1 0 ) 1 6 6 2 –1 6 6 9
+macropores in ACs are helpful for the fast transportation of
+ions during the charge–discharge process.
+The variation of the energy density of AC-35 capacitor with
+the cycle number is shown in Fig. 8(b). For comparison, AC-35
+was heated at 800 �C for 1 h under vacuum with an aim of
+understanding the effect of heat treatment on the EDLC en-
+ergy density and stability. Fig. 8(b) shows that the energy den-
+sity of AC-35 capacitor drops from 11.6 to 9.3 Wh/kg after 100
+cycles with an energy retention ratio of 80.2%, then further
+decreases but slowly, and remains at 8.0 Wh/kg after 800 cy-
+cles with an energy retention ratio of 68.8%. For the capacitor
+made of AC-35 heated at 800 �C, the energy density drops
+from 5.0 to 3.9 Wh/kg after 800 cycles with an energy reten-
+tion ratio of 78.0% that is about 10% higher than the untreated
+AC-35. This implies that the heat treatment can help improve
+the stability of AC capacitor to some degree but with some
+loss in energy density.
+3.3.3.
+EIS of AC electrode
+The impedance spectra of different AC electrodes are
+shown in Fig. 9, in which the inset is the equivalent circuit
+model of AC electrodes that is used to explain the character-
+istics of EIS. The equivalent circuit model reveals that the
+whole capacitor circuit is constituted by Rs, W, Rct, C and Q,
+here Rs is the sum of the contact resistance and material
+resistance (electrode materials, electrolyte and separator); W
+is the Warburg resistance when the matter moves in solution,
+exhibiting a line when the slope is 1; Rct is the resistance for
+blocking ions from entering the pores of electrode materials,
+and for blocking the movement of ions in solution and sepa-
+rator; C and Q are capacitor layer formed in the charge–dis-
+charge process. It can be seen that in comparison with
+other AC electrodes, the AC-35 electrode has smaller value
+that crosses with the real axis at 0.47 Ω, indicating that AC-
+35 electrode has lower contact resistance and better conduc-
+tivity than other three electrodes. At lower frequency range,
+the curve for AC-35 is nearly vertical to the real axis, while
+for AC-27 and AC-31, a large slope in the curve can be seen,
+implies that it is difﬁcult for the ions in electrolyte to enter
+the pores of AC-27 and AC-31. In other words, the porous
+0
+1
+2
+3
+4
+5
+0
+1
+2
+3
+4
+5
+6
+Imaginary impedance (Ohm)
+Real impedance (Ohm)
+ AC-27
+ AC-31
+ AC-35
+ AC-37
+Fig. 9 – EIS and equivalent circuit model of AC electrodes.
+Table 3 – Parameters of the equivalent circuit for different AC electrodes.
+Electrode sample
+Rs (X/cm2)
+Rct (X/cm2)
+W(Y) (S/s0.5/cm2)
+C (F/cm2)
+Q(Y) (S/sn/cm2)
+n
+v2
+AC-27
+0.4780
+0.7750
+0.0156
+4.33
+1.038
+0.55
+1.27e-03
+AC-31
+0.4726
+0.7198
+0.0179
+11.06
+1.898
+0.57
+1.06e-03
+AC-35
+0.0550
+0.3446
+3.98E-19
+6.52
+3.538
+0.13
+1.25e-03
+AC-37
+0.4753
+0.1959
+0.0484
+7.59
+2.436
+0.57
+4.35e-04
+0.0
+0.4
+0.8
+1.2
+1.6
+2.0
+2.4
+0.0
+0.4
+0.8
+1.2
+1.6
+2.0
+2.4
+Imaginary impedance (Ohm)
+Real impedance (Ohm)
+ ZMsd
+ ZCalc
+(a)
+0.01
+0.1
+1
+10
+100
+1000
+10000
+0.01
+0.1
+1
+10
+Angle, Msd
+Angle, Calc
+ ZMsd
+ ZCalc
+Frequency (Hz)
+|Z| (Ohm)
+(b)
+0
+20
+40
+60
+80
+Angle (deg)
+Fig. 10 – (a) Nyquist plot of AC-35 electrodes; (b) Bode plot of AC-35 electrodes.
+C A R B O N 4 8 ( 2 0 1 0 ) 1 6 6 2 – 1 6 6 9
+1667
+structure of AC-35 provides a better channel for the move-
+ment of the ions.
+The impedance data of different AC electrodes simulated
+using ZSimpWin software are shown in Table 3. Double layer
+capacitance is expressed as constant phase angle element (Q),
+and n is the correction factor between 0 and 1. The square er-
+ror (v2) for different impedance spectra of AC electrodes is rel-
+atively
+small,
+ranging
+from
+4.35 · 10�4
+to
+1.25 · 10�3,
+evidencing that the equivalent circuit model adopted is cor-
+rect in the present study. Table 3 also shows that the contact
+resistance (Rs) for AC-35 is the smallest among the tested AC
+electrodes, indicating the conductivity of AC-35 is the best.
+For the AC-35 electrode, the W and Rct are also smaller than
+that of AC-27 and AC-31, implying that the ion transport resis-
+tance in the case of AC-35 is smaller.
+Fig. 10(a) is Nyquist plot and Fig. 10(b) is the Bode plot of
+AC-35 electrodes, in which both the measured (Msd.) and cal-
+culated (Calc.) EIS data using ZSimpWin software according to
+the equivalent circuit model in Fig. 9 are shown. It can be
+clearly seen from Fig. 10(a) that the measured and calculated
+EIS data for AC-35 electrode are in good agreement. Fig. 10(b)
+shows that the phase angle is 70� (the ideal one should be 90�)
+at lower frequency limitation, further evidencing the good
+capacitive property of AC-35 electrodes.
+4.
+Conclusions
+High performance ACs for EDLCs are prepared by microwave-
+assisted activation of petroleum coke with KOH as activating
+agent. The inﬂuence of activation time on AC properties has
+been addressed in terms of the pore structure and electro-
+chemical properties of the ACs. It has been found that the SBET
+and the Vt of ACs goes through a maximum as the activation
+time increases, of which the SBET is 2312 m2/g for AC-35 made
+in 35 min of activation time. The speciﬁc capacitance of AC-35
+electrode at a current density of 50 mA/g is 342.8 F/g, and
+remains at 245.6 F/g even after 800 cycles with an energy
+density of the capacitor being at 8.0 Wh/kg. The results dem-
+onstrate that microwave-assisted activation technique is of
+potential to make ACs with high performance in EDLCs be-
+cause of its high efﬁciency, less time and low energy
+consumption.
+Acknowledgements
+This work is partly supported by the NSFC (Nos. 50802002,
+20836002 and 20725619), Natural Science Foundation of Anhui
+Province (KJ2008A120 and 2008JQ1026ZD), and Foundation of
+Provincial Innovative Group for Processing and Clean Utiliza-
+tion of Coal Resource.
+

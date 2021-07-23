@@ -1,0 +1,355 @@
+                                                                Journal of Power Sources 196 (2011) 580–586
+
+
+
+                                                               Contents lists available at ScienceDirect
+
+
+                                                             Journal of Power Sources
+                                             journal homepage: www.elsevier.com/locate/jpowsour
+
+
+
+
+Adjustment of electrodes potential window in an asymmetric carbon/MnO2
+supercapacitor
+L. Demarconnay, E. Raymundo-Piñero, F. Béguin ∗
+Centre de Recherche sur la Matière Divisée (CRMD), CNRS-Université, 1b Rue de la Férollerie, 45071 Orléans Cedex, France
+
+
+
+
+a r t i c l e        i n f o                            a b s t r a c t
+
+Article history:                                        The electrodes mass ratio of MnO2 /activated carbon supercapacitors has been varied in order to monitor
+Received 27 March 2010                                  its inﬂuence on the potential window of both electrodes and consequently to optimize the operating
+Received in revised form 8 May 2010                     voltage. It appeared that the theoretical mass ratio (R = 2), calculated considering an equivalent charge
+Accepted 2 June 2010
+                                                        passed across both electrodes, is underestimated. It was demonstrated that R values of 2.5–3 are better
+Available online 9 June 2010
+                                                        adapted for this system; the extreme potential reached for each electrode is close to the stability limits
+                                                        of the electrolyte and active material, allowing a maximum voltage to be reached. During galvanostatic
+Keywords:
+                                                        cycling up to 2 V, the best performance was obtained with R = 2.5. The speciﬁc capacitance increased
+Asymmetric supercapacitor
+Electrode mass ratio
+                                                        from 100 to 113 F g−1 during the ﬁrst 2000 cycles, then decayed up to 6000 cycles and ﬁnally stabilized
+Activated carbon                                        at 100 F g−1 . SEM images of the manganese based electrode after various numbers of thousands cycles
+Manganese oxide                                         exhibited dramatic morphological modiﬁcations. The later are suspected to be due to Mn(IV) oxidation
+Cycle life                                              and dissolution at high potential values. Hence, the evolution of speciﬁc capacitance during cycling of
+Neutral electrolyte                                     the asymmetric capacitor is ascribed to structural changes at the positive electrode.
+                                                                                                                           © 2010 Elsevier B.V. All rights reserved.
+
+
+
+
+1. Introduction                                                                            a promising way to increase voltage in aqueous electrolyte. For
+                                                                                           the negative electrode, the material of choice is activated carbon
+   Electrochemical capacitors are of great interest for energy man-                        (AC) [5,6] because of its low cost, good polarizability, high speciﬁc
+agement, being able to deliver a very high power in a short time.                          surface area and pore diameter adaptable to the size of ions.
+However, for broadening the spectrum of their applications, the                            Moreover, the presence of heteroatoms (N, O, or P) allows the
+energy density (E):                                                                        speciﬁc capacitance to be enhanced owing to pseudofaradic charge
+                                                                                           transfer reactions [1,5,7–11]. In the case of the positive electrode,
+     1
+E=     CU 2 ,                                                                    (1)       battery-like metal oxide (operating at constant potential during
+     2
+                                                                                           charging and discharging) is the ﬁrst electrode material which
+(C: capacitance and U: cell voltage) has to be improved [1,2]. The                         has been investigated. A voltage of 1.6 V is reached with AC as
+cell voltage depends on the stability window of the electrolyte; the                       negative electrode and a battery-like material as positive electrode
+highest values are obtained with non-aqueous electrolytes, reach-                          in alkaline medium; however, this system displays a short cycle
+ing 2.7 V in industrial systems [3]. However, such media are quite                         life and a low power density [12,13]. Another possibility is to use
+expensive, ecologically unfriendly and require cell construction in                        a Li–intercalation positive electrode with a lithiated electrolyte
+air-free atmosphere. For aqueous electrolytes, the theoretical sta-                        [14–16]. Even if the capacitance and operating voltage (1.4–1.8 V)
+bility window is 1.23 V and is practically around 1 V for symmetric                        seem quite interesting, these supercapacitors exhibit a poor cycle
+capacitors with carbon electrodes [4]. Although the capacitance val-                       life. Conducting polymers have been also used as positive electrode
+ues are higher and the equivalent series resistance (ESR) is lower                         in acidic medium [17]. An asymmetric polyaniline/activated carbon
+in such electrolyte in comparison to the organic medium, the cell                          cell exhibits a high speciﬁc capacitance (more than 300 F g−1 ) but
+voltage is too low and should be improved in view of potential                             a small voltage, whereas the PEDOT/activated carbon system can
+applications.                                                                              operate up to 1.8 V with a lower speciﬁc capacitance of 120 F g−1
+    Lately, asymmetric cells coupling electrodes operating                                 [17]. Nevertheless, the use of conducting polymers as positive
+reversibly in different potential range have been presented as                             electrode is limited by the low stability of the materials [18].
+                                                                                               Metal oxides presenting a potential swing during
+                                                                                           charge/discharge were widely investigated, the most popular
+ ∗ Corresponding author. Tel.: +33 2 38 25 53 75; fax: +33 2 38 63 37 96.                  being ruthenium oxide with capacitance values up to 700 F g−1
+   E-mail address: beguin@cnrs-orleans.fr (F. Béguin).                                     [19]. In a recent work coupling a ruthenium oxide positive elec-
+
+0378-7753/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jpowsour.2010.06.013
+
+
+                                            L. Demarconnay et al. / Journal of Power Sources 196 (2011) 580–586                                        581
+
+
+trode and a modiﬁed activated carbon negative electrode (modiﬁed                Table 1
+                                                                                Speciﬁc surface area and pore volume data of AC.
+by anthraquinone grafting for enhancing the pseudo-capacitive
+character) [20] in acidic medium, the cell voltage reaches 1.3 V and              SBET (m2 g−1 )   Vultramicro (CO2 )   Vmicro (N2 )   Vmeso
+the speciﬁc capacitance 95 F g−1 . Beside the moderate performance                                 d <0.7 nm            d< 2 nm        2 < d < 50 nm
+                                                                                                   (cm3 g−1 )           (cm3 g−1 )     (cm3 g−1 )
+of this system, the high cost of ruthenium oxide precludes further
+developments. Therefore, cheap transition metal oxides such as                    2244             0.83                 0.79           0.45
+manganese oxide [21–25], iron oxide [26] and vanadium oxide
+[27] have been extensively investigated as positive electrode
+in supercapacitors. Among the three oxides, V2 O5 exhibits the                  differential functional theory (NL-DFT) equation. X-ray photoelec-
+highest speciﬁc capacitance, but a quick capacitance decay during               tron spectra (XPS) were recorded on the powder with a VG ESCALAB
+cycling [28]. The asymmetric supercapacitors equipped with                      250 spectrometer using an Al K␣ monochromatic source (15 kV,
+Fe3 O4 and MnO2 positive electrodes can operate up to 1.8 and 2 V,              15 mA) and a multidetection analyzer, under 10−8 Pa residual pres-
+respectively [21,22]. Taking into account that manganese oxide                  sure.
+demonstrates a higher capacitance than iron oxide [28], it seems                    A paste was prepared by mixing the AC (80%), acetylene
+to be the most adapted oxide for the positive electrode of an                   black (Pure Black, Superior Graphite Co., USA, 10%) and PTFE
+asymmetric supercapacitor in aqueous medium.                                    (10%) binder. A composite of amorphous manganese oxide (a-
+    In order to optimize the voltage of an asymmetric                           MnO2 ·nH2 O) with carbon nanotubes (CNTs, 15 wt%) was prepared
+MnO2 /activated carbon supercapacitor, Khomenko et al. [21]                     by adding Mn(OAc)2 ·4H2 O to a suspension of CNTs (Baytubes,
+have studied the pH inﬂuence in the range 6.4–10, and found                     Bayer, Germany) in aqueous KMnO4 , according to reference [31].
+the largest theoretical cell voltage (2.1 V) at pH ≈ 6.4. A practical           The mixture was stirred during 6 h at ambient temperature; the
+voltage of 2 V has been validated in 0.1 mol L−1 K2 SO4 (pH ≈ 7) by             precipitated a-MnO2 ·nH2 O/CNT composite was ﬁltered and thor-
+galvanostatic charge/discharge cycling (195,000 cycles, with 12.5%              oughly washed several times with distilled water, and ﬁnally
+capacitance fade [22]). The speciﬁc capacitance of MnO2 seems                   dried at 120 ◦ C overnight. A paste was prepared by mixing the
+to be essentially controlled by the coating thickness. For thick                composite (90 wt%) and PTFE (10 wt%). Both pastes of AC and a-
+ﬁlms (≈100 ␮m), the capacitance value is only 150 F g−1 , whereas               MnO2 ·nH2 O/CNT composite were rolled up in order to obtain ﬁlms.
+it reaches 1380 F g−1 for thin ﬁlms (<5 ␮m), which is close to the              Electrodes were prepared by punching pellets (1 cm diameter) in
+theoretical value (1370 F g−1 ) [29]. Recently it has also been shown           the AC and MnO2 /CNT composite based pastes. Masses were com-
+that higher capacitance values (≈250 F g−1 ) can be obtained for                prised between 5–8 mg and 12–16 mg for the AC and MnO2 /CNT
+spinel like manganese oxide even for thick ﬁlms (≈200 ␮m) [30].                 electrodes, respectively.
+    This contribution aims at optimizing the operating conditions                   The electrodes were pressed and wetted in deaerated
+of an asymmetric MnO2 /AC supercapacitor at pH = 6.4, e.g., in                  0.5 mol L−1 Na2 SO4 before building the cells. Two-electrode cells
+0.5 mol L−1 Na2 SO4 . A MnO2 /carbon nanotube (CNT) composite                   were assembled using a Teﬂon Swagelok® construction with gold
+[31] and a commercially available activated carbon were chosen                  current collectors and glassy ﬁbrous separator. A special two-
+as active materials for the positive and negative electrode, respec-            electrode cell equipped with a Hg/Hg2 SO4 reference electrode
+tively. In order to take advantage of the largest voltage window,               (SME) was also used in order to determine the potential window
+the mass ratio (R) between the positive and the negative electrode              of each electrode during cycling the supercapacitor. For three-
+has been adjusted taking into account formula (2) which expresses               electrode cell experiments, the auxiliary electrode was a graphite
+that the same charge is passed through both electrodes [21,22]:                 rod and SME was the reference electrode. The two-electrode cells
+                                                                                were built with deaerated 0.5 mol L−1 Na2 SO4 , while the electrolyte
+     m+   C− × E−                                                              was not deaerated when the SME reference was used. All potentials
+R=      =                                                             (2)
+     m−   C+ × E+                                                              are further expressed versus the normal hydrogen electrode (NHE).
+where m+ and m− are the mass, C+ and C− the speciﬁc capaci-                     A VMP2 (Biologic, France) multichannel potentiostat/galvanostat
+tance, and E+ and E− the potential window for the positive and                was used for cyclic voltammetry at a scan rate of 2 mV s−1 and
+negative electrodes, respectively. Then, the performance of asym-               galvanostatic charge/discharge cycling.
+metric cells was evaluated by varying R close to the value calculated               Surface morphology was analysed by scanning electron
+according to Eq. (2). Thanks to an asymmetric cell equipped with a              microscopy (SEM) (Hitachi S4500) on fresh MnO2 /CNT compos-
+reference electrode, the potential range of each electrode during               ite electrodes and on electrodes aged in a supercapacitor during
+cycling of the supercapacitor could be determined. Finally, gal-                various periods of time.
+vanostatic charge/discharge cycling was carried out to validate the
+optimized mass ratio for an asymmetric supercapacitor working at                3. Results and discussion
+2 V.
+                                                                                   The nitrogen adsorption isotherm of the activated carbon (AC)
+2. Experimental                                                                 (Fig. 1a) is characteristic of a microporous material with some
+                                                                                amount of mesopores favourable for ions transportation [5]. The
+   A high purity commercial activated carbon (AC, MWV-E510A                     data extracted from this isotherm demonstrate a well-developed
+from MeadWestvaco, USA) was used for negative electrode. The                    porosity (Table 1). Fig. 1b shows a broad distribution of micropores
+porous texture of the activated carbon was analysed by nitrogen                 size, with pores ranging from ultramicropores to supermicropores.
+and CO2 adsorption at 77 and 273 K, respectively (Autosorb-                     Beside carbon, oxygen (2.4 at%) was the only element detected by
+1, Quantachrome Instruments). Before the analysis, the sample                   XPS on the surface of AC.
+was degassed (Flo Vac Degasser, Quantachrome Instruments)                          Fig. 2 presents the cyclic voltammograms (CV) of AC in non-
+overnight at 200 ◦ C. The speciﬁc surface area was calculated from              deaerated 0.5 mol L−1 Na2 SO4 for different values of negative
+the N2 adsorption isotherm by applying the BET equation. The                    potential cut-off, from −0.36 to −1.06 V vs. NHE. The vertical line
+micropore volume was calculated from the application of the                     at −0.377 V vs. NHE corresponds to the equilibrium potential for
+Dubinin–Radushkevich equation to the adsorption data up to P/P0                 water reduction in 0.5 mol L−1 Na2 SO4 (pH = 6.4). For the smallest
+≤0.015 for N2 and P/P0 < 0.1 for CO2 . Pore size distribution has been          potential window, the voltammogram exhibits a quasi rectangular
+obtained from the N2 adsorption data by applying the non-linear                 shape, characteristic of a pure capacitive electrode, conﬁrming that
+
+
+582                                                  L. Demarconnay et al. / Journal of Power Sources 196 (2011) 580–586
+
+
+
+
+                                                 Fig. 1. N2 adsorption isotherm (a) and DFT pore size distribution (b) of AC.
+
+
+the amount of oxygenated surface groups is low. When the negative                         about −0.96 V vs. NHE. In this electrolyte, the over-potential for
+potential cut-off decreases, few reduction humps appear at −0.2,                          hydrogen evolution is around 0.6 V with AC, whereas an activated
+−0.6 and −0.85 V vs. NHE, respectively, during the negative poten-                        carbon with a speciﬁc surface area of 1390 m2 g−1 and an oxygen
+tial sweep, while an oxidation wave centred at around 0.55 V vs.                          amount of ≈2.5 at% demonstrated over-potentials close to 0.35 and
+NHE is observed during the positive potential scan. It must be noted                      0.1 V in 3 mol L−1 KOH and 3 mol L−1 H2 SO4 electrolytes, respec-
+that the amplitude of the oxidation peak increases when the neg-                          tively [34].
+ative potential cut-off reaches lower values and that the hump at                             Fig. 3 presents the CVs recorded for AC and for the MnO2 /CNT
+−0.2 V vs. NHE is only observable for the two curves with the lowest                      composite in their maximum stability window for the considered
+negative potential cut-off. Since the experiment was carried out in                       electrolyte, e.g., 0.5 mol L−1 Na2 SO4 . As already explained in lit-
+non-deaerated medium, hydrogen peroxide species can be formed                             erature, the CV characteristics of the MnO2 /CNT composite are
+at low potentials and may oxidize the carbon surface [32,33]. By                          essentially related to reversible pseudo-faradic transitions involv-
+contrast, if CV was recorded in a deaerated medium, such peaks did                        ing ions exchange with the electrolyte [29]. It clearly appears that
+not appear. Therefore, the reduction hump at −0.2 V vs. NHE, e.g., at                     the two materials reversibly operate in a different potential range.
+higher potential than −0.377 V vs. NHE is attributed to the activity                      In other words, by implementing them in an asymmetric super-
+of oxidized species formed during surface oxidation by hydrogen                           capacitor, one can expect to extend the voltage window by an
+peroxide. The redox peaks located at lower values than the poten-                         appropriate equilibration of electrodes mass.
+tial for water reduction, e.g., −0.6 and −0.85 V vs. NHE, respectively,                       Considering the MnO2 /CNT composite, the potential window
+can be ascribed to the reversible storage of nascent hydrogen at                          is limited by Mn(IV) to Mn(VII) oxidation for the highest limit (at
+the surface of the activated carbon [2,34]. During the operation of                       1.19 V vs. NHE) and Mn(IV) to Mn(II) reduction for the lowest limit
+a supercapacitor, these pseudofaradic contributions may enhance                           (at 0.47 V vs. NHE) [35], which implies a maximum theoretical win-
+the speciﬁc capacitance of the AC electrode, and the reversibility of                     dow of 0.72 V for the positive electrode (EMnO2 ) of the asymmetric
+the process remains high as long as di-hydrogen is not produced.                          supercapacitor [21]. According to Fig. 3, the lowest limit for avoid-
+The current leap appearing at potential values lower than −1 V vs.                        ing di-hydrogen production at the negative AC electrode should
+NHE is ascribed to the formation of di-hydrogen at the surface of                         be around −0.96 V vs. NHE. All limits are presented on this ﬁgure
+the electrode. Consequently, the lowest potential limit for a super-                      by full vertical lines, and EAC and EMnO2 represent the theo-
+capacitor negative electrode based on AC in 0.5 mol L−1 Na2 SO4 is                        retical potential variations that both electrodes should undergo,
+
+
+
+
+Fig. 2. 3-Electrode cyclic voltammograms of AC in 0.5 mol L−1 Na2 SO4 at ﬁve differ-      Fig. 3. Comparative 3-electrode cyclic voltammograms of AC and MnO2 /CNT com-
+ent negative cut-off potential; scan rate 2 mV s−1 .                                      posite in 0.5 mol L−1 Na2 SO4 ; scan rate 2 mV s−1 .
+
+
+                                                    L. Demarconnay et al. / Journal of Power Sources 196 (2011) 580–586                                                 583
+
+
+
+
+Fig. 4. Potential extrema reached by each electrode during the galvanostatic cycling (200 mA g−1 ) of a 2-electrode cell (equipped with a reference electrode) from 0 V up
+to different voltage values. Mass ratio of 2 (a), 2.5 (b) or 3 (c) in 0.5 mol L−1 Na2 SO4 ; scan rate 2 mV s−1 . The horizontal lines show the maximum and minimum potential
+established in Fig. 3 for the positive and negative electrode, respectively.
+
+
+respectively, in an asymmetric system. The speciﬁc capacitance,                         classical double layer capacitance of AC, leading to a higher spe-
+estimated from the CVs (Fig. 3) is 178 and 179 F g−1 for the AC and                     ciﬁc capacitance value of 190 F g−1 at the negative electrode. Due
+MnO2 /CNT composite electrodes, respectively. Then, according to                        to these two features and according to Eq. (2), the theoretical R = 2
+Eq. (2), the theoretical R between the positive MnO2 and negative                       is underestimated.
+AC electrodes is around 2.                                                                  Fig. 4(b) and (c) present the extreme potential of the electrodes
+    Electrochemical investigations were carried out with an elec-                       vs. voltage for mass ratios of 2.5 and 3, respectively. By comparison
+trode mass ratio R = 2 and using a two-electrode cell where a                           with Fig. 4(a), it is now clear that the maximum acceptable potential
+reference electrode was added; in such a way, the operating poten-                      for the MnO2 /CNT electrode is reached for a higher voltage, while
+tial of each electrode and E0 V , corresponding to the electrodes                       the minimum potential of the AC electrode is extended towards
+potential when the cell voltage is 0, could be determined as function                   more negative values. Both mass ratios seem better adapted for this
+of voltage. Fig. 4(a) presents the extreme potential reached by both                    system and may allow cell voltages of 2 V or more to be reached.
+electrodes when the cell is galvanostatically cycled from 0 V (E0 V )                       Fig. 5 shows cyclic voltammograms up to various voltage values
+up to different voltage values. For a voltage of 2 V, the E0 V value                    for asymmetric two-electrode cells with mass ratios of 2.5 (a) or 3
+is around 0.65 V vs. NHE, which is higher than the expected value                       (b) in deaerated 0.5 mol L−1 Na2 SO4 . For low voltage windows, the
+of 0.47 V vs. NHE from Fig. 3. Consequently, the operating window                       CVs exhibit a rectangular shape, characteristic of an ideal capacitive
+of the MnO2 /CNT positive electrode is noticeably diminished, and                       behaviour. At higher voltage windows, an increase of capacitance
+its maximum potential in Fig. 4(a) reaches the positive limit for                       is observed at high voltage and a wave appears during the negative
+Mn(IV) oxidation at a voltage of 1.7 V which is lower than the value                    sweep around 0.5 V. As shown in Fig. 4(b) and (c), at voltage higher
+of 2–2.1 V expected from three-electrode cell investigations (Fig. 3).                  than 1.45 V, the potential of the negative electrode becomes lower
+Considering Fig. 3, it is also interesting to note that the E0 V value                  than the thermodynamic limit for water reduction (−0.377 V vs.
+(0.65 V vs. NHE) is higher than the oxidation potential of hydrogen.                    NHE) and hydrogen is stored. Therefore, the current leap above
+For this reason, a pseudo-capacitive contribution is added to the                       U = 1.7 V in Fig. 5 and the associated peak at 0.4–0.5 V during the
+
+
+
+
+      Fig. 5. Cyclic voltammograms of asymmetric MnO2 /AC supercapacitors in deaerated 0.5 mol L−1 Na2 SO4 with mass ratios of 2.5 (a) or 3 (b); scan rate 2 mV s−1 .
+
+
+584                                                    L. Demarconnay et al. / Journal of Power Sources 196 (2011) 580–586
+
+
+
+
+Fig. 6. Galvanostatic charge–discharge characteristics of asymmetric cells at a current density of 200 mA g−1 (total mass of both electrodes) in deaerated 0.5 mol L−1 Na2 SO4
+for mass ratios of 2.5 (a) or 3 (b).
+
+
+negative scan are essentially due to hydrogen storage in AC and its                        imum voltage higher than ≈1.9–2.1 V are essentially attributed to
+reversible oxidation [34], respectively. However, the redox features                       the onset of the Mn(IV) → Mn(VII) transformation at the positive
+are more pronounced for the capacitor built with R = 2.5 (Fig. 5).                         electrode. These effects occur at lower voltage for the cell with
+Since the maximum potential of the positive electrode is higher in                         R = 2.5 because the potential of the positive electrode is shifted to
+Fig. 4(b) than in (c), partial oxidation of Mn(IV) into Mn(VII) and                        slightly higher values. From the data shown in Fig. 7, the high-
+the subsequent reversible reduction may contribute to the more                             est voltage values are 2 and 2.2 V for the cells with R = 2.5 and 3,
+pronounced redox humps for R = 2.5 in Fig. 5(a).                                           respectively.
+    Fig. 6 presents the galvanostatic charge–discharge characteris-                            In order to evaluate the cycle life of the asymmetric systems,
+tics obtained for asymmetric supercapacitors built with R = 2.5 or                         cells built with R = 2.5 and 3 were charged/discharged galvanos-
+3. For a maximum voltage lower than 1.7 V, the curves are close to                         tatically at 1 A g−1 (Fig. 8). A deaerated electrolyte was used to
+an isosceles triangle which is characteristic of an ideal capacitive                       improve the stability of the supercapacitors during cycling [22]. For
+behaviour with a good coulombic efﬁciency. When the maximum                                R = 2.5 and U = 2 V, capacitance ﬁrst increases, further decreases and
+voltage increases, the shape of the curves is modiﬁed due to the                           reaches stabilization; the initial capacitance is close to 100 F g−1 ,
+redox processes linked with hydrogen storage and change of man-                            then reaches more than 120 F g−1 after 1700 cycles and decreases
+ganese oxidation state.                                                                    to stabilize around the initial value of 100 F g−1 after 6000 cycles.
+    From these results, the coulombic efﬁciency  was determined                           For R = 3 and U = 2 V, the trend is comparable with smaller values.
+according to Eq. (3):                                                                      Keeping R = 3 and increasing the maximum voltage to 2.1 V leads
+      qd                                                                                   to a dramatic degradation of the performance (Fig. 8). Although a
+=       ,                                                                         (3)     good coulombic efﬁciency was observed up to 2.2 V for this ratio
+      qc
+                                                                                           (Fig. 7), Fig. 8 demonstrates that monitoring the cycle life is the
+where qd and qc are the total discharge and charge capacity of the                         only way for validating a system and its operating parameters. In
+cell, respectively. The speciﬁc capacitance CS was also determined                         conclusion, R = 2.5 and a maximum voltage U = 2 V are the optimal
+according to Eq. (4):                                                                      conditions for the asymmetric cells based on AC and MnO2 /CNT
+       4C                                                                                  composite. Under these conditions, the energy density determined
+CS =      ,                                                                        (4)     according to Eq. (1) reaches 13.9 Wh kg−1 of total electrode mate-
+       m
+                                                                                           rials, that is slightly higher than the value determined by Brousse
+where C is the capacitance of the cell and m the total mass of the
+                                                                                           et al. (11.7 Wh kg−1 ) [22].
+two electrodes. The voltage dependence of speciﬁc capacitance (per
+                                                                                               To the best of our knowledge, such trend in speciﬁc capacitance
+total mass of electrodes material) and of coulombic efﬁciency is
+                                                                                           variation has not been observed previously during the galvanostatic
+presented in Fig. 7 for asymmetric cells with R = 2.5 and 3 in deaer-
+                                                                                           cycling of MnO2 /AC cells. Since the evolution is more pronounced
+ated 0.5 mol L−1 Na2 SO4 . According to Fig. 4, the fast increase of
+capacitance together with the coulombic efﬁciency decay for max-
+
+
+
+
+                                                                                           Fig. 8. Evolution of speciﬁc discharge capacitance (per total mass of electrodes)
+Fig. 7. Coulombic efﬁciency and speciﬁc discharge capacitance (per total mass of           during galvanostatic cycling (1 A g−1 : mass of both electrodes) of AC/MnO2 cells in
+electrodes material) of asymmetric cells in deaerated 0.5 mol L−1 Na2 SO4 (current         deaerated 0.5 mol L−1 Na2 SO4 . Inﬂuence of the electrodes mass ratio and maximum
+density of 200 mA g−1 ). Electrodes mass ratio of 2.5 (full lines) or 3 (dotted lines).    voltage.
+
+
+                                                   L. Demarconnay et al. / Journal of Power Sources 196 (2011) 580–586                                               585
+
+
+
+
+Fig. 9. SEM images of positive MnO2 /CNT composite electrodes after different numbers of galvanostatic (1 A g−1 ) charge/discharge cycles of asymmetric MnO2 /AC superca-
+pacitors with R = 2.5. (a) Fresh electrode; (b) 2000 cycles up to 2 V; (c) 4000 cycles up to 2 V; (d) 6000 cycles up to 2 V; (e) 10,000 cycles up to 1.6 V.
+
+
+for higher operating voltage, it is probably related with the fact                     cycles (Fig. 9(c)), the needles are better deﬁned due to a diameter
+that the electrodes potential reach values beyond the limits shown                     increase; the slow capacitance decay in Fig. 8 can be interpreted by
+in Fig. 4. According to this ﬁgure, it seems that the MnO2 /CNT                        a decrease of speciﬁc surface area. For a higher number of cycles,
+composite electrode reaches the limit before the AC electrode.                         the MnO2 /CNT electrode remained glued to the gold current collec-
+Electrode rearrangements due to oxide dissolution and precipita-                       tor, which indicates another electrode transformation. After 6000
+tion could be at the origin of the particular evolution of speciﬁc                     cycles, a petal-like morphology is observed (Fig. 9(d)). From the
+capacitance during cycling. Therefore, post-mortem SEM charac-                         forward, these morphological transformations are due to MnO2 dis-
+terizations were performed on MnO2 /CNT composite electrodes                           solution/precipitation when the potential of the positive electrode
+after different numbers of galvanostatic (1 A g−1 ) charge/discharge                   is high enough for allowing MnO2 to be oxidized into Mn(VII).
+cycles up to 2 V on asymmetric cells built with R = 2.5 (Fig. 9). In                       In order to support this interpretation, an asymmetric superca-
+Fig. 9(a) the fresh electrode presents a compact cauliﬂower surface                    pacitor with R = 2.5 was cycled up to U = 1.6 V. After 10,000 cycles,
+morphology. After 2000 cycles (Fig. 9(b)), the morphology is slightly                  the surface morphology of the positive electrode is still compact
+modiﬁed and small needle-like particles are observed at the surface                    (Fig. 9(e)) and not very different from the fresh electrode. Dur-
+of the cauliﬂower structure. In parallel to the modiﬁcation to this                    ing cycling, the speciﬁc capacitance of the cell increases, reaching
+less compact structure, the speciﬁc capacitance increases (Fig. 8)                     88 F g−1 after 3500 cycles and remains stable (Fig. 8). Hence, these
+probably because of an increase of speciﬁc surface area. After 4000                    results conﬁrm that the speciﬁc capacitance variations at U ≥ 2 V
+
+
+586                                              L. Demarconnay et al. / Journal of Power Sources 196 (2011) 580–586
+
+
+must be attributed to structural modiﬁcations of the positive elec-                   [2] F. Béguin, E. Frackowiak, Carbon for Electrochemical Energy Storage and Con-
+trode which occur when its potential reaches values allowing                              version Systems, CRC Press, Taylor & Francis Group, New York, 2010, pp.
+                                                                                          329–375, Chap. 8.
+Mn(IV) to be oxidized.                                                                
+                                                                                      [4] V. Ruiz, R. Santamaria, M. Granda, C. Blanco, Electrochim. Acta 54 (2009)
+
+                                                                                      [5] E. Frackowiak, F. Béguin, Carbon 39 (2001) 937–950.
+                                                                                      [6] E. Frackowiak, Phys. Chem. Chem. Phys. 9 (2007) 1774–1785.
+    We demonstrated that the performance of an asymmetric                             
+MnO2 /AC supercapacitor operating in 0.5 mol L−1 Na2 SO4 can be                           Acta 51 (2005) 2209–2214.
+                                                                                      [8] D. Hulicova, J. Yamashita, Y. Soneda, H. Hatori, M. Kodama, Chem. Mater. 17
+improved by optimizing the mass ratio between the positive and                            (2005) 1241–1247.
+negative electrode. Based on the equivalence of charge passed                         Parra, F. Béguin, Adv. Funct.
+through both electrodes and assuming that E0 V is linked to the                           Mater. 17 (2007) 1828–1836.
+                                                                                     [10] E. Raymundo-Piñero, F. Leroux, F. Béguin, Adv. Mater. 18 (2006) 1877–1882.
+Mn(IV) → Mn(II) reduction, a theoretical mass ratio R = 2 was esti-  Suarez-Garcia, J.M. Tas-
+mated. In practice, with R = 2, the E0 V determined in a MnO2 /AC                         con, G.Q. Lu, J. Am. Chem. Soc. 131 (2009) 5026–5027.
+cell with an added reference electrode is higher than the estimated                                                                              1,156,500 (2001).
+value. Consequently, the mass ratio calculated by this assump-
+                                                                                     [13] D.W. Wang, F. Li, H.M. Cheng, J. Power Sources 185 (2008) 1563–1568.
+tion was underestimated. In this work, the best performance was                      [14] Y.G. Wang, Y.Y. Xia, Electrochem. Commun. 7 (2005) 1138–1142.
+obtained with R = 2.5 and U = 2 V, allowing the extremum potential                   [15] Y.J. Hao, Y.Y. Wang, Q.Y. Lai, Y. Zhao, L.M. Chen, X.Y. Ji, J. Solid State Electrochem.
+values for both electrodes to be close to the acceptable stability                        13 (2009) 905–912.
+                                                                                     [16] Y. Zhao, X. Xu, Q. Lai, Y. Hao, L. Wang, Z. Lin, J. Solid State Electrochem. 14 (2010)
+values.                                                                                   1509–1513.
+    This work also revealed the necessity of long-term galvanos-                     [17] E. Frackowiak, V. Khomenko, K. Jurewicz, K. Lota, F. Béguin, J. Power Sources
+tatic charge/discharge cycling for validating a system. Although                          153 (2006) 413–418.
+                                                                                     [18] V. Khomenko, E. Raymundo-Piñero, E. Frackowiak, F. Béguin, Appl. Phys. A 82
+U = 2.2 V seemed to be reachable from short time experiments,                             (2006) 567–573.
+galvanostatic cycling revealed that the maximum voltage for this                     [19] P. Soudan, J. Gaudet, D. Guay, D. Bélanger, R. Schulz, Chem. Mater. 14 (2002)
+system is 2 V. At this voltage, the morphological transformations                         1210–1215.
+                                                                                     [20] Z. Algharaibeh, X. Liu, P.G. Pickup, J. Power Sources 187 (2009) 640–643.
+
+                                                                                          F. Favier, D. Bélanger, P. Simon, J. Power Sources 173 (2007) 633–641.

@@ -1,0 +1,316 @@
+                                                                  Electrochimica Acta 55 (2010) 7021–7027
+
+
+
+                                                               Contents lists available at ScienceDirect
+
+
+                                                                  Electrochimica Acta
+                                             journal homepage: www.elsevier.com/locate/electacta
+
+
+
+
+Preparation and electrochemical performance of polyaniline-based carbon
+nanotubes as electrode material for supercapacitor
+Miaomiao Yang, Bin Cheng, Huaihe Song ∗ , Xiaohong Chen
+State Key Laboratory of Chemical Resource Engineering, Beijing University of Chemical Technology, Beijing 100029, PR China
+
+
+
+
+a r t i c l e        i n f o                            a b s t r a c t
+
+Article history:                                        Nitrogen-containing carbon nanotubes (CNTs) with open end and low speciﬁc surface area were prepared
+Received 3 May 2010                                     via the carbonization of polyaniline (PANI) nanotubes synthesized by a rapidly mixed reaction. On the
+Received in revised form 22 June 2010                   basis of analyzing the morphologies and structures of the original and carbonized PANI nanotubes, the
+Accepted 26 June 2010
+                                                        electrochemical properties of PANI-based CNTs obtained at different temperatures as electrode materials
+Available online 19 July 2010
+                                                        for supercapacitors using 30 wt.% aqueous solution of KOH as electrolyte were investigated by galvanos-
+                                                        tatic charge/discharge and cyclic voltammetry. It was found that the carbonized PANI nanotubes at 700 ◦ C
+Keywords:
+                                                        exhibit high speciﬁc capacitance of 163 F g−1 at a current density of 0.1 A g−1 and excellent rate capability
+Polyaniline
+Carbon nanotubes
+                                                        in KOH solution. Using X-ray photoelectron spectroscopy measurement the nitrogen state and content
+Electrochemical supercapacitor                          in PANI–CNTs were analysed, which could play important roles for the enhancement of electrochemical
+Nitrogen-doping                                         performance. When the appropriate content of nitrogen is present, the presence of pyrrole or pyridone
+Cyclic voltammetry                                      and quaternary nitrogen is beneﬁcial for the improvement of electron mobility and the wettability of
+                                                        electrode.
+                                                                                                                           © 2010 Elsevier Ltd. All rights reserved.
+
+
+
+1. Introduction                                                                            and a ration of the content of nitrogen seems to be a promising
+                                                                                           way to improve the performance of supercapacitors [12]. They also
+    Supercapacitor, which possesses high power density, high cycle                         investigated the nanotube-based composites being rich in nitrogen,
+efﬁciency and a long cycle life, has attracted more and more atten-                        and obtained the capacitances of 160, 120 and 55 F g−1 at 1 mHz,
+tion owing to its wide range of potential applications, such as                            1 and 10 Hz, respectively [6]. Kawaguchi et al. [13] reported a
+hybrid power sources for electric vehicles, digital telecommuni-                           nitrogen-containing carbonaceous material by pyrolysis of 2,3,6,7-
+cation systems and pulse laser technique [1]. According to the                             tetracyano-1,4,5,8-tetraazanaphthalene, and discussed the roles of
+mechanism of energy storage, supercapacitor can be divided into                            nitrogen for the improvement of speciﬁc capacitance. It is believed
+two types: one is the electric double-layer capacitor (EDLC), which                        that the presence of nitrogen changes the electron donor/acceptor
+stores energy through the separation of electronic and ionic charges                       properties of graphene layers, thus affects the formation of electric
+at the interface between electrode and an electrolyte solution.                            double-layers [14]. Simultaneously, the introduction of nitrogen
+The other is pseudocapacitor, which has Faradic reactions on the                           could produce a pseudo-capacitance besides the electric double-
+electrode materials [2]. Three types of electrode materials have                           layer capacitance, enhance the wettability in electrode-electrolyte
+been investigated for supercapacitor: carbon materials [1], metal                          interface, and then improve the capacitance of electrode [13].
+oxides, such as RuO2 and MnO2 [3] and conducting polymers, such                                Since the ﬁrst report on carbon nanotubes (CNTs) in 1991, CNTs
+as polyaniline, polythiophene and polypyrrole [3]. Carbon materi-                          are of great interest due to their nanometer size, electrical con-
+als are the most important and applicable electrode materials for                          ductivity and mechanical performance [15]. Because of the unique
+commercial supercapacitor because of their stability in different                          morphology, well-controlled nanostructure, surface functionality
+solutions, well processability and relatively low cost [4]. Other-                         and the cyclicity of the power supply, CNTs are regarded as suit-
+wise, it was found that nitrogen-rich carbon materials can also                            able materials for electrodes in supercapacitors and lithium-ion
+be used as electrode materials for supercapacitors [5–11]. Lota et                         batteries [15–17]. The capacitances of carbon nanotube electrodes
+al. prepared nitrogen-enriched porous carbons as electrodes by                             for supercapacitors are generally in the range of 40–80 F g−1 [18].
+pyrolyzing nitrogen-containing polymers and their blends with                              Because the value depends upon nanotubes’ components, mor-
+coal-tar pitch, and pointed out that combining a high surface area                         phologies, surfaces and pore structures, it can be enhanced by
+                                                                                           surface modiﬁcation or attaching functional groups [4,18]. Modify-
+                                                                                           ing these nanotubes by introducing heteroatoms, such as nitrogen,
+ ∗ Corresponding author. Tel.: +86 10 64434916; fax: +86 10 64434916.                      is a known application in electrochemistry [5–7]. Jurewicz et al. [7]
+   E-mail address: songhh@mail.buct.edu.cn (H. Song).                                      modiﬁed multi-walled carbon nanotubes containing nitrogen by
+
+0013-4686/$ – see front matter © 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.electacta.2010.06.077
+
+
+7022                                             M. Yang et al. / Electrochimica Acta 55 (2010) 7021–7027
+
+
+activation and ammoxidation, and found that the capacitances of                Hitachi H-800). The speciﬁc surface areas (SBET ) were obtained by
+modiﬁed nanotubes are less than 100 F g−1 .                                    Micromeritics ASAP 2020 Instrument from the adsorption data
+    Polyaniline (PANI) ranks the most potentially useful conducting            in the relative pressure interval from 0.04 to 0.2 P Po−1 using
+polymers because of its facile synthesis, environmental stability,             Brunauer–Emmett–Teller (BET) method. The elemental composi-
+and simple acid/base doping/dedoping chemistry [19]. PANI has                  tion (C, H and N) was determined using an elemental analyzer (Flash
+been considered as an important material for the application of                EA 1112). The chemical composition and state of samples were
+supercapacitor electrode [20–26]. The composite electrodes of car-             measured by X-ray photoelectron spectroscopy (XPS) under a pres-
+bon and PANI show a higher capacitance and a good rate capability.             sure lower than 10−7 Pa with a Thermo ESCALAB 250 instrument.
+Most signiﬁcantly, by controlling the synthesis conditions, PANIs              XPS spectra were recorded using monochromatic Al K␣ (1486.6 eV)
+with various shapes, such as nanowires, nanoﬁbers, nanotubes and               X-ray sources with 30 eV pass energy in 0.5 eV step over an area
+hollow spheres, have been produced [27–31]. Correspondingly car-               of 650 ␮m × 650 ␮m to the sample. Atomic concentrations were
+bon nanostructures with special morphologies are easily prepared               calculated using peak areas of elemental lines after Shirley back-
+from the PANI nanostructures by maintaining the original shapes                ground subtraction, and taking the sensitivity factors into account,
+of PANIs through high-temperature heat treatment in an inert gas               the asymmetry parameters, as well as the measured analyzer trans-
+atmosphere. Therefore we can get nitrogen-enriched carbon nano-                mission function. The sample charging was corrected using the C 1s
+materials from PANI nanostructures. From this point of view, PANIs             peak (284.6 eV) as an internal standard. The quantitative analysis
+with different morphologies can be considered as appropriate pre-              was performed with XPSPEAK4 software.
+cursors for carbon nanomaterials containing nitrogen, which are
+favourable for the electrochemical energy storage. The obvious way             2.4. Electrode assembly and measurement
+to link both types of materials is the conversion of conducting poly-
+mers into carbonaceous structures.                                                The electrochemical performances of prepared samples were
+    In this paper, we pay more emphasis on the preparation and                 measured with a three-electrode system that was described in
+electrochemical properties of nitrogen-containing CNTs from PANI               previous work of our group [20]. 80 wt.% of resulting samples,
+nanotubes. As well known, a certain content of nitrogen in car-                10 wt.% of polytetraﬂuoroethylene (PTFE) and 10 wt.% of acetylene
+bonaceous materials will enhance the capacitance of electrode                  black were mixed together to press into the graphite sheet as the
+materials [10,12,14]. The pyrolysis of PANI at high temperatures               working electrode for supercapacitor. The counter and reference
+is a simple method to prepare nitrogen-enriched carbon materi-                 electrodes were Platinum foil and Hg/HgO electrode, respectively.
+als. Although some papers have introduced the carbonization and                The electrolyte was 30 wt.% KOH aqueous solution. The capacitance
+structural conversion of polyaniline to carbon materials including             properties were studied by galvanostatic charge/discharge and
+carbon nanotubes [32–37], there is no report on the carbonized                 cyclic voltammetry (CV) tests. The galavanostatic charge/discharge
+PANI nanomaterial as electrode for supercapacitor by now.                      was carried out by a Program Testing System (produced by China-
+                                                                               Land Com. Ltd., China) with the voltage range from 0.9 to 0.01 V.
+2. Experimental                                                                The cyclic voltammetry was taken with a CHI660B electrochemical
+                                                                               working station. The sweep voltage ranged from −0.85 to 0.01 V in
+2.1. Synthesis of polyaniline nanotubes                                        cyclic voltam metric measurements.
+
+    PANI nanotubes have been prepared according to the previ-                  3. Results and discussion
+ous literatures [19,38,39]. The typical process was performed as
+follows: At ﬁrst, 3.423 g ammonium persulfate (Shantou Chem-                   3.1. Morphology and structure of polyaniline nanotubes and
+ical Factory, 98%) as the initiator and 1.09 ml aniline monomer                carbonized PANI nanotubes
+(Tianjin Chemical Reagent Factory, 99.5%) were dissolved in 60 ml
+de-ionized water, respectively. Then the initiator solution was                    The morphologies of pristine PANI were observed by SEM and
+poured into the monomer solution quickly with vigorous stirring,               TEM, and their images are shown in Fig. 1(a)–(d). As seen in Fig. 1,
+and maintained in a quiescent state at room temperature for 24 h               the prepared PANI is nanotube in morphology with rough surface,
+to get the precipitate. The resulting precipitate was centrifugated,           which is conﬁrmed by TEM observation. The length of PANI nan-
+washed and dried to obtain the desired PANI nanotubes.                         otubes is between 1 and 3 ␮m, and diameters range from 100 to
+                                                                               200 nm. PANI nanotubes cross each other, some inner paths are
+2.2. Carbonization of polyaniline nanotubes                                    joined together and each end of tubes is open. The wall thickness
+                                                                               of tubes is between 65 and 75 nm. The formation of PANI nan-
+    In the carbonization experiment, 1.0 g of PANI placed into an alu-         otubes has been analyzed in previous reports [31,39]. Brieﬂy, in
+mina crucible was carbonized in a horizontal furnace under pure                the primary stage, nano-sized oligomer crystallites were formed as
+nitrogen gas atmosphere according to the following heating proce-              starting template for the nucleation of PANI nanotubes. The fur-
+dure. The sample was ﬁrstly heated to 400 ◦ C with a heating rate of           ther growth of nanotubes depended on the self-organization of
+1 ◦ C min−1 , and maintained for 2 h at this temperature, and then it          phenazine units.
+was increased to the ultimate temperatures of 600, 700, 850, 1000                  In order to get nitrogen-containing carbon nanotubes, the pre-
+and 1100 ◦ C, respectively, with a heating rate of 0.5 ◦ C min−1 , and         pared PANI nanotubes were heated in N2 gas atmosphere at
+keeping for 2 h at the ﬁnal temperatures. The heated samples were              different temperatures from 600 to 1100 ◦ C. During the high-
+weighed and named as PANI-600, PANI-700, PANI-850, PANI-1000,                  temperature treatment, condensation and polymerization take
+and PANI-1100, respectively.                                                   place with the escape of hydrogen and nitrogen atoms, remaining
+                                                                               the carbon skeleton. With increasing temperature, the non-carbon
+2.3. Characterization of PANI and carbonized polyaniline                       atoms lost more, and the carbon skeleton would gradually shrink.
+nanotubes                                                                      Fig. 2 displays the morphologies of the heated PANI at different
+                                                                               temperatures. As seen in Fig. 2, the shape generally maintains well
+   The morphologies and structures of as-synthesized and car-                  after heat treatment and some carbon nanotubes are destroyed and
+bonized materials were observed by scanning electron microscope                broken into short tubes at higher temperature. The surface of the
+(SEM, Hitachi S-4700) and transmission electron microscope (TEM,               carbonized PANI becomes smooth relatively. The TEM images effec-
+
+
+                                                        M. Yang et al. / Electrochimica Acta 55 (2010) 7021–7027                                                      7023
+
+
+
+
+                                           Fig. 1. SEM (a and b) and TEM (c and d) images of pristine polyaniline nanotubes.
+
+
+tively conﬁrm the hollow tubular structure of the carbonized PANI.                      3.2. Chemical structure of PANI carbon nanotubes
+We can observe each end of tubes is open. The PANI-700 CNTs show
+the length of 1–2 ␮m and diameter of 150–170 nm, slightly smaller                         Elemental analysis and X-ray photoelectron spectroscopy (XPS)
+than that of the pristine PANI nanotubes.                                               were used to measure the elemental composition of carbonized
+
+
+
+
+       Fig. 2. SEM and TEM images of carbonized polyaniline nanotubes at different temperatures (SEM: (a) 600 ◦ C, (b) 700 ◦ C, and (c) 850 ◦ C; TEM: (d) 700 ◦ C).
+
+
+7024                                                     M. Yang et al. / Electrochimica Acta 55 (2010) 7021–7027
+
+Table 1
+The mass loss of PANI carbonized at different temperatures, the elemental composition and the atomic ratio obtained from XPS.
+
+ T (◦ C)             Element content from XPS (at.%)                      Mass loss (wt.%)              Elemental composition
+
+                     C                  N                O                Carbonization                 %C              %H                 %N               Difference
+
+  600                84.8               9.3              5.9              40.2                          82.45           2.21               13.23            2.11
+  700                87.2               7.4              5.4              46.7                          82.8            1.53               10.88            4.79
+  850                88.9               6.6              4.6              48.3                          89.06           1.17                7.95            1.82
+ 1000                92.4               3.1              4.5              50.1                           –              –                   –               –
+ 1100                93.6               3.1              3.2              52.9                           –              –                   –               –
+
+
+
+samples. All the data are presented in Table 1. Survery XPS spectra
+of carbonized samples at different temperatures are displayed in
+Fig. 3. The mass loss of carbonization in Table 1 is calculated based
+on the weight of previous and carbonized PANI. It can be found
+that with the temperature increasing from 600 to 1100 ◦ C, the mass
+loss increases correspondingly. According to the data of elemental
+analysis, we ﬁnd that there is a steady decrease in nitrogen and
+hydrogen contents, and an increase in carbon as the temperature
+increased, that is consistent with the previous report [32]. The dif-
+ference between the data of elemental analysis and XPS is caused
+by different test philosophy. However, the variation tendency of
+elemental content is the same, i.e., with the temperature increas-
+ing from 600 to 1100 ◦ C, the content of carbon goes up. It can be
+found that the content of oxygen is relatively low compared to that
+of C and N with the temperature increasing from 600 to 850 ◦ C. The
+result of above is consistent with elemental analysis.
+
+                                                                                       Fig. 4. The speciﬁc capacitances of carbonized PANI nanotubes via different heat
+3.3. Electrochemical properties of PANI-based carbon nanotubes
+                                                                                       treatment temperatures at various speciﬁc currents in KOH solution.
+
+   To investigate the electrochemical performance of carbonized
+PANI nanotubes as electrode material for supercapacitor, galavano-                     skeleton formed at the low temperature carbonizaton. PANI-700
+static charge/discharge cycling measurement was performed in                           has the highest capacitance in these samples. At a current density of
+KOH solution. The calculated speciﬁc capacitances that are stable                      1 A g−1 the speciﬁc capacitance of PANI-700 is as high as 133 F g−1 ,
+after 10 time cycles at every current density are summarized in                        which is about 82% of the speciﬁc capacitance at the current den-
+Fig. 4. Although the PANI-based carbon nanotubes possess low spe-                      sity of 0.1 A g−1 , implying the high rate capability. Compared with
+ciﬁc surface areas, PANI-700 and PANI-850 electrodes exhibit high                      the common activated carbons [1,41], PANI carbon nanotubes pos-
+capacities of 163 and 110 F g−1 , respectively, which are higher than                  sess lower speciﬁc surface areas, but higher capacities, which could
+that of the pure PANI [20]. As a whole rule, the speciﬁc capacitances                  be related with the chemical state and the content of nitrogen in
+decrease with the increase of carbonized temperature from 700 to                       carbonized PANI samples [10,11,13,14].
+1100 ◦ C, which could be related with the change of speciﬁc sur-                           The stable charge-discharge cycling curve of carbonized PANI
+face areas (in Table 2) and the decrease of total polar functional                     at 700 ◦ C is presented in Fig. 5. The curve is not a perfect tri-
+groups [40] as well as the elemental composition. PANI-600 is an                       angular shape, indicating a small pseudo-capacitance besides the
+exceptional example. Although the speciﬁc capacitance of PANI-                         electric double layer capacitance, which would be caused by the
+600 is similar to that of PANI-850 at low current density, it fades                    chemical state of nitrogen in PANI-700. Cyclic voltammetry mea-
+fast with the increase of current density, which could be ascribed to                  surements were carried out within the potential range of −0.85 to
+the higher polar functional group content and the unstable carbon                      0.01 V to analyze the electrochemical behavior of supercapacitor.
+
+
+
+
+                                                                                       Fig. 5. Galvanostatic charge/discharge cycling curves of PANI-700 electrode in KOH
+   Fig. 3. Survery XPS spectra of carbonized samples at different temperatures.        solution.
+
+
+                                                             M. Yang et al. / Electrochimica Acta 55 (2010) 7021–7027                                                       7025
+
+
+
+
+Fig. 6. Cyclic voltammorgrams of PANI-700 at different sweep rates in aqueous
+solution of KOH ((a) 0.01 mV s−1 ; (b) 100 mV s−1 ; (c) 50 mV s−1 ; (d) 20 mV s−1 ; (e)
+10 mV s−1 ; and (f) 5 mV s−1 ).
+
+
+Fig. 6 gives the cyclic voltammogram of PANI-700 electrode at dif-
+ferent sweep rates. Although the voltammograms are not square
+and the slopes are present, there is no obvious redox information
+which is in accordance with the previous report [11], in which
+the presence of pseudo-capacitance in electrode was conﬁrmed in
+basic electrolyte, but the mechanism remains unclear. Kawaguchi
+et al. [13] think that an asymmetrical rectangle of the CV curve is
+due to the reversible pseudo-faradaic reaction. Hulicova et al. [42]
+think that this slope is related to the pseudocapacitive properties
+of carbonized samples, which should be ascribed to the presence of
+incorporated nitrogen in samples. This statement is in accordance
+with that deduced from the galvanostatic charge/discharege tests.
+In addition, we can discover that the quicker the sweep rate is, the
+bigger the responsive current is, which illustrates that the electrode
+material has well reversibility.
+
+3.4. Effects of nitrogen in PANI–CNTs on the electrochemical
+performances
+
+    The chemical state of nitrogen in PANI carbon nanotubes is
+investigated by XPS measurement. Table 2 shows the relative
+quantities of surface nitrogen-containing groups and the speciﬁc
+surface areas of samples. A typical XPS spectrum of N 1s displays
+in Fig. 7. The chemical state of nitrogen atoms in carbonized sam-
+ples could be assigned to ﬁve types according to previous reports
+[9,11,12,43,44]. These ﬁve types are as following binding ener-
+gies: 398.4 eV (pyridine-N-6), 400.5 eV (pyrrole or pyridone-N-5),
+401 eV (quaternary-N–Q), 402.6 eV (pyridine-N-oxide or ammo-
+nia), 405.5 eV (chemisorbed nitrogen oxides–N–Ox). As seen in
+Table 2, the types of nitrogen in samples and the SBET are inﬂuenced
+by the heat treatment temperature. As the temperature increasing
+from 600 to 850 ◦ C, the speciﬁc surface areas decrease from 253.6
+                                                                                           Fig. 7. XPS spectra of N 1s of samples: (I) PANI-600; (II) PANI-700 and (III) PANI-850.
+
+
+Table 2
+The content of nitrogen species to N 1s peak (%) and SBET of the carbonized PANI           to 21.3 m2 g−1 . The chemical state of nitrogen is complex with dif-
+nanotubes.
+                                                                                           ferent heat temperatures. There are total three types of nitrogen in
+  Sample (m2 g−1 )       Content of nitrogen species from XPS (%)             SBET         carbonized products: one at 398.4 eV is attributed to the pyridine
+                         398.4 (eV)        400.5 (eV)        401 (eV)                      (N-6), which is at the edge of graphene layers in six-membered
+                         N-6               N-5               N–Q                           rings [11]; the other one at 400.5 eV belongs to the pyrrole or
+  PANI-600               35.6              64.4               –               253.6
+                                                                                           pyridone (N-5), which is in ﬁve-member rings or combined with
+  PANI-700               38.3              15.8              45.9              46.4        oxidized form [43]; the last one at about 401 eV is the quater-
+  PANI-850               29.4               –                70.6              21.3        nary (N–Q), the nitrogen atom of which is in a “valley” position
+  PANI-1000              14.9               –                85.1               –          [45]. These types of nitrogen groups are presented in Scheme 1.
+  PANI-1100              19.8               –                80.2               –
+                                                                                           According to Table 2, we can see that all of the samples possess
+
+
+7026                                                     M. Yang et al. / Electrochimica Acta 55 (2010) 7021–7027
+
+
+                                                                                       PANI-based CNTs were used as the electrode materials for superca-
+                                                                                       pacitors in KOH solution, they exhibit high speciﬁc capacity and
+                                                                                       good cyclic stability, especially PANI-700 possesses the capaci-
+                                                                                       tance of 163 F g−1 at the current density of 0.1 A g−1 . The chemical
+                                                                                       state and content of nitrogen in carbonized PANI nanotubes were
+                                                                                       investigated by XPS. The reasons why carbonized PANI nanotubes
+                                                                                       have higher speciﬁc capacitance would be ascribed to the pres-
+                                                                                       ence of pyrrole or pyridone and quaternary nitrogen when the
+                                                                                       appropriate content of nitrogen is present, which are beneﬁcial for
+Scheme 1. Types of nitrogen groups: (a) pyridine, (b) pyrrole or pyridone, and (c)
+                                                                                       the improvements of electron mobility and the wettability of the
+quaternary.
+                                                                                       electrode.
+
+N-6. In addition, PANI-600 has N-5, and PANI-850, PANI-1000 and                        Acknowledgments
+PANI-1100 have N–Q. Only PANI-700 possesses all these types of
+nitrogen. It was reported that N-6 species can be formed above the                        This work was supported by the National Natural Science Foun-
+temperature of 400 ◦ C, and N-5 will be formed at higher tempera-                      dation of China (50872006), State Key Basic Research Program of
+ture [11,45]. We surmise that with the temperature increasing from                     China (2006CB9326022006), and Foundation of Excellent Doctoral
+600 to 1100 ◦ C, the state of nitrogen in samples has changed from                     Dissertation of Beijing City (YB20081001001).
+N-5 to N–Q. At higher temperature, the chemical bond of N-5 is eas-
+ily broken, and the new C–N or N–Q bond forms. The content and  

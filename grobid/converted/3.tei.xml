@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/saef/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Cycle versus voltage hold – Which is the better stability test for electrochemical double layer capacitors?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2012-10-17">17 October 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">D</forename><surname>Weingarth</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Electrochemistry Laboratory, Paul Scherrer Institut, 5232 Villigen PSI, Switzerland</note>
+								<orgName type="laboratory">Electrochemistry Laboratory</orgName>
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><surname>Foelske-Schmitz</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Electrochemistry Laboratory, Paul Scherrer Institut, 5232 Villigen PSI, Switzerland</note>
+								<orgName type="laboratory">Electrochemistry Laboratory</orgName>
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><surname>Kötz</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Electrochemistry Laboratory, Paul Scherrer Institut, 5232 Villigen PSI, Switzerland</note>
+								<orgName type="laboratory">Electrochemistry Laboratory</orgName>
+								<orgName type="institution">Paul Scherrer Institut</orgName>
+								<address>
+									<postCode>5232</postCode>
+									<settlement>Villigen PSI</settlement>
+									<country key="CH">Switzerland</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Cycle versus voltage hold – Which is the better stability test for electrochemical double layer capacitors?</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Power Sources</title>
+						<title level="j" type="abbrev">Journal of Power Sources</title>
+						<idno type="ISSN">0378-7753</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">225</biblScope>
+							<biblScope unit="page" from="84" to="88"/>
+							<date type="published" when="2012-10-17">17 October 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.jpowsour.2012.10.019</idno>
+					<note type="submission">Received 30 July 2012 Received in revised form 26 September 2012 Accepted 10 October 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-07-17T15:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Supercapacitor Double layer capacitor Stability test Ageing Degradation</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>h i g h l i g h t s &lt; Stability tests for double layer capacitors by cycling and voltage hold were compared. &lt; The voltage hold test turns out to be more demanding than the cycle test. &lt; The same capacitance loss was observed after much shorter test time for the voltage hold test. &lt; The cycle test overestimated the voltage limit for stability by about 0.3 V.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Electrochemical double layer capacitors (EDLC) are known for their high power density and cycle stability. Commercial products provide a cycle life of one million or above at nominal conditions, which correspond to cycling between 0 V and the nominal cell voltage at room temperature. The end of life criterion is 20% or 30% loss in capacitance or doubling of the internal resistance <ref type="bibr" target="#b0">[1]</ref>.</p><p>In most of the scientific literature the stability of a newly developed EDLC material or EDLC system is demonstrated via cycling and typically several thousands of cycles are presented without significant capacitance loss <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b2">3]</ref>. However, apart from the fact that accumulation of several thousand cycles is already rather time consuming, the question arises, if several thousand cycles are really sufficient to proof the life time stability of a device over several hundred thousand cycles or even one million?</p><p>An alternative to the cycling test is the constant load or float test performed by holding the capacitor at the nominal cell voltage and determining the capacitance as a function of time by occasional charge/discharge cycles <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b4">5]</ref>. Like cycle tests, which may reflect the duty cycle for some applications of EDLC, voltage hold experiments directly reflect conditions for those applications where the capacitor is an emergency or backup device being permanently charged and waiting for the emergency event to occur.</p><p>The significant difference between these two test procedures and the respective cycle-rating and float-rating of a capacitor was already pointed out by M. Okamura et al. <ref type="bibr" target="#b5">[6]</ref>, who stated that during cycling only a "derated" voltage is applied to the capacitor increasing the measured life time. In the present communication we will compare both test procedures and discuss advantages and disadvantages of one or the other. Although we assume that our conclusions drawn from tests performed with laboratory scale cells also hold for commercial cells it cannot be excluded that certain differences will occur.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Materials</head><p>For preparation of the electrodes two high surface area carbons (YP17 (Kuraray Chemicals Japan) and an experimental carbon black (Timcal, Switzerland)) were used for standard electrolyte and ionic liquid, respectively. Both carbons were used as received. Electrodes were prepared by mixing 90 wt. % of carbon material together with 10 wt. % of Polytetrafluoroethylene (PTFE) binder (60% dispersion in water, Sigma Aldrich). The two components were dispersed in a mixture of isopropanol:water 1:1, heated up to 100 C and constantly stirred until a dough like mass was achieved. Afterwards self-standing electrodes were prepared out of the two different carbon materials. The thickness of the YP17 electrodes is in the range of 200 mm, whereas the thickness of the carbon black electrodes was increased to approximately 500 mm to improve the mechanical stability. The electrode sheets were dried for at least 24 h at 120 C and a vacuum of mbar before they were assembled in capacitor cells.</p><p>Prior to use the ionic liquid [EMIM][BF ] (purity &gt; 98%, Merck KGaA Darmstadt) was dried in a Schlenck tube at 100 C and a vacuum of 2 Â 10 À3 mbar for at least 8 h. The standard electrolytes, i.e. 1 M tetraethylammoninium tetrafluoroborate (TEABF4) in acetonitrile (AN) (Honeywell speciality chemicals Seelze, Germany) was used as received. Karl Fischer titration (KF Coulometer 684, Metrohm, Switzerland) showed for all electrolytes water contents below 20 ppm.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Electrochemistry</head><p>The assembly and filling of the electrochemical cells were described before <ref type="bibr" target="#b3">[4]</ref>. In brief, the activated carbon/carbon black electrodes (diameter 12 mm) are sandwiched between two spring loaded (50 Ncm 2 ) titanium pistons. A carbon coated aluminium layer (Gaia Akkumulatorenwerke, Germany) was put in between titanium and electrode for better contact. The two electrodes were separated using a 30 mm thick paper separator (Maxwell Technologies, Switzerland) or a glass fibre separator (EUJ116 from Hollingsworth &amp; Vose, UK) for standard electrolyte and ionic liquid, respectively. Before each test the cells were dried at 120 C under vacuum for at least 12 h. The cells were vacuum filled using a syringe connected with a tube to the cell body inside a glovebox with O 2 and H 2 O contents below 1 ppm (MBraun, Germany).</p><p>For the cycling tests a specific current was applied for cycling the full cell between the critical upper voltage and 0 V. In the case of the ionic liquid/carbon black cells a specific current of 0.75 Ag À1 was applied. The cells with standard electrolyte/YP17 activated carbon were cycled with 1 Ag À1 . The specific current refers to the mass of both electrodes. The respective capacitance was evaluated from the current and time for discharge, typically each 300 cycles. The available cell voltage was determined considering the IR drop (after approx. 3e4 s) of the cell.</p><p>The voltage hold test procedure has been described in detail elsewhere <ref type="bibr" target="#b3">[4]</ref>. In brief, the critical voltage was applied to the cell and by occasional cycling the cell between 2.5 V and 0 V with a constant current of 0.28 Ag À1 the respective capacitance was determined. Three cycles were applied every 10 h during the voltage hold procedure. An upper voltage of 2.5 V was considered to be harmless for the cell.</p><p>Cycle tests with standard electrolyte/YP17 electrodes were performed with a programmable potentiostat (VMP 3 workstation, Biologic France). The cycle and voltage hold tests with ionic liquid were performed using a CCCC Battery cycler (Astrol Technologies, Switzerland). All tests were performed at room temperature without temperature control.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head><p>In order to increase energy and power density of EDLCs the cell voltage should be increased above the typical 2.5e2.8 V of currently available EDLC utilizing activated carbon and TEABF in acetonitrile. Novel electrolytes such as ionic liquids <ref type="bibr" target="#b6">[7,</ref><ref type="bibr" target="#b7">8]</ref> or novel carbons such as carbon nanotubes <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref> or graphene <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b11">12]</ref> or combinations of such <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref> were suggested to allow for an increased cell voltage without loss in power and stability. The preservation of stability is usually demonstrated by cycling experiments over several tens of thousand cycles between the critical cell voltage and zero voltage. Cycling experiments are relatively easy to set up, but are rather time consuming; especially when considering that 500,000 to 1,000,000 cycles are commonly required for commercial products before a capacitance loss of 30% is observed. Demonstrated 20,000 cycles, therefore, just cover 2e4% of the aimed cycle life.</p><p>For example, for the asymmetric EDLC system utilizing pyrrolidinium based ionic liquids as electrolytes at temperatures of 60 C a potential window of 4.0 V was demonstrated by Mastragostino <ref type="bibr" target="#b14">[15]</ref> by cycling. About 20,000 cycles at a rate of 1 Ag À1 were obtained before 20% of the initial capacitance was lost.</p><p>Charge/discharge cycle experiments are typically used for batteries to demonstrate stability. Batteries are usually prone to degradation at the upper as well as at the lower voltage limit. Even at intermediate voltages batteries may suffer from charge transfer reactions occurring in the bulk of the electrode materials. In contrast, EDLCs are accepted to be very stable at voltages below the nominal cell voltage and can be discharged to zero without harm.</p><p>As a consequence, during cycling experiments between the fully charged state and the discharged state the capacitor is most of the time exposed to voltages, which are known not to affect the stability. In order to avoid this waste of cycling time we suggest that the alternative constant hold test (or constant voltage hold test or float test) is much more efficient for determination of the EDLCs stability limits. This situation is sketched in Fig. <ref type="figure">1</ref> where for both tests voltage and current are plotted. The solid (blue) line represents the cycle test while the dotted (red) line shows current (bottom) and voltage (top) versus time for the hold test. The grey areas (Fig. <ref type="figure">1</ref>, top) clearly show that the time the capacitor is exposed to voltages above an assumed stability limit is small for the cycle test. For the hold test, the capacitor is constantly exposed to voltages above the assumed stability limit. Another fundamental difference between the two tests reveals the current developing (Fig. <ref type="figure">1</ref>, bottom). The cycling test is performed at an arbitrarily set and constant current. During the voltage hold test the recorded current corresponds to the leakage current, which decreases constantly during the test period <ref type="bibr" target="#b15">[16]</ref>.</p><p>In order to compare both ageing test procedures we measured the capacitance decrease for a capacitor cell utilizing <ref type="bibr">[EMIM]</ref>[BF ] and carbon black electrodes. The upper potential limits were set to 3.75 V and 3.5 V. The cycling test was performed by cycling between 0 V and the respective upper cell voltage at a specific current of 0.75 Ag À1 . With this specific current one complete cycle takes 300 s. In parallel voltage hold tests at 3.75 V and 3.5 V were performed according to the procedure described in the experimental part and in the publication by Ruch et al. <ref type="bibr" target="#b3">[4]</ref>.</p><p>The results of the cycling tests are reproduced in Fig. <ref type="figure">2a</ref>  Even though both cycling experiments (Fig. <ref type="figure">2a</ref>) up to 12,000 cycles indicate no significant capacitance loss independent of the upper voltage limit some capacitance fluctuations could be observed. While for a voltage of 3.5 V the capacitance goes through a minimum around 5000 cycles for a voltage of 3.75 V a maximum is observed. The origin of these fluctuations is not clear and may be related to temperature changes. In order to detect any changes of the performance during the cycling tests we also compared the charge/discharge voltage profiles at the beginning and the end of the cycling tests as reproduced in Fig. <ref type="figure">2b</ref>. While for a voltage limit of 3.5 V initial and final cycles show an identical profile, differences can be detected for the voltage limit of 3.75 V. However, no capacitance decrease is observed and therefore such differences cannot be taken as a clear indication of ageing.</p><p>The respective voltage hold experiments (Fig. <ref type="figure">3</ref>) show a clear difference between the test performed at 3.75 V (red dots) and at 3.5 V (green squares). A decrease of the capacitance is already observed after 200 h of test at 3.75 V. The capacitance loss of 30% is observed after 340 h. The voltage hold test at 3.5 V, however, indicates stable performance and no significant capacitance loss is observed after 500 h. The results of the cycling tests would suggest a stable system at both voltages, the result for the voltage hold tests differs significantly for the two voltages and shows that the system is clearly not stable at 3.75 V.</p><p>Assuming that the stability limit of the above system is 3.5 V, the voltage of the capacitor was for only 8% of the test time above the critical value of 3.5 V for the cycling test performed at 3.75 V. With a current density of 0.75 Ag À1 one cycle takes about 300 s. Thus the cycling test time for Fig. <ref type="figure">2a</ref> was for both vertex voltages above h for more than 12,000 cycles. During this time the capacitor was exposed to the critical voltages of 3.5 V and above for only 80 h in Fig. <ref type="figure">2a</ref>. However, the respective constant voltage hold test showed clear degradation only after about 300 h. As a consequence the cycle test with 12,000 cycles was too short to detect degradation. Vice versa, the constant voltage hold test in Fig. <ref type="figure">3b</ref> corresponds to more than 75,000 cycles when considering only the time the capacitors is exposed to voltages beyond the stability limit of 3.5 V in the cycle test.</p><p>In the above example the difference between the upper voltage limit (3.75 V) during cycling and the stability limit (3.5 V) was relatively small and therefore only the voltage hold test clearly indicated the stability limit of 3.5 V. If the upper voltage limit is set significantly higher than the accepted stability limit the capacitance loss will also be clearly identifiable by means of a cycle test, but the advantage of the hold test is still maintained. This is demonstrated in the following by means of hold-and cycling experiments at an upper stability limit of 3.5 V using a TEABF 4 based electrolyte as this cell voltage is definitively higher than the accepted nominal voltage of commercial devices using activated carbon and TEABF 4 in acetonitrile (AN).</p><p>Fig. <ref type="figure">4</ref> shows the results of the voltage hold test and the cycling test for such devices at 3.5 V. The results of the hold and cycle tests are plotted in one figure as function of the real test time.</p><p>For a device utilizing the standard electrolyte with AN both tests (cycle and hold) confirm that a cell voltage of 3.5 V is above the stability limit. However, for the constant voltage hold test a capacitance loss of 30% occurs already after 30 h. For the cycle test 300 h are needed for observing the same capacitance loss.</p><p>From the above discussion and results it is obvious that the constant voltage hold test is much more time efficient than a cycling test. The main reason is the fact that during the hold test the capacitor is constantly exposed to the maximum (nominal) voltage while during cycling the capacitor is exposed to a "derated" voltage <ref type="bibr" target="#b5">[6]</ref> only (see Fig. <ref type="figure">1</ref>). As a consequence Okamura et al. <ref type="bibr" target="#b5">[6]</ref> suggested to distinguish between capacitor rating determined by hold experiments and by cycling. The rating for capacitors determined by cycling was suggested to be about 0.3 V higher than the rating found by hold experiments.</p><p>The rule suggested by Okamura et al. <ref type="bibr" target="#b5">[6]</ref> is nicely confirmed in Fig. <ref type="figure">5</ref> where the results of the cycling test at 3.50 V are compared to the results of a hold test performed at 3.25 V previously published <ref type="bibr" target="#b3">[4]</ref>. Now the actual test time until a loss of 30% is reached is almost equal, namely 300 h for the hold test and 350 h for the cycle test.</p><p>Realistic and meaningful cycling tests should be performed at currents adapted to the use of capacitors, that is at relative high currents of typically 2 Ag À1 and above, in order to monitor possible degradation due to stress and fatigue caused by the alternating charge discharge processes. The length of one charge/discharge cycle should be in the order of seconds. In many of the published investigations, however, cycling tests are performed at relatively low specific current and cycle times are typically in the range of minutes corresponding to a rather gentle use.</p><p>Cycling tests are performed at relatively low currents mainly in order to keep the IR voltage drop low. The equivalent series resistance (ESR) of small laboratory scale test cells is typically large compared to the ESR of a commercial cell optimized for high power. If a cycling test is performed at realistic high currents a large IR drop may be encountered in a laboratory scale cell which is added to the real cell voltage. This effect makes the cycle test even more inefficient, because the upper cell voltage is the sum of real voltage plus IR, which means that the maximum real cell voltage is lowered or degraded even further. In addition, the internal resistance of the tested cell may increase during the cycle test, which eventually results in a significant reduction of the applied electrode potentials in the cell, untruly pretending a stable behaviour. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>and b for the ionic liquid [EMIM][BF4].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .Fig. 3 .Fig. 1 .</head><label>231</label><figDesc>Fig. 2. (a) Cycle test for a full capacitor cell utilizing a mesoporous carbon black and ionic liquid electrolyte [EMIM][BF ]. Upper voltage limit during cycling is 3.5 V (open squares, green) and 3.75 V (filled circles, red). Lower voltage limit during cycling is 0.0 V. (b) Charge/Discharge voltage profile for 100th (dashed line) and 10,000th (full line) cycle of the cycle test shown in Fig. 2a for upper voltage limit of 3.5 V (left and 3.75 V (right). (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>-Fig. 4 .Fig. 5 .</head><label>45</label><figDesc>Fig. 4. Constant voltage hold test (filled squares, red) and cycle test (open circles, blue) of a full capacitor cell utilizing an activated carbon YP17 and 1 M TEABF 4 in acetonitrile. Hold voltage and upper voltage limit during cycling is 3.5 V. Lower voltage limit during cycling 0.0 V. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>Timcal, Switzerland is gratefully acknowledged for supplying the carbon black.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kötz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carlen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="2483" to="e2498" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Kötz, M. Carlen, Electrochim. Acta 45 (2000) 2483e2498.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><surname>Handa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sugimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamagata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kikuta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kono</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ishikawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="page" from="1585" to="e1588" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">N. Handa, T. Sugimoto, M. Yamagata, M. Kikuta, M. Kono, M. Ishikawa, J. Power Sources 185 (2008) 1585e1588.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Krause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Balducci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochem. Commun</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="814" to="e817" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Krause, A. Balducci, Electrochem. Commun. 13 (2011) 814e817.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Ruch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cericola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Foelske-Schmitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kötz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wokaun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="4412" to="e4420" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P.W. Ruch, D. Cericola, A. Foelske-Schmitz, R. Kötz, A. Wokaun, Electrochim. Acta 55 (2010) 4412e4420.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cericola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Ruch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Foelske-Schmitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Weingarth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kötz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Electrochem. Sci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="988" to="e996" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Cericola, P.W. Ruch, A. Foelske-Schmitz, D. Weingarth, R. Kötz, Int. J. Electrochem. Sci. 6 (2011) 988e996.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Okamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohta</surname></persName>
+		</author>
+		<title level="m">Proceedings of the 16th International Seminar on Double Layer Capacitors and Hybrid Energy Storage Devices</title>
+				<meeting>the 16th International Seminar on Double Layer Capacitors and Hybrid Energy Storage Devices<address><addrLine>Deerfield Beach, FLorida, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006-12" />
+			<biblScope unit="page" from="149" to="e158" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Okamura, K. Hayashi, H. Ohta, Proceedings of the 16th International Seminar on Double Layer Capacitors and Hybrid Energy Storage Devices, December 2006, Deerfield Beach, FLorida, USA, pp. 149e158.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Maeshima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Moriwake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kuwabara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A J</forename><surname>Fisher</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="A696" to="A701" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Maeshima, H. Moriwake, A. Kuwabara, C.A.J. Fisher, J. Electrochem. Soc. 157 (6) (2010) A696eA701.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Masuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Takagi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="3603" to="e3611" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Sato, G. Masuda, K. Takagi, Electrochim. Acta 49 (2004) 3603e3611.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Ali</forename><surname>Izadi-Najafabadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kobashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Don</forename><forename type="middle">N</forename><surname>Futaba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hatori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iijima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mat</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">35</biblScope>
+			<biblScope unit="page" from="E235" to="E241" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ali Izadi-Najafabadi, S. Yasuda, K. Kobashi, T. Yamada, Don N. Futaba, H. Hatori, M. Yumura, S. Iijima, K. Hata, Adv. Mat. 22 (35) (2010) E235eE241.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="773" to="e778" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. Xu, F. Wu, R. Chen, G. Cao, S. Chen, G. Wang, Y. Yang, J. Power Sources 158 (2006) 773e778.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">X</forename><surname>Lua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Doua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bo</forename><surname>Gao</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yuan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Zhang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="5115" to="e5121" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">X. Lua, H. Doua, Bo Gao, Ch. Yuan, S. Yang, L. Hao, L. Shen, X. Zhang, Electrochim. Acta 56 (2011) 5115e5121.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Qiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="12554" to="e12558" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Qiu, X. Zhang, S. Yang, Phys. Chem. Chem. Phys. 13 (2011) 12554e12558.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Wen</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liangti</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kent</forename><surname>Henry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liming</forename><surname>Dai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">189</biblScope>
+			<biblScope unit="page" from="1270" to="e1277" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wen Lu, Liangti Qu, Kent Henry, Liming Dai, J. Power Sources 189 (2009) 1270e1277.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Cheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Shinya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L.-C</forename><surname>Qin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="17615" to="e17624" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Q. Cheng, J. Tang, J. Ma, H. Zhang, N. Shinya, L.-C. Qin, Phys. Chem. Chem. Phys. 13 (2011) 17615e17624.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Arbizzani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Biso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cericola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lazzari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Soavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mastragostino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="page" from="1575" to="e1579" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Arbizzani, M. Biso, D. Cericola, M. Lazzari, F. Soavi, M. Mastragostino, J. Power Sources 185 (2008) 1575e1579.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kötz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Ruch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cericola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">195</biblScope>
+			<biblScope unit="page" from="923" to="e928" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Kötz, P.W. Ruch, D. Cericola, J. Power Sources 195 (2010) 923e928.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

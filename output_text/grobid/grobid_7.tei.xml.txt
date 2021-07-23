@@ -1,0 +1,130 @@
+
+		
+			
+				Effect of activation time on the properties of activated carbons prepared by microwave-assisted activation for electric double layer capacitors
+			
+		
+							
+								a School of Chemistry and Chemical Engineering, Anhui Key Lab of Coal Clean Conversion and Utilization, Anhui University of Technology, Ma&apos;anshan 243002, China
+								School of Chemistry and Chemical Engineering
+								Anhui Key Lab of Coal Clean Conversion and Utilization
+								Anhui University of Technology
+								
+									Ma&apos;anshan 243002
+									China
+								
+							
+						
+						
+							YejingGeng
+							
+								a School of Chemistry and Chemical Engineering, Anhui Key Lab of Coal Clean Conversion and Utilization, Anhui University of Technology, Ma&apos;anshan 243002, China
+								School of Chemistry and Chemical Engineering
+								Anhui Key Lab of Coal Clean Conversion and Utilization
+								Anhui University of Technology
+								
+									Ma&apos;anshan 243002
+									China
+								
+							
+						
+						
+							JieshanQiu
+							jqiu@dlut.edu.cn
+							
+								b Carbon Research Laboratory, State Key Lab of Fine Chemicals, School of Chemical Engineering, Dalian University of Technology, 158 Zhongshan Road, P.O. Box 49, Dalian 116012, China
+								School of Chemical Engineering
+								Carbon Research Laboratory
+								State Key Lab of Fine Chemicals
+								Dalian University of Technology
+								
+									158 Zhongshan Road
+									P.O. Box 49
+									116012
+									Dalian
+									China
+								
+							
+						
+						
+							MingdongZheng
+							
+								a School of Chemistry and Chemical Engineering, Anhui Key Lab of Coal Clean Conversion and Utilization, Anhui University of Technology, Ma&apos;anshan 243002, China
+								School of Chemistry and Chemical Engineering
+								Anhui Key Lab of Coal Clean Conversion and Utilization
+								Anhui University of Technology
+								
+									Ma&apos;anshan 243002
+									China
+								
+							
+						
+						
+							SuanLong
+							
+								a School of Chemistry and Chemical Engineering, Anhui Key Lab of Coal Clean Conversion and Utilization, Anhui University of Technology, Ma&apos;anshan 243002, China
+								School of Chemistry and Chemical Engineering
+								Anhui Key Lab of Coal Clean Conversion and Utilization
+								Anhui University of Technology
+								
+									Ma&apos;anshan 243002
+									China
+								
+							
+						
+						
+							XiaoyongZhang
+							
+								a School of Chemistry and Chemical Engineering, Anhui Key Lab of Coal Clean Conversion and Utilization, Anhui University of Technology, Ma&apos;anshan 243002, China
+								School of Chemistry and Chemical Engineering
+								Anhui Key Lab of Coal Clean Conversion and Utilization
+								Anhui University of Technology
+								
+									Ma&apos;anshan 243002
+									China
+								
+							
+						
+						Effect of activation time on the properties of activated carbons prepared by microwave-assisted activation for electric double layer capacitors
+					
+					
+						Carbon
+						Carbon
+						0008-6223
+						
+							Elsevier BV
+							48
+							5
+							
+							15 January 2010
+						
+					
+					10.1016/j.carbon.2010.01.016
+					Received 17 November 2009 Accepted 12 January 2010
+				
+					
+				
+			
+		
+		
+			
+Activated carbons (ACs) were prepared by microwave-assisted heat treatment of petroleum coke with KOH as activation agent, and characterized by infrared spectroscopy and nitrogen adsorption technique with the aim of studying the effect of activation time on the properties of ACs for electrodes in electric double layer capacitors (EDLCs). The electrochemical properties of AC electrodes in EDLCs were studied by cyclic voltammetry, constant current charge-discharge and electrochemical impedance spectroscopy. The results show that the specific surface area (S BET ) and total pore volume of ACs goes through a maximum as the activation time increases. At 35 min of the activation time, the as-made AC (denoted as AC-35) has a S BET of 2312 m 2 /g. With AC-35 as the electrode, its specific capacitance in EDLC at a current density of 50 mA/g can reach 342.8 F/g, and remains at 245.6 F/g even after 800 cycles while the energy density of the capacitor remains at 8.0 Wh/kg. The results have demonstrated that the microwave-assisted heat treatment is an efficient approach to the preparation of ACs with high performance for EDLCs.
+			
+		
+	
+	
+		
+Introductionhe electric double layer capacitor (EDLC) is a new energy storage device with high power density and long lifetime that is better than traditional batteries 
+Experimental
+Preparation and characterization of ACsPetroleum coke (&lt;74 lm in particle size) from Daqing oil field of China was used as raw material to prepare ACs, of which the proximate analysis and elemental analysis data are shown in Table 
+Preparation of AC electrodeThe EDLC electrodes were made of ACs, carbon black (CB) and poly(tetrafluoroethylene) (PTFE), in which AC was the base material, and CB with a specific surface area of 550 m /g (Cabot-Corp., China) functioned as a conducting material. For a typical run, the AC, CB and PTFE were mixed in a weight ratio of 89:5:6, the mixture was pressed onto a foam nickel with a size of 1.5 • 1.5 cm (the nickel foam functions as the current collector), yielding electrodes with a height of ca. 0.6 mm and with an active mass of ca. 120 mg. Before the EDLC test, the electrodes were dried at 120°C for 2 h under vacuum.
+Electrochemical measurements of AC electrodesThe as-made AC electrodes were tested using cyclic voltammetry and electrochemical impedance spectroscopy (EIS) in an electrochemical workstation (CHI-760C, China). The test cell was made of two electrodes, and tested in 6 M KOH and LiOH mixture solution at a KOH/LiOH weight ratio of 50:1 with a symmetrical cell configuration. Before the test, the cell was soaked in the KOH/LiOH mixture solution for 1 h under vacuum. The capacitance behavior of AC electrodes was examined at a constant current discharge mode (LAND, 
+3.Results and discussion
+FT-IR analysisFig. 
+Pore structure characterizationThe N 2 adsorption-desorption isotherms of ACs made in different activation time are shown in Fig. 
+3.3.Electrochemical characterizations 
+Cyclic voltammetry behavior of AC electrodes
+Charge-discharge behavior of AC electrodesConstant current charge-discharge is conducted to measure the specific capacitance of AC electrodes.  trodes shown in Fig. 
+EIS of AC electrodeThe impedance spectra of different AC electrodes are shown in Fig. 
+Conclusions
+High performance ACs for EDLCs are prepared by microwaveassisted activation of petroleum coke with KOH as activating agent. The influence of activation time on AC properties has been addressed in terms of the pore structure and electrochemical properties of the ACs. It has been found that the S BET and the V t of ACs goes through a maximum as the activation time increases, of which the S BET is 2312 m 2 /g for AC-35 made in 35 min of activation time. The specific capacitance of AC-35 electrode at a current density of 50 mA/g is 342.8 F/g, and remains at 245.6 F/g even after 800 cycles with an energy density of the capacitor being at 8.0 Wh/kg. The results demonstrate that microwave-assisted activation technique is of potential to make ACs with high performance in EDLCs because of its high efficiency, less time and low energy consumption.Fig. 55Fig.5is the cyclic voltammetry curves of AC electrodes obtained at a scan rate of 2 mV/s in 6 M KOH and LiOH aqueous solution, showing that all sweep curves are symmetric on the positive and negative sweeps, and the current at 0 V for electrodes made of different ACs are different from each other. The electrode made of AC-35 is the best among the four ACs tested, evidenced by the high current and the almost ideal standard rectangle. This is in good agreement with the large S BET , V mic and V t of the AC-35 sample discussed above. With the increase of the activation time from 27 to 35 min, the cyclic voltammetry shape of AC electrodes becomes ideal square cyclic voltammograms, indicating that the electric conductivity properties of AC are greatly improved. However, the current of AC-37 electrodes decreases after the activation time further increase to 37 min, as shown in Fig.5, implying that the electric conductivity properties of AC-37 electrode become poor. Obviously, the electric conductivity of AC-35 is the best among the four AC electrodes tested. This phenomenon will be further discussed in Section 3.3.2. Rectangular cyclic voltammetry shape of AC-35 electrodes implies a quick dynamics and good charge propagation of AC-35 sample.

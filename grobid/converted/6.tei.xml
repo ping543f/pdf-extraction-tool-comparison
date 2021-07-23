@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/saef/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Elaboration of a microstructured inkjet-printed carbon electrochemical capacitor</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2009-09-06">6 September 2009</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">David</forename><surname>Pech</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> LAAS-CNRS, Université de Toulouse, 7 av. du Colonel Roche, F-31077 Toulouse, France</note>
+								<orgName type="laboratory">LAAS-CNRS</orgName>
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<addrLine>7 av. du Colonel Roche</addrLine>
+									<postCode>F-31077</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Magali</forename><surname>Brunet</surname></persName>
+							<email>mbrunet@laas.fr</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> LAAS-CNRS, Université de Toulouse, 7 av. du Colonel Roche, F-31077 Toulouse, France</note>
+								<orgName type="laboratory">LAAS-CNRS</orgName>
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<addrLine>7 av. du Colonel Roche</addrLine>
+									<postCode>F-31077</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pierre-Louis</forename><surname>Taberna</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> CIRIMAT-CNRS, Université de Toulouse, 118 route de Narbonne, F-31062 Toulouse, France</note>
+								<orgName type="institution" key="instit1">CIRIMAT-CNRS</orgName>
+								<orgName type="institution" key="instit2">Université de Toulouse</orgName>
+								<address>
+									<addrLine>118 route de Narbonne</addrLine>
+									<postCode>F-31062</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Patrice</forename><surname>Simon</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> CIRIMAT-CNRS, Université de Toulouse, 118 route de Narbonne, F-31062 Toulouse, France</note>
+								<orgName type="institution" key="instit1">CIRIMAT-CNRS</orgName>
+								<orgName type="institution" key="instit2">Université de Toulouse</orgName>
+								<address>
+									<addrLine>118 route de Narbonne</addrLine>
+									<postCode>F-31062</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Norbert</forename><surname>Fabre</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> LAAS-CNRS, Université de Toulouse, 7 av. du Colonel Roche, F-31077 Toulouse, France</note>
+								<orgName type="laboratory">LAAS-CNRS</orgName>
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<addrLine>7 av. du Colonel Roche</addrLine>
+									<postCode>F-31077</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fabien</forename><surname>Mesnilgrente</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> LAAS-CNRS, Université de Toulouse, 7 av. du Colonel Roche, F-31077 Toulouse, France</note>
+								<orgName type="laboratory">LAAS-CNRS</orgName>
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<addrLine>7 av. du Colonel Roche</addrLine>
+									<postCode>F-31077</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Véronique</forename><surname>Conédéra</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> LAAS-CNRS, Université de Toulouse, 7 av. du Colonel Roche, F-31077 Toulouse, France</note>
+								<orgName type="laboratory">LAAS-CNRS</orgName>
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<addrLine>7 av. du Colonel Roche</addrLine>
+									<postCode>F-31077</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hugo</forename><surname>Durou</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> LAAS-CNRS, Université de Toulouse, 7 av. du Colonel Roche, F-31077 Toulouse, France</note>
+								<orgName type="laboratory">LAAS-CNRS</orgName>
+								<orgName type="institution">Université de Toulouse</orgName>
+								<address>
+									<addrLine>7 av. du Colonel Roche</addrLine>
+									<postCode>F-31077</postCode>
+									<settlement>Toulouse</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Elaboration of a microstructured inkjet-printed carbon electrochemical capacitor</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Power Sources</title>
+						<title level="j" type="abbrev">Journal of Power Sources</title>
+						<idno type="ISSN">0378-7753</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">195</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="1266" to="1269"/>
+							<date type="published" when="2009-09-06">6 September 2009</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.jpowsour.2009.08.085</idno>
+					<note type="submission">Received 16 April 2009 Received in revised form 4 June 2009 Accepted 29 August 2009</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-07-17T15:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Micro-supercapacitors Micro-devices Inkjet</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Carbon-based micro-supercapacitors dedicated to energy storage in self-powered modules were fabricated with inkjet printing technology on silicon substrate. An ink was first prepared by mixing an activated carbon powder with a PTFE polymer binder in ethylene glycol stabilized with a surfactant then deposited by inkjet on patterned gold current collectors with the substrate heated at 140 • C in order to assure a good homogeneity.</p><p>Electrochemical micro-capacitors with electrodes in an interdigital configuration were fabricated, and characterized using electrochemical techniques in 1 M Et 4 NBF 4 propylene carbonate electrolyte. These micro-devices show an excellent capacitive behavior over a wide potential range of 2.5 V for a cell capacitance of 2.1 mF cm −2 . The newly developed technology will allow the integration of the storage device as close as possible to the MEMS-based energy harvesting device, minimizing power losses through connections.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The development of autonomous electronic miniaturized devices has lead to an increasing demand for rechargeable micropower sources of appropriate size. Li and Li-ion micro-batteries have been developed for this purpose in the late 1990s <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. On the other hand, harvesting micro-devices extracting energy from various ambient environment sources (thermal, mechanical, solar energy) have started to be developed in the year 2000 leading to self-powered systems <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref>. The harvested energy may be stored in micro-batteries <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b6">7]</ref>, but their finite life-time may be a major problem when they have to be embedded in permanent structures, such as biomedical implants <ref type="bibr" target="#b7">[8]</ref>, active Radio Frequency Identification (RFID) tags <ref type="bibr" target="#b8">[9]</ref> and structure-embedded micro-sensors where no maintenance or replacement is possible <ref type="bibr" target="#b9">[10]</ref>. Moreover, the quite low power densities of rechargeable batteries remain insufficient for some specific applications or power harvesting devices.</p><p>Electrochemical capacitors (ECs), also called supercapacitors, store energy using accumulation of ions at the interface between a highly porous electrode and an electrolyte. The charge storage mechanism is mainly capacitive, with no chemical modification of the electrode involved during the charge/discharge process. As a result, they can sustain millions of cycles, can provide fast charge/discharge rates and subsequently high power density, while keeping a reasonable energy density <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b11">12]</ref>. EC miniaturized to a microscopic scale could satisfy in this sense a variety of micro-power demands and complement or replace micro-batteries in electrical energy storage and harvesting applications where high power delivery or uptake pulses are required in very short times.</p><p>Very little work has been published on the integration of lowprofile supercapacitors on a chip, although the applications are there: local power sources for Micro-Electro-Mechanical Systems (MEMSs) devices, intermediate storage level for energy harvesting microsystems and numerous sensors.</p><p>Micro-supercapacitors based on pseudocapacitive materials have been reported in literature with interdigital fingers as low as 50 m <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>. Unfortunately, the operating voltage range of these devices using hydrogel-polymer electrolyte hardly exceeds 1 V <ref type="bibr" target="#b14">[15]</ref>, making them non-functional for most applications.</p><p>Yoon et al. have investigated the use of a pseudocapacitive amorphous RuO 2 electrode with a LiPON solid electrolyte for the elaboration of a thin-film micro-supercapacitor <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>. Despite the use of Li + ions instead of protons H + intercalation in RuO 2 electrode, they obtained a good capacitance and a high potential window.</p><p>Unlike pseudocapacitive materials, carbon-based active materials exhibit true capacitive behavior and excellent chemical stability upon cycling <ref type="bibr" target="#b17">[18]</ref>. Ho et al. have developed a 5 mm × 5 mm carbon EC using a direct write pneumatic dispenser printer <ref type="bibr" target="#b18">[19]</ref>. They obtained a cell capacitance of 0.1 mF cm −2 for a 2 V potential range, despite the use of carbon of low surface area.</p><p>The first microstructured carbon-based EC was reported by In et al. with an electrode area of 350 m × 350 m using the Origami TM process <ref type="bibr" target="#b19">[20]</ref>. Their micro-EC displays a cell capacitance of 0.4 mF cm −2 for a 0.6 V potential range using aqueous electrolyte.</p><p>The use of hydrogel-polymer electrolyte for the elaboration of all solid-state thin-film carbon-based EC has also been reported by <ref type="bibr">Kaempgen et al.</ref> with an estimated cell capacitance of 1.1 mF cm −2 , but a potential window limited to 1 V <ref type="bibr" target="#b20">[21]</ref>.</p><p>In the present work, a new process based on the inkjet printing technology is presented to integrate a microstructured carbonbased EC of high surface area on silicon with very few technological steps. The inkjet deposition technology has been developed for polymers <ref type="bibr" target="#b21">[22]</ref>, oxides <ref type="bibr" target="#b22">[23]</ref>, metals <ref type="bibr" target="#b23">[24]</ref> and nanoparticles, and turns out to be interesting in various applications, but so far, no study of the deposition of activated carbon has been reported by this technique. Various micro-supercapacitors were designed with this technique with interdigital fingers ranging from 40 to 100 m width. The developments necessary for the inkjet deposition of the active material are described in the first part. Then, the electrochemical characterizations of the realized micro-supercapacitors are presented and the results discussed. These devices display excellent stabilities and electrochemical behaviors over a wide potential window.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental</head><p>Micro-supercapacitors were designed as shown in Fig. <ref type="figure" target="#fig_0">1</ref>. Two gold current collectors made of 20 interdigital fingers were deposited by evaporation on an oxidized silicon substrate, and patterned using a conventional photolithography/etching process. Activated carbon electrodes were deposited by a process based on the inkjet printing technology using an AltaDrop ® equipment from Altatech and detailed hereafter.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Process developments</head><p>Silicon dioxide (150 nm) was first grown on silicon wafer by plasma enhanced chemical vapour deposition (PECVD) followed by the evaporation of 150 Å of titanium and 300 nm of gold. The electrodes patterns on which activated carbon had to be fixed were formed by photolithography and etching of the titanium/gold layer.</p><p>A stable ink was then prepared by mixing an activated carbon of high surface area (1700-1800 m 2 g −1 for a 92 F g −1 electrode capacitance, Kuraray Chemical Co.) with 5 wt.% polytetrafluoroethylene (PTFE) polymer binder in an ethylene glycol solvent. The activated carbon composition was set to 3% weight relative to ethylene glycol. A Triton X100 (p-(1,3,3,-tetramethylbutyl) phenoxy-poly(ethylene glycol)) surfactant was added to the solution in order to increase the wettability and the stability of the emulsion <ref type="bibr" target="#b24">[25]</ref>.</p><p>This ink was then selectively projected onto the interdigital gold fingers. For this purpose, a hydrophobic surface functionalisation of the silicon dioxide was performed by means of an octadecyltrichlorosilane (OTS) treatment. The gold was therefore more hydrophilic, i.e. with a higher surface energy, than the surrounding hydrophobic silica surface, allowing thus the deposition of the ink onto the gold electrodes acting as current collectors.</p><p>The substrate temperature was fixed at 140 • C during the inkjet deposition in order to have an instantaneous evaporation of the droplets during impacts and get a homogeneous activated carbon deposition located exclusively on the metal patterns. The electrodes were finally annealed at a temperature of 240 • C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Electrochemical characterizations</head><p>The two-electrodes EC micro-devices were characterized with a 1 M Et 4 NBF 4 /anhydrous propylene carbonate electrolyte in a glove box under Ar atmosphere with H 2 O and O 2 levels less than 1 ppm (in order to prevent any early oxidation of the electrolyte), using a Biologic VMP potentiostat. Electrochemical impedance spectroscopy (EIS) measurements were carried out at open circuit potential by applying a sinusoidal signal of 10 mV amplitude and frequencies ranging from 100 kHz to 10 mHz.  and 40 m of interspace (i). Gold micro-wires were then bonded from the micro-device to the package for electrochemical characterization (Fig. <ref type="figure">2(b)</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Design of the micro-device</head><p>A homogeneous deposition of activated carbon is observed on the micro-supercapacitor, with a well defined pattern and no short circuit between the interdigital electrodes. The thickness of the activated carbon deposit estimated from confocal microscopy varies between 1 and 2 m depending on the micro-device sample.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Electrochemical characterizations</head><p>Fig. <ref type="figure" target="#fig_2">3</ref> shows the cyclic voltammogram (CV) performed on a 75 m wide (w), 750 m long (L) and 75 m of interspace (i) assembled micro-supercapacitor at a scan rate of 100 mV s −1 in 1 M Et 4 NBF 4 propylene carbonate. The total surface of the conducting electrodes is 2.295 mm (0.585 mm 2 pad and 0.5625 mm 2 fingers). It displays a symmetrical capacitive behavior with the typical rectangular shape as expected for double layer capacitive materials. The weak redox wave observed at about 1.3 V could be attributed to the redox reactions of electroactive surface functional groups present on the carbon <ref type="bibr" target="#b25">[26]</ref> or could be due to a variation of the capacitance with the potential. To verify the capacitance provided by the microstructured carbon electrodes, an identical micro-device with bare gold electrodes was tested in the same conditions (Fig. <ref type="figure" target="#fig_2">3</ref>). We can clearly observe an important increase of the current during the CV, directly related to the capacitance and the energy of the carbon micro-supercapacitor.</p><p>Inkjet-printed micro-supercapacitors display moreover excellent capacitive behaviors over a wide potential range of 2.5 V in controlled atmosphere. This potential range allows the use of micro-supercapacitors in various mobile electronic applications, and could satisfy in this sense the growing need for integrated energy storage solutions.</p><p>Fig. <ref type="figure" target="#fig_3">4</ref> clearly shows a linear dependency of the capacitive current as a function of the scan rate. This current was calculated at discharge reversal scan and it was averaged over the whole voltage window. Since ion adsorption occurring upon charge processes in supercapacitor electrodes involves surface phenomena this kind of plot is typical for such electrochemical systems <ref type="bibr" target="#b26">[27]</ref>. A small deviation would imply an under diffusion control process as it is the case, for example, at high rate for Faradaic reactions.</p><p>A mean cell capacitance of 0.4 mF cm −2 is deduced from the slope of Fig. <ref type="figure" target="#fig_3">4</ref>, and a maximal cell capacitance C T = 2.1 mF cm −2 is found at low scan rate (1 mV s −1 ), which is the highest value reported for carbon EC micro-devices <ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref>. The estimated stack capacitance lies between 1.6 and 2.7 F cm −3 and the maximal energy density we can obtain for the micro-device for a 2.5 V potential range is 6.6 mJ cm −2 . </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Electrochemical impedance spectroscopy (EIS) measurements</head><p>The frequency behavior has been studied by EIS at a bias voltage of 0 V. Fig. <ref type="figure" target="#fig_4">5</ref>(a) shows the Nyquist plot of a micro-supercapacitor, and Fig. <ref type="figure" target="#fig_4">5(b</ref>) the evolution the specific capacitance as a function of the frequency, calculated from <ref type="bibr" target="#b27">[28]</ref>.</p><p>A micro-power of 44.9 mW cm −2 was estimated from the high frequency part of the spectrum. When the frequency is decreased from 100 Hz down to 10 mHz, the imaginary part of the impedance increases corresponding to a capacitive behavior of the microsupercapacitor (Fig. <ref type="figure" target="#fig_4">5</ref>(a)), associated with a leak resistance as can be seen from the slope with an angle lower than 90 • <ref type="bibr" target="#b28">[29]</ref>.</p><p>The impedance frequency behavior was also studied using the frequency dependence of the complex capacitance (Fig. <ref type="figure" target="#fig_4">5(b)</ref>). At mHz, the specific capacitance is 1.0 mF cm −2 , which is consistent with the results obtained with CV (Fig. <ref type="figure" target="#fig_3">4</ref>). The maximum capacitance is nevertheless obtained for frequencies lower than 10 mHz, revealing a high relaxation time constant 0 of the microdevice (and therefore a relative low power density), due probably to the slight leakage current. Microstructured inkjet-printed EC show therefore very promising electrochemical results. Future work will be performed on the chemical formulation of the initial ink and heat post-treatments of the devices in order to have micro-supercapacitors with higher electrochemical performances and lower leakage current.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>An integration process for micro-supercapacitors was presented with a specific inkjet printing technology. Micro-supercapacitors with interdigital fingers as low as 40 m width were obtained. Electrochemical characterizations in 1 M Et 4 NBF 4 propylene carbonate reveal an excellent capacitive behavior of the micro-devices over a 2.5 V potential range, for a cell capacitance of 2.1 mF cm −2 . These results are very promising and demonstrate the viability of such technique for the elaboration of integrated micro-supercapacitors on Si substrate.</p><p>Future developments will consist in depositing thicker active material, optimizing the active material itself and providing a full device encapsulation. This technology of carbon-based microsupercapacitors could address the need for micro-scale energy storage.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Schematic drawing of the interdigital micro-supercapacitor.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 (Fig. 2 .</head><label>22</label><figDesc>Fig. 2(a) shows the image of a micro-supercapacitor with the following dimensions: 20 fingers, 40 m wide (w), 400 m long (L)</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Cyclic voltammograms of a micro-supercapacitor uncoated and coated with activated carbon electrodes in 1 M Et4NBF4 propylene carbonate electrolyte at a scan rate of 100 mV s −1 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Evolution of the capacitive current (total cell surface 2.295 mm ) deduced from CV carried out at different scan rates.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. (a) Nyquist plot of a micro-supercapacitor (2.295 mm ) and (b) evolution of the specific cell capacitance vs. the frequency.</figDesc></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgement</head><p>This work was financially supported by the FRAE (Fondation de Recherche pour l'Aéronautique et l'Espace).</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Solid-State Ion</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Akridge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996" />
+			<biblScope unit="page" from="1291" to="1294" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.D. Jones, J.R. Akridge, Solid-State Ion. 86-88 (1996) 1291-1294.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Solid-State Ion</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Dudney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Neudecker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Evans</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="33" to="45" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.B. Bates, N.J. Dudney, B. Neudecker, A. Ueda, C.D. Evans, Solid-State Ion. 135 (2000) 33-45.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Beeby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Tudor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Meas. Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="175" to="195" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.P. Beeby, M.J. Tudor, N.M. White, Meas. Sci. Technol. 17 (2006) 175- 195.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Mitcheson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Yeatman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Rao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the IEEE</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="1457" to="1486" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P.D. Mitcheson, E.M. Yeatman, G.K. Rao, A.S. Holmes, T.C. Green, Proceedings of the IEEE, 96, 2008, pp. 1457-1486.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Durou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ouarak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Colin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Baud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Fourniols</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PowerMEMS</title>
+		<imprint>
+			<date type="published" when="2008-11-12" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G.A. Ardila Rodríguez, H. Durou, L. Ouarak, D. Colin, C. Rossi, C. Baud, J.Y. Fourniols, PowerMEMS, Sendai, Japan, 9-12 November, 2008.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Sodano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Simmers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dereux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Inman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Intel. Mat. Syst. Str</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="3" to="10" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H.A. Sodano, G.E. Simmers, R. Dereux, D.J. Inman, J. Intel. Mat. Syst. Str. 18 (2007) 3-10.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Humble</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Harb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lafollette</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">148</biblScope>
+			<biblScope unit="page" from="1357" to="1361" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P.H. Humble, J.N. Harb, R. Lafollette, J. Electrochem. Soc. 148 (2001) 1357-1361.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Micropower for medical application</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Y</forename><surname>Kang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Encyclopedia of Medical Devices and Instrumentation</title>
+				<editor>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Webster</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.Y. Kang, Micropower for medical application, in: J.G. Webster (Ed.), Encyclo- pedia of Medical Devices and Instrumentation, Wiley, 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Myatt</surname></persName>
+		</author>
+		<title level="m">Proceedings of the 2nd New Energy Solutions in Tours-NEST</title>
+				<meeting>the 2nd New Energy Solutions in Tours-NEST<address><addrLine>Tours, France</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-05-27" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Myatt, Proceedings of the 2nd New Energy Solutions in Tours-NEST, Tours, France, 26-27 May, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chalasani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Conrad</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ieee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Huntsville</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-04-06" />
+			<biblScope unit="page" from="442" to="447" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Chalasani, J.M. Conrad, IEEE, Huntsville, AL, 3-6 April, 2008, pp. 442-447.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">321</biblScope>
+			<biblScope unit="page" from="651" to="652" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.R. Miller, P. Simon, Science 321 (2008) 651-652.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gogotsi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Mater</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="845" to="854" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Simon, Y. Gogotsi, Nat. Mater. 7 (2008) 845-854.</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J.-H</forename><surname>Sung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Jeong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E.-H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-H</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="1467" to="1470" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.-H. Sung, S.-J. Kim, S.-H. Jeong, E.-H. Kim, K.-H. Lee, J. Power Sources 162 (2006) 1467-1470.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Sun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Chen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microelectron. Eng</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1307" to="1310" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">W. Sun, X. Chen, Microelectron. Eng. 86 (2009) 1307-1310.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Choudhury</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sampath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Shukla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Environ. Sci</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="55" to="67" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">N.A. Choudhury, S. Sampath, A.K. Shukla, Energy Environ. Sci. 2 (2009) 55-67.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">I</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Lim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Choi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="126" to="129" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y.S. Yoon, W.I. Cho, J.H. Lim, D.J. Choi, J. Power Sources 101 (2001) 126-129.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H.-K</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S.-H</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-W</forename><surname>Ok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T.-Y</forename><surname>Seong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">S</forename><surname>Yoon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Vac. Sci. Technol. B</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="949" to="952" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H.-K. Kim, S.-H. Cho, Y.-W. Ok, T.-Y. Seong, Y.S. Yoon, J. Vac. Sci. Technol. B 21 (2003) 949-952.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Pandolfo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hollenkamp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page" from="11" to="27" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A.G. Pandolfo, A.F. Hollenkamp, J. Power Sources 157 (2006) 11-27.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Steingart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Salminen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Sin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M K</forename><surname>Rantala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Wright</surname></persName>
+		</author>
+		<title level="m">Proceedings of the 6th Workshop on Micro-and Nanotechnology for Power Generation and Energy Conversion</title>
+				<meeting>the 6th Workshop on Micro-and Nanotechnology for Power Generation and Energy Conversion<address><addrLine>Berkeley, CA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006-12-01" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C.C. Ho, D.A. Steingart, J.P. Salminen, W.H. Sin, T.M.K. Rantala, J.W. Evans, P.K. Wright, Proceedings of the 6th Workshop on Micro-and Nanotechnol- ogy for Power Generation and Energy Conversion, Berkeley, CA, November 29 to December 1, 2006.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>In</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shao-Horn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Barbastathis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page">83104</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H.J. In, S. Kumar, Y. Shao-Horn, G. Barbastathis, Appl. Phys. Lett. 88 (2006) 083104.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kaempgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gruner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nano. Lett</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1872" to="1876" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Kaempgen, C.K. Chan, J. Ma, Y. Cui, G. Gruner, Nano. Lett. 9 (2009) 1872-1876.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Morrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ngamna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>O'malley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Moulton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R M</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Killard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="5092" to="5099" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Morrin, O. Ngamna, E. O&apos;Malley, N. Kent, S.E. Moulton, G.G. Wallace, M.R.M. Smyth, A.J. Killard, Electrochim. Acta 53 (2008) 5092-5099.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kaydanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Miedaner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Perkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Alleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Ginley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Thin Solid Films</title>
+		<imprint>
+			<biblScope unit="volume">515</biblScope>
+			<biblScope unit="page" from="3820" to="3824" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Kaydanova, A. Miedaner, J.D. Perkins, C. Curtis, J.L. Alleman, D.S. Ginley, Thin Solid Films 515 (2007) 3820-3824.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vyas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Tentzeris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans. Microwave Theory</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="2894" to="2901" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">L. Yang, A. Rida, R. Vyas, M.M. Tentzeris, IEEE Trans. Microwave Theory 55 (2007) 2894-2901.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">V</forename><surname>Conédéra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mesnilgrente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brunet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fabre</surname></persName>
+		</author>
+		<title level="m">Proceedings of the ICQNM conference</title>
+				<meeting>the ICQNM conference<address><addrLine>Cancun, Mexico</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-02-07" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Conédéra, F. Mesnilgrente, M. Brunet, N. Fabre, Proceedings of the ICQNM conference, Cancun, Mexico, 1-7 February, 2009.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toupin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Quinn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="203" to="210" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Toupin, D. Bélanger, I.R. Hill, D. Quinn, J. Power Sources 140 (2005) 203-210.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Soudan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gaudet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Guay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schulz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1210" to="1215" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Soudan, J. Gaudet, D. Guay, D. Bélanger, R. Schulz, Chem. Mater. 14 (2002) 1210-1215.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Taberna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Fauvarque</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page">292</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P.L. Taberna, P. Simon, J.F. Fauvarque, J. Electrochem. Soc. 150 (2003) 292.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Conway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Pell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T.-C</forename><surname>Liu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page">53</biblScope>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B.E. Conway, W.G. Pell, T.-C. Liu, J. Power Sources 65 (1997) 53.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

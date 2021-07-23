@@ -1,0 +1,1260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Performance and stability of electrochemical capacitor based on anthraquinone modified activated carbon
+
+
+P
+a
+
+G
+a
+
+b
+
+a
+
+A
+R
+R
+2
+A
+A
+
+K
+H
+E
+C
+O
+A
+D
+
+1
+
+i
+i
+c
+s
+T
+t
+l
+s
+
+c
+c
+t
+a
+g
+[
+p
+s
+
+t
+
+0
+d
+
+Journal of Power Sources 196 (2011) 4117–4122
+
+Contents lists available at ScienceDirect
+
+Journal of Power Sources
+
+journa l homepage: www.e lsev ier .com/ locate / jpowsour
+
+erformance and stability of electrochemical capacitor based on
+nthraquinone modified activated carbon
+
+régory Pognona, Thierry Brousseb, Laurent Demarconnaya, Daniel Bélangera,∗
+
+Département de Chimie, Université du Québec à Montréal, case postale 8888, succursale centre-ville, Montréal, Québec H3C 3P8, Canada
+Laboratoire de Génie des Matériaux et Procédés Associés EA 2664, Polytech Nantes, Université de Nantes, BP50609, 44 306 Nantes Cedex 3, France
+
+r t i c l e i n f o
+
+rticle history:
+eceived 2 September 2010
+eceived in revised form
+5 September 2010
+ccepted 27 September 2010
+vailable online 26 November 2010
+
+a b s t r a c t
+
+A series of high surface area activated carbon powders modified with various loadings of electroactive
+anthraquinone groups was obtained by the spontaneous reduction of the corresponding in situ generated
+diazonium derivative on activated carbon. The diazotation and grafting reactions are fast and efficient
+and by varying the stoichiometry of these reactions the grafting amount can be controlled. With appro-
+priate reaction conditions, the attachment of anthraquinone groups allows to double the capacitance
+of the modified carbonaceous material (195 F g−1) compared to the unmodified carbon (100 F g−1) due
+eywords:
+ybrid multifunctional material
+lectrochemical capacitor
+arbon
+
+to the contribution of the redox reaction of grafted anthraquinone molecules. Long time galvanostatic
+charge–discharge cycling experiments were performed for composite electrodes prepared using modi-
+fied carbons having two different AQ loadings (e.g. 6.7 and 11.1 wt.%). Following 10 000 charge/discharge
+cycles, only a 17% loss of the faradaic capacitance was observed for these two carbons. Thus, this hybrid
+
+ears
+rganic derivatization
+nthraquinone
+iazonium
+
+bifunctional material app
+chemical capacitors.
+
+. Introduction
+
+In recent years, porous carbon materials have found applications
+n electrical energy storage, particularly in electrochemical capac-
+tor, an unique device which can store much more energy than a
+onventional capacitor that can also offer much higher power den-
+ity than batteries and capable of cycling millions of time [1,2].
+hese systems are based on the double layer capacitance (DLC) at
+he electrode/electrolyte interface where electric charges accumu-
+ated by the electrode surface are compensated by electrolyte ionic
+pecies of opposite charge.
+
+Activated carbons are promising electrode materials for electri-
+al double layer capacitors (EDLCs) because of their relatively low
+ost and high specific surface area due to their microporous struc-
+ure [4–10]. The relationship between their pore size distribution
+nd their electrochemical performances has been widely investi-
+ated [2,3]. Until the recent findings on the role of ultramicropores
+
+5], it was believed that mesopores were the most convenient to
+rovide high specific capacitance to the carbon materials and sub-
+equently to increase their energy density.
+
+Increasing the capacitance by optimization of the pore size dis-
+ribution, i.e. with a growing amount of micropores and mesopores
+
+∗ Corresponding author. Tel.: +1 514 987 3000x3909; fax: +1 514 987 3000.
+E-mail address: belanger.daniel@uqam.ca (D. Bélanger).
+
+378-7753/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+oi:10.1016/j.jpowsour.2010.09.097
+to be an excellent candidate for application as active electrode in electro-
+
+© 2010 Elsevier B.V. All rights reserved.
+
+find some limitation due to activated carbon synthesis. Practically,
+the useful surface area of activated carbon cannot be enhanced to
+an infinite value, which results in a maximum double layer capac-
+itance contribution. Other approaches to increase the capacitance
+of activated carbon are based on chemical surface modification to
+improve the wettability by the electrolyte [6–10] and induce redox
+reaction with electrochemically active centers, such as nitrogen,
+oxygen or phosphorus surface functional groups [11–15]. Another
+attractive way is to add a faradaic contribution to the double
+layer capacitance contribution. This can be done by preparing a
+multifunctional electrode by mixing a faradaic material with acti-
+vated carbon, but usually the faradaic material cannot sustain fast
+charge/discharge rates neither long term cycling which is detri-
+mental to the performance of the composite electrode compared
+to standard activated carbon [16].
+
+The covalent attachment of molecular species to surfaces by
+electrochemical and spontaneous reduction of diazonium cations
+has been widely investigated in the past two decades [17–26].
+Among these, modification with anthraquinone (AQ) groups has
+found interest for several applications. Compton and coworkers
+introduced and optimized the modification of graphitic or glassy
+carbon powder by chemical reduction of 1-diazo-anthraquinone
+
+with H3PO2 [27], and used their material to develop a pH probe
+[28]. AQ-modified electrodes were also investigated as electro-
+catalysts for the electrochemical reduction of oxygen [29,30] and
+also for electrochemical capacitor applications [31,32]. Pickup and
+coworkers have reported a 40% increase of capacitance for an elec-
+
+dx.doi.org/10.1016/j.jpowsour.2010.09.097
+http://www.sciencedirect.com/science/journal/03787753
+http://www.elsevier.com/locate/jpowsour
+mailto:belanger.daniel@uqam.ca
+dx.doi.org/10.1016/j.jpowsour.2010.09.097
+
+
+4118 G. Pognon et al. / Journal of Power Sources 196 (2011) 4117–4122
+
+Table 1
+Properties of carbons.
+
+Carbons Grafting conditions % AQ grafted Capacitance features (10 mV s−1)
+
+Reaction time eq. AQ eq. TBN CTOT CDL CAQ
+
+(F g−1) (F m−2) (F g−1) (F m−2) % (F g−1) (F m−2) %
+
+BP 0 0 0 0 100 6.7 100 6.7 100 0 0 0
+BP1 5 min 0.1 0.1 3.0 123 10.5 96 8.2 78 27 2.3 22
+BP2 1 h 0.1 0.1 3.2 135 12.2 103 9.3 76 32 2.9 24
+BP3 24 h 0.1 0.1 3.7 136 12.3 103 9.3 76 33 3 24
+BP4 48 h 0.1 0.1 3.6 122 13 90 9.6 74 32 3.4 26
+BP5 1 h 0.01 0.01 0.8 108 9.1 101 8.5 93 7 0.6 7
+BP6 1 h 0.1 0.2 5.6 154 14.9 102 9.9 66 53 5.1 34
+BP7 1.5 h 0.1 0.3 6.7 153 15.5 93 9.4 61 60 6.1 39
+BP8 2.5 h 0.2 0.6 11.1 183 23.8 85 11 46 98 12.7 54
+BP9 4 h 0.3 0.9 14.0 195 28.7 73 10.7 37.5 122 17.9 62.5
+
+E ated
+i given
+
+t
+f
+
+h
+w
+n
+T
+a
+c
+a
+t
+c
+m
+c
+i
+
+2
+
+2
+
+(
+t
+A
+
+a
+q
+N
+
+2
+
+t
+c
+c
+d
+v
+t
+w
+T
+t
+T
+n
+(
+t
+f
+
+BP10 1 h 0.1 0 1.0 106
+
+xperimental modification conditions, mass percentage of AQ in the material estim
+n the total capacitance (the gravimetric specific capacitance of each contribution is
+
+rochemical capacitor based on an anthraquinone modified carbon
+abric compared to pristine carbon fabric [32].
+
+In this work, AQ groups were grafted at the surface of a
+igh surface area activated carbon (≈1500 m2 g−1). The grafting
+as performed via the spontaneous reduction of a diazo-
+ium derivative of AQ by the carbon powder in acetonitrile.
+he diazonium cations were formed in situ by reaction of 1-
+minoanthraquinone with terbutylnitrite. By varying the reaction
+onditions, the AQ loading was modulated and controlled. The
+im of this article is to determine the energy storage proper-
+ies (e.g. specific capacitance) of several modified carbons from
+yclic voltammetry and galvanostatic charge/discharge experi-
+ents in an H2SO4 electrolyte. The cycling rate and long-term
+
+ycling stability of AQ-modified carbon based electrodes were also
+nvestigated.
+
+. Experimental
+
+.1. Reagents
+
+Black Pearls 2000 was obtained from the Cabot Corporation
+named BP in the following sections), 1-aminoanthraquinone and
+ert-butylnitrite (90% solution in acetonitrile) were purchased from
+ldrich.
+
+Unless otherwise stated all reagents were obtained from Aldrich
+nd were used without further purification. All solutions and subse-
+uent dilutions were carried out using deionised water (Barnstead
+anopure II).
+
+.2. Carbon modification
+
+In a solution of amino-anthraquinone (AAQ) in degassed ace-
+onitrile (for 150 ml of solvent: 192 mg, 0.1 equiv. compared to
+arbon) was injected the same quantity of tert-butylnitrite (1 equiv.
+ompared to AAQ) after the complete dissolution of the amino
+erivative. The mixture was stirred for 30 min and 100 mg of acti-
+ated carbon was added. Then, each 30 min, another 1 equiv. of
+ert-butylnitrite, was added directly to the organic suspension
+hich was kept at ambient temperature while stirring under N2.
+
+he conditions of grafting (stoichiometry and total time of reac-
+ion after the addition of the carbon powder) are summarized in
+
+able 1. The reaction mixture was finally vacuum filtered on a
+ylon filtration membrane having a pore size diameter of 0.47 �m
+Pall) and the carbon powder washed by successive aliquot of ace-
+onitrile, DMF, acetone and methanol and dried under vacuum
+or 12 h.
+7.7 98 7.1 92.5 8 0.6 7.5
+
+by electrochemistry, contribution of each electrochemical processes of the system
+for the total mass of the material).
+
+2.3. Electrode preparation, electrochemical experiments
+conditions
+
+The working electrode consists of a composite electrode pre-
+pared by mixing, in a small volume of ethanol, the modified
+activated carbon and PTFE as binder in a 95:5 wt.% ratio until a
+homogenized paste-like consistency was obtained. The paste was
+cold rolled and a small square of approximately 0.25 cm2 in size
+and 2 mg in weight was placed in a stainless steel grid (80 mesh,
+0.127 mm, Alfa Aesar) used as current collector and was pressed for
+60 s at 0.9 MPa. A three-electrode configuration was used in a one-
+compartment cell for the electrochemical characterization of the
+single activated carbon electrode. The counter electrode consists of
+a 20 × 60 mm piece of carbon graphite paper placed at 20 mm of
+the working electrode with a Ag/AgCl reference electrode placed
+at 5 mm of the working electrode. Degazed aqueous sulfuric acid
+(0.1 M) was used as electrolyte in all experiments which were per-
+formed at room temperature. All potentials are referred to Ag/AgCl
+electrode. Prior to any measurement, the working electrode was
+dipped in the electrolyte for 20 min in order to allow the electrolyte
+to impregnate the electrode porosity.
+
+Cyclic voltammetry (CV) was carried out using a potentiostat
+electrochemical interface SI480 (Solartron Instruments) and the
+electrochemical setups were controlled with DC Corrware software
+(Scribner Associates, version 2.8d). The gravimetric capacitance C
+expressed in farads (F) per gram of paste material (carbon mod-
+ified by anthraquinone and PTFE) and the charge induced by
+anthraquinone (for the determination of the amount of grafting)
+was estimated by voltammetry at a scan rate of 10 mV s−1.
+
+3. Results and discussion
+
+3.1. Electrochemical behavior of the modified carbons
+
+3.1.1. Amount of grafted anthraquinone
+Fig. 1 shows the electrochemical response of electrodes made
+
+with the modified carbons that is characterized by a rectangular
+shaped cyclic voltammogram (CV) in 0.1 M H2SO4, due to capacitive
+behavior of the carbon surface, completed by the reversible redox
+waves for the anthraquinone groups centered at about −0.2 V. The
+unmodified carbon only shows the rectangular CV. The changes of
+the CV following grafting of AQ are similar to those reported for
+
+a carbon fabric electrode (Spectracarb 2225) [33]. The additional
+redox waves between 0 and 0.3 V can be tentatively attributed to
+the redox processes of the molecules whose oxygen functionali-
+ties are involved in hydrogen bonding between two closely-spaced
+molecules. Those molecules are oxidized at a more positive poten-
+
+
+
+G. Pognon et al. / Journal of Power Sources 196 (2011) 4117–4122 4119
+
+0.60.40.20.0 -0.2 -0.4 -0.6 
+
+-6 
+
+-4 
+
+-2 
+
+0
+
+2
+
+4
+
+6
+
+8
+I 
+
+/A
+ g
+
+-1
+
+F
+(
+
+t
+t
+p
+a
+2
+
+T
+v
+a
+i
+
+B
+i
+t
+s
+d
+t
+t
+o
+o
+o
+t
+s
+t
+r
+a
+a
+d
+r
+b
+t
+c
+p
+T
+m
+w
+
+0 2 4 6 8 10 12 14
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+200
+
+C DL
+
+C total
+
+C AQ
+
+C
+ /
+
+F
+ g
+
+-1
+
+Mass percentage of grafted AQ
+E vs. Ag/AgCl/V
+
+ig. 1. Cyclic voltammograms of unmodified BP (—) and BP modified with 11 wt.%
+- - -) AQ, recorded in 0.1 M H2SO4 at a scan rate of 10 mV s−1.
+
+ial because of their stabilized exchanged protons. By integrating
+he anodic or cathodic redox waves and knowing that the redox
+rocess of AQ involves two protons and two electrons (Eq. (1)), the
+mount of grafted anthraquinone was estimated with slow (e.g.
+mV s−1) scan rate CV.
+
+OH
+
+OH
+
+O
+
+O
+
++ 2 H+ + 2 e
+-
+
+The AQ loading of the electroactive materials are gathered in
+able 1 and ranged from 0.8 to 14 wt.%. In this study, the effect of
+arious parameters such as the reaction time, amine concentration,
+mine/TBN ratio and their concentration on the AQ loading was
+nvestigated.
+
+The study of the influence of grafting time (see Table 1, carbons
+P1–BP4) revealed that the reaction is very fast and efficient since
+
+t has no considerable effect on the amount of grafted AQ for reac-
+ion time longer than 5 min. Similarly, Pickup and coworkers have
+hown that the spontaneous reduction of a commercially available
+iazonium salt of AQ, Fast red Al Salt (C14H7ClN2O2–0.5ZnCl2) by
+he activated carbon Vulcan XC72 in a hypophosporous acid solu-
+ion (50 wt.%) yielded a complete grafting after 30 min [34]. They
+bserved the same coverage of 6 × 10−5 mol g−1 with reaction time
+f either 30 min or 24 h. In this work we have observed that it is
+nly by modifying the stoichiometry of the reactions (diazotiza-
+ion and grafting) that the amount of grafted AQ can be changed, as
+hown in Table 1. Indeed, increasing the amine and the diazotiza-
+ion agent concentrations, while keeping the same ratio for the two
+eactants, allow to increase the AQ loading (compare samples BP5
+nd BP2). Furthermore, the grafting becomes much more efficient
+nd increased by a factor close to 2 when the concentration of the
+iazotization agent is doubled (BP2 and BP6). Thus, the diazotation
+eaction is optimized with an excess of TBN. Furthermore, when
+oth the amine and diazotization agent concentrations, as well as
+he TBN/amine ratio are increased, a high AQ loading of 14 wt.%
+
+an be achieved. Finally, it is interesting to note that some AQ is
+resent at the BP surface even if the diazotization agent is not used.
+his could be due to the adsorption of the 1-aminoanthraquinone
+olecules at the surface [34] or spontaneous reaction of the amine
+ith the carbon [35].
+Fig. 2. Plot of the total capacitance (C total), AQ capacitance (C AQ) and double layer
+capacitance (C DL) of the modified carbons as a function of the AQ loading. The
+dashed curve represents the double layer capacitance relative to the Black Pearls
+content of the modified materials.
+
+It is interesting to mention that other approaches have been
+tested to influence and increase the amount of grafted molecules
+by the diazonium chemistry. For example, Compton and cowork-
+ers investigated the role of hypophosphorous acid as the reducing
+agent for the covalent derivatization of graphite, carbon nanotubes
+and glassy carbon materials [27]. They found that in the absence
+of a reducing agent, the derivatization mechanism likely proceeds
+via a cationic intermediate, whilst in the presence of hypophospho-
+rous acid (in sufficient quantities) the mechanism proceeds through
+either a purely radical intermediate. In the presence of the reduc-
+ing agent, the surface coverage of AQ groups reaches a maximum
+at about 20 ◦C (probably due to the increasing rate of competing
+side reactions beyond this temperature) whereas it continues to
+increase until 40 ◦C when no hypophosphorous acid is used. Pickup
+and coworkers also investigated the effect of the addition of H3PO2
+to the reaction mixture and found a 50% decrease of the AQ load-
+ing in the presence of this reducing agent [34]. On the other hand,
+a preliminary treatment of the carbon surface (e.g. crushing, oxi-
+dation by HNO3, heating at 700 ◦C under N2, reduction by NaBH4)
+yielded a variation in the amount of the grafted AQ molecules by a
+factor of 2 for the resulting modified carbons [32]. A similar obser-
+vation has been made for the grafting of 4-nitrobenzene groups on
+Vulcan although the variation of the surface coverage was smaller
+diazonium cations [22]. Thus, the spontaneous reduction of the
+diazonium cation appears generally as a very fast reaction, that is
+only slightly influenced by a pretreatment of the carbon material
+[22,34] and that the grafting rate appears to be more limited by the
+diazonium formation (see Table 1).
+
+The AQ loadings on BP carbons (Table 1) vary over an order of
+magnitude and can reach 14 wt.% and compare well with litera-
+ture data. It is interesting to note that a 7 to 10 wt.% loading was
+achieved on high surface area carbon fabric (Spectracarb 2225) [32].
+As expected, for the lower surface area Vulcan which is charac-
+terized by a BET surface area of about 225 m2 g−1, a much lower
+loading of about 2 wt.% (1 × 10−4 mol g−1) was reached.
+
+3.1.2. Capacitance of the modified carbons
+
+The contribution of the capacitive and faradaic processes to the
+
+total capacitance of the modified carbons were determined from
+the cyclic voltammogram (see Section 2) recorded in 0.1 M H2SO4
+at a scan rate of 10 mV s−1 and are reported in Table 1 and Fig. 2.
+Table 1 shows that the double layer capacitance remains relatively
+
+
+
+4120 G. Pognon et al. / Journal of Power Sources 196 (2011) 4117–4122
+
+0 20 40 60 80 100
+0
+
+25
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+225
+
+b CAQ
+
+BP 8
+
+BP 9
+
+50
+
+0
+
+25
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+225
+
+0 20 40 60 80 100
+-1
+
+can r
+
+c CDL
+
+BP
+
+50 BP 8BP 9
+
+1000 20 40 60 80
+0
+
+25
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+225
+
+C
+ /
+ F
+
+g
+-1
+
+C
+ /
+ F
+
+g
+-1
+
+C
+ /
+ F
+
+g
+-1
+
+a CTOT
+
+BP 8
+
+BP 9
+
+50 BP
+
+F yer ca
+A t very
+
+c
+l
+s
+s
+m
+t
+d
+l
+l
+g
+s
+t
+t
+b
+o
+t
+c
+t
+r
+t
+s
+t
+c
+t
+o
+l
+s
+i
+l
+c
+c
+i
+c
+T
+o
+
+3
+
+d
+e
+r
+t
+u
+o
+i
+a
+b
+t
+s
+w
+
+SScan rate / mV s
+-1
+
+ig. 3. Evolution of the: (a) total capacitance; (b) AQ capacitance and (c) double la
+Q); dashed lines for BP9 (14 wt.% AQ). The bold curves (with a value of 125 F g−1 a
+
+onstant up to a grafting of about 7 wt.%. Further increase of the AQ
+oading led to a decrease of the double layer capacitance. Fig. 2 also
+hows the variation of the double layer capacitance of the carbon
+ubstrate by considering only the fraction of carbon in the modified
+aterials. As expected, the evolution of the double layer capaci-
+
+ance is similar albeit the relative decrease is slightly smaller. A
+etailed investigation of the effect of AQ grafting on the double
+
+ayer capacitance has been reported elsewhere [36]. Briefly, in the
+atter, it has been shown that the covalent attachment of the AQ
+roups resulted in a major loss of the microporosity, with pores
+maller than 0.65 nm being mainly blocked. The contribution to
+he double layer capacitance of these small pores was estimated
+o only 0.9 �F cm−2 [36]. This low value can explain why the dou-
+le layer capacitance is not strongly affected up to a AQ loading
+f 7 wt.%, in agreement with previous studies that have shown that
+he capacitance of carbide derived carbons drastically decreased for
+alibrated pore size smaller than 0.8 nm [5d]. Interestingly, the con-
+ribution of the faradaic process associated to the anthraquinone
+edox interconversion increases linearly with the AQ loading in
+he range investigated. Thus, the capacitance of the multifunctional
+ystem can be significantly increased, as a result of the contribu-
+ion of the AQ redox process and to the fact that the double layer
+apacitance contribution of the carbon is only slightly affected by
+he AQ grafting. Fig. 2 and Table 1 show that the total capacitance
+f BP increased from 100 to 195 F g−1 following AQ grafting up to a
+oading of 14 wt.%. On the other hand, Pickup and coworkers have
+hown that the capacitance of the AQ modified Spectracarb 2225
+s 482 F g−1 when averaged between 0 and −0.25 V for an AQ mass
+oading of 7 wt.% [32]. This contribution is added to the double layer
+apacitance of the carbon fabric, which was 199 F g−1. Thus, the
+ontribution of the grafted AQ molecules to the total capacitance
+s about 280 F g−1. This is comparable to the enhancement of the
+apacitance of 240 F g−1 that could be computed from the data of
+able 1 for an AQ-modified BP carbon of 6.7 wt.%, when also average
+ver a potential range of 250 mV.
+
+.1.3. Cycling rate
+Fig. 3 displays the scan rate dependence of the capacitance (total,
+
+ouble layer and AQ) of various AQ grafted carbon electrodes. As
+xpected, the three different capacitances decreased with the scan
+ate. Fig. 3(a) demonstrates that the cycling rate of the AQ-BP elec-
+rode with an AQ loading of 11.1 wt.% is similar to that of the
+nmodified carbon, indicating good kinetics for the redox processes
+f the surface bound AQ molecules. The decrease of the total capac-
+tance is much more important for the highest AQ loaded electrode
+
+nd at high scan rate, the total capacitance of this electrode even
+ecomes smaller than that of the lower (11.1 wt.%) AQ-loaded elec-
+rode. This is mainly due to the loss of a significant fraction of the AQ
+ignal in the electrochemical window used for the CV experiment,
+hich is limited at the negative potential extremity by the forma-
+Scan rate / mV sate / mV s
+-1
+
+pacitance of the modified carbons with the scan rate. Full lines for BP8 (11.1 wt.%
+slow scan rate) in (a) and (c) corresponds to the pristine BP electrode.
+
+tion of H2. Actually in this case, only the total capacitance can be
+reliably evaluated and accordingly the AQ and double layer capaci-
+tances are not included in Fig. 3(b and c). Nonetheless, the fact that
+for a 14 wt.% loading the capacitance of BP is twice as large relative
+to the unmodified carbon at slow scan rate suggests that these high
+AQ loaded electrodes could be used for low rate applications.
+
+A close examination of the data of Fig. 3(b and c) revealed some
+interesting features. The double layer and AQ capacitances for the
+11.1 wt.% loaded BP decreased both monotonously with the scan
+rate. This is to be contrasted with the sharp decrease of the double
+layer capacitance for the unmodified BP. This has been discussed in
+detail elsewhere and is due to the fact that a fraction of the microp-
+ores, which contributes to the double layer capacitance, is blocked
+by the grafted AQ molecules [36]. As a result, the total capacitance
+of the 11.1 wt.% AQ loaded electrode is 1.6 time higher than that
+of pristine BP at low scan rate (2 mV s−1), while at faster scan rate
+(20 mV s−1) an attractive gain of 100% of the capacitance is observed
+and this advantage is kept even at 100 mV s−1. A decrease of the
+total capacitance has been also observed for AQ-modified carbon
+fabric upon increasing the scan rate but the extent of the decrease
+was not mentioned [32].
+
+3.2. Electrochemical stability of the modified carbons
+
+The cycling stability of an electrochemical capacitor is
+a key parameter and was investigated by constant current
+charge/discharge cycling experiments. These measurements were
+performed under relatively low (2 A g−1 of active material) and
+high (10 A g−1) rate conditions and Fig. 4(a and b) presents typical
+potential–time plots recorded for an AQ-modified carbon electrode
+with a 11 wt.% AQ loading. The first charge curve at 2 A g−1 shows a
+quasi linear decrease between 0.4 and −0.15 V which corresponds
+to the double layer region of the carbon electrode and that is fol-
+lowed by a sloped plateau (centered at about 0.2 V) associated to the
+reduction of the AQ grafted groups. Following the complete reduc-
+tion of the AQ molecules, another short linear region is observed.
+During discharge, the reverse processes are occurring with the
+observation of the two linear regions and the sloped plateau, which
+appears at a slightly more positive potential, in agreement with
+the cyclic voltammetry data (Fig. 1). It is worth noting that the AQ
+contribution (between −0.3 and −0.5 V) is clearly observed even
+at a relatively higher current density of 10 A g−1 (Fig. 4(b)). In addi-
+tion, at this higher charge/discharge rate, the shape of the discharge
+curve slightly changes with a very fast decrease from 0.5 to 0.1 V
+attributed to the resistive character of the electrode. This is fol-
+
+lowed by a linear decrease corresponding to the contribution of
+the double layer. At such a high rate, the charge and discharge steps
+occur in 11 s and the second double layer contribution observed at
+slower rate is not detected because the reduction of AQ groups is
+not complete between −0.3 and −0.5 V. These differences observed
+
+
+
+G. Pognon et al. / Journal of Power Sources 196 (2011) 4117–4122 4121
+
+c
+
+0 2000 4000 6000 8000 10000
+
+C
+/
+
+F
+g
+
+-1
+
+number of cycles
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180 d
+
+0 2000 4000 6000 8000 10000
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+number of cycles
+
+C
+/
+
+F
+g
+
+-1
+
+a b
+
+0 20 40 60 80 100 120 140 160
+
+-0,4
+
+-0,2
+
+0,0
+
+0,2
+
+0,4
+
+0,6
+
+E
+v
+s
+
+A
+g
+
+/A
+g
+
+C
+l
+(V
+
+)
+
+time(s)
+
+0 5 10 15 20
+
+-0,4
+
+-0,2
+
+0,0
+
+0,2
+
+0,4
+
+0,6
+
+E
+v
+s
+
+A
+g
+
+/A
+g
+
+C
+l
+(V
+
+)
+
+time(s)
+
+C TOT
+
+C DL
+
+C AQ
+C AQ
+
+C DL
+
+C TOT
+
+F iation
+l
+
+a
+s
+
+B
+s
+A
+c
+d
+n
+s
+1
+1
+l
+o
+t
+i
+o
+i
+A
+t
+o
+o
+i
+t
+
+t
+e
+b
+e
+t
+c
+t
+s
+s
+
+ig. 4. Constant current charge/discharge cycles; (a) I = 2 A g−1; (b) I = 10 A g−1; Var
+oaded electrodes (charge/discharge cycling experiments performed at I = 10 A g−1).
+
+t these two cycling rates are in agreement with the CV data (vide
+upra).
+
+The evolution of the capacitance (total, double layer and AQ) of
+P modified with two different loadings of AQ during 10 000 con-
+tant current charge/discharge cycles is shown in Fig. 4(c and d).
+decrease of the total capacitance is noticed during the first 2000
+
+ycles and is mainly due to the loss of the AQ redox waves as the
+ouble layer capacitance contribution is barely affected. This phe-
+omenon is amplified when the AQ loading is increased. During the
+ubsequent cycles, the decrease is much less important and after
+0 000 charge/discharge cycles, both electrodes lost approximately
+7% of their faradaic capacitance (Fig. 4(c and d)). Since the grafting
+
+oadings are different, this loss translates in total capacitance fade
+f 10 and 14% for 6.7 and 11 wt.% AQ-loaded electrodes, respec-
+ively. It is interesting to note that AQ is affected in a similar way,
+ndependently of the AQ loading. After the initial capacitance loss
+bserved during the first 2000 cycles, the fade appears to be approx-
+mately the same, independently of the grafting amount (1.3% of the
+Q capacitance per 1000 charge/discharge cycles for the two elec-
+
+rodes with a current density of 10 A g−1). By assuming that the rate
+f the loss will remain constant upon further cycling, the lifetime
+f such modified electrodes (before its capacitance has attained the
+nitial value, i.e. the one for the pristine carbon) could be estimated
+o about 84 000 cycles.
+
+Even if both electrodes still exhibit higher capacitance compared
+o the pristine carbon electrode even after 10 000 cycles, it is rel-
+vant to understand the cause of the loss of the AQ redox waves
+ecause the decrease of the performance of the AQ-modified BP
+lectrode is mainly due to the organic molecules. Firstly, the ini-
+
+ial decrease of capacitance observed during the first 2000 cycles
+an be due to the loss of AQ species that are only physisorbed to
+he carbon surface. In a recent study, it has been clearly demon-
+trated that adsorbed species can account for at least 50% of the
+pecies immobilized at the surface of carbon powder [34]. These
+of the total, AQ and double layer capacitances for: (c) 6.7 wt.% and (d) 11 wt.% AQ
+
+adsorbed AQ moieties can be effectively removed by washing with
+benzene. In our work, the washing method that was used to extract
+the adsorbed molecules consisted of using several liters of different
+organic solvents (acetonitrile, DMF, acetone and methanol) until
+complete decoloration of the filtrate. At the beginning of the wash-
+ing procedure, the filtrate was dark brown, especially with DMF. At
+the end, a final washing with DMF by sonication for 30 min yielded
+a colorless solvent. Thus, we believe that this procedure is efficient
+to dissolve most of the absorbed AQ molecules. Secondly, degrada-
+tion of the AQ molecules might also occur. This can be demonstrated
+by cycling experiments performed at a lower scan rate. For exam-
+ple, the decrease of AQ capacitance when the cycling was carried
+out at 2 A g−1 (instead of 10 A g−1 in Fig. 4(c and d)), is higher and
+reaches 55%. As a result the total capacitance will decrease by about
+30%. The pronounced loss of capacitance at slower rate can be
+explained by the fact that in this case the electrodes stay longer
+at the extreme potential values, which is presumably harmful for
+the grafted organic species.
+
+These results suggest that AQ grafting is an interesting approach
+to improve the capacitance of a carbon electrode. However, the
+stability of the grafted AQ molecules will have to be improved.
+Furthermore, to develop a more advanced two-electrode elec-
+trochemical capacitor, a similar grafting could be performed to
+increase the capacitance of the positive electrode. This could be
+achieved by selecting an appropriate molecule that is characterized
+by a more positive redox potential.
+
+4. Conclusion
+The specific capacitance of a high surface area activated carbon
+was doubled by grafting AQ groups at its surface. With such car-
+bon good performances are maintained during long-term cycling
+and high current density charge–discharge cycling. However, the
+grafted carbon exhibits a progressive loss of the electroactivity
+
+
+
+4 wer So
+
+a
+m
+t
+t
+a
+f
+c
+
+A
+
+n
+a
+
+R
+
+[
+[
+[
+
+[
+
+[
+
+[
+
+[
+
+[
+[
+[
+[
+
+[
+
+[
+[
+
+[
+
+[
+
+[
+
+[
+
+[
+
+[
+
+[
+
+[
+[
+
+182.
+122 G. Pognon et al. / Journal of Po
+
+ssociated to the grafted species, which will have to be limited if the
+aterials are going to be used in practical electrochemical capaci-
+
+ors. Nevertheless, AQ grafted activated carbon opens the way for
+he design of improved electrodes for electrochemical energy stor-
+ge devices. Future work will aim at finding an equivalent to AQ
+or the positive carbon electrode in order to improve the overall
+apacitance of the device.

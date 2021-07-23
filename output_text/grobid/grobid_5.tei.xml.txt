@@ -1,0 +1,87 @@
+
+		
+			
+				High voltage supercapacitor built with seaweed carbons in neutral aqueous electrolyte
+			
+			
+				Elsevier BV
+				Copyright Elsevier BV
+				
+				3 August 2010
+			
+			
+				
+					
+						
+							MPBichat
+							
+								Centre de Recherche sur la Matière Divisée, CNRS/University, 1B Rue de la Férollerie, 45071 Orléans, France
+								Centre de Recherche sur la Matière Divisée
+								CNRS/University
+								
+									1B Rue de la Férollerie
+									45071
+									Orléans
+									France
+								
+							
+						
+						
+							ERaymundo-Piñero
+						
+						
+							FBéguin
+							beguin@cnrs-orleans.fr
+							
+								Centre de Recherche sur la Matière Divisée, CNRS/University, 1B Rue de la Férollerie, 45071 Orléans, France
+								Centre de Recherche sur la Matière Divisée
+								CNRS/University
+								
+									1B Rue de la Férollerie
+									45071
+									Orléans
+									France
+								
+							
+						
+						High voltage supercapacitor built with seaweed carbons in neutral aqueous electrolyte
+					
+					
+						Carbon
+						Carbon
+						0008-6223
+						
+							Elsevier BV
+							48
+							15
+							
+							3 August 2010
+						
+					
+					10.1016/j.carbon.2010.07.049
+					Received 13 March 2010 Accepted 28 July 2010
+				
+				
+			
+		
+		
+			
+Na 2 SO 4 aqueous media. Interestingly, the potential stability window measured in a three-electrode cell configuration depends both on the nature of the oxygenated surface functionality and on the electrolyte pH. A high value of 2.4 V was observed in Na 2 SO 4 for the seaweeds pyrolysed at 600°C, showing that the surface functionality strongly influences the over-potentials of di-hydrogen evolution and carbon oxidation. Symmetric capacitors built from the seaweed carbons exhibited an excellent cycle life for voltage values up to 1.6 V, showing the promise of Na 2 SO 4 for developing high energy density and environment friendly systems.
+			
+		
+	
+	
+		
+IntroductionIn the last decade, carbon materials, owing to their low cost, good electrical conductivity, developed porosity and possibility of tailoring the nanotexture and chemical composition, gained an interest in supercapacitor applications 
+Experimental
+Samples preparationThe brown seaweed Lessonia nigrescens (LN) has been used as carbon precursor. In order to get the carbon materials, the dried seaweed was pyrolyzed in a tubular furnace under nitrogen flow (100 mL min À1 ) up to 600 or 750°C. The heating rate was 10°C min À1 and the maximum temperature was hold for 3 h. The resulting black solid was then thoroughly washed 5 times with 5 mol L À1 HCl for 24 h at 80°C and 5 times in distilled water, in order to make sure that a neutral pH is reached. Afterwards, the material was dried at 120°C overnight in an oven. The carbons obtained at 600 and 750°C are named LN600 and LN750, respectively.
+Physico-chemical characterization of the carbon samplesThe porous texture of the various carbons has been analyzed by N 2 and CO 2 adsorption at 77 and 273 K, respectively (Autosorb-1, Quantachrome). Before the measurements, the samples were outgassed at 200°C overnight under vacuum. The specific surface area was calculated from the nitrogen adsorption isotherms by applying the BET and Dubinin-Radushkevich equations. The non-linear density functional theory (NLDFT) method was applied to the N 2 adsorption isotherms to determine the pore size distribution. The micro and mesopore volumes were determined from the N adsorption isotherms by applying the NLDFT equation. The ultramicropore volume and surface area were obtained by applying the Dubinin-Radushkevich equation to the CO 2 adsorption data. The surface functionality of the carbon materials was analyzed by X-ray photoelectron spectroscopy (XPS) using a VG ESCALAB 250 spectrometer with an AlKa monochromatic source (15 kV, 15 mA) and a multidetection analyzer under a residual pressure of 10 À8 Pa. The analyses have been performed either on the as-received carbon powders or after wetting the carbon materials with the electrolytic solution (6 mol L À1 KOH or 0.5 mol L À1 Na 2 SO 4 ) during 24 h under stirring followed by a thorough washing in distilled water and drying.
+Electrochemical measurementsComposite electrodes 
+Results and discussion3.1.
+Physico-chemical characterization of the carbon samplesThe nitrogen adsorption isotherms and the pore size distribution (PSD) for LN600 and LN750 are plotted in Fig. 
+SampleS BET (N 2 ) (m 2 g À1 )  a simultaneous exchange of electrons and protons. The interaction mechanism between an active carbon surface and electrolyte solutions has been studied in the past (see reviewed literature in 
+3.2.Electrochemical characterization of the carbon samples
+Three-electrode cell characterization using different aqueous electrolytesFig. 
+Two-electrode cells performance in 6 mol L À1 KOHFig. 
+Conclusion
+Seaweed carbons have been electrochemically characterized as electrode for supercapacitors in KOH, H 2 SO 4 and Na 2 SO 4 aqueous electrolytes. The nature of the electrode material and the electrolyte pH influence both the capacitance values and the stability potential window. For a particular electrolyte, the carbon with the highest oxygen content demonstrates the highest capacitance values and stability potential window. A very high value of 2.4 V was observed for the stability potential window of this carbon in Na 2 SO 4 solution. Moreover, it has been shown for the first time that a contribution of pseudo-faradic reactions is possible in a neutral electrolyte if the material posses an adequate surface functionality. In particular, the quinone-like groups seem to be the most active ones. It was demonstrated that a symmetric carbon/carbon cell can operate up to 1.6 V in Na SO 4 aqueous electrolyte. This performance shows that a neutral aqueous electrolyte is very attractive for developing a new generation of environment friendly carbon/carbon supercapacitors able to compete with the organic electrolyte based systems. ) of LN600 and LN750 with negative potential cut-off higher than the thermodynamic limit for water reduction. Electrolyte: 0.5 mol L À1 Na 2 SO 4 .Fig. 1 -1Fig.1-N 2 adsorption isotherms (left) and NLDFT pore size distribution (right) for LN600 and LN750.

@@ -1,0 +1,343 @@
+Journal of Power Sources 195 (2010) 1266–1269
+
+Contents lists available at ScienceDirect
+
+Journal of Power Sources
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j p o w s o u r
+
+Short communication
+
+Elaboration of a microstructured inkjet-printed carbon
+electrochemical capacitor
+
+David Pech a, Magali Brunet a,∗, Pierre-Louis Taberna b, Patrice Simon b,
+Norbert Fabre a, Fabien Mesnilgrente a, Véronique Conédéra a, Hugo Durou a
+
+a LAAS-CNRS, Université de Toulouse, 7 av. du Colonel Roche, F-31077 Toulouse, France
+b CIRIMAT-CNRS, Université de Toulouse, 118 route de Narbonne, F-31062 Toulouse, France
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 16 April 2009
+Received in revised form 4 June 2009
+Accepted 29 August 2009
+Available online 6 September 2009
+
+Keywords:
+Micro-supercapacitors
+Micro-devices
+Inkjet
+
+Carbon-based micro-supercapacitors dedicated to energy storage in self-powered modules were fabri-
+cated with inkjet printing technology on silicon substrate. An ink was ﬁrst prepared by mixing an activated
+carbon powder with a PTFE polymer binder in ethylene glycol stabilized with a surfactant then deposited
+by inkjet on patterned gold current collectors with the substrate heated at 140 ◦C in order to assure a
+good homogeneity.
+
+Electrochemical micro-capacitors with electrodes in an interdigital conﬁguration were fabricated, and
+characterized using electrochemical techniques in 1 M Et4NBF4 propylene carbonate electrolyte. These
+micro-devices show an excellent capacitive behavior over a wide potential range of 2.5 V for a cell capac-
+itance of 2.1 mF cm−2. The newly developed technology will allow the integration of the storage device
+as close as possible to the MEMS-based energy harvesting device, minimizing power losses through
+connections.
+
+© 2009 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+The development of autonomous electronic miniaturized
+devices has lead to an increasing demand for rechargeable micro-
+power sources of appropriate size. Li and Li-ion micro-batteries
+have been developed for this purpose in the late 1990s [1,2]. On
+the other hand, harvesting micro-devices extracting energy from
+various ambient environment sources (thermal, mechanical, solar
+energy) have started to be developed in the year 2000 leading to
+self-powered systems [3–5]. The harvested energy may be stored in
+micro-batteries [6,7], but their ﬁnite life-time may be a major prob-
+lem when they have to be embedded in permanent structures, such
+as biomedical implants [8], active Radio Frequency Identiﬁcation
+(RFID) tags [9] and structure-embedded micro-sensors where no
+maintenance or replacement is possible [10]. Moreover, the quite
+low power densities of rechargeable batteries remain insufﬁcient
+for some speciﬁc applications or power harvesting devices.
+
+Electrochemical capacitors (ECs), also called supercapacitors,
+store energy using accumulation of ions at the interface between
+a highly porous electrode and an electrolyte. The charge storage
+mechanism is mainly capacitive, with no chemical modiﬁcation
+of the electrode involved during the charge/discharge process.
+As a result, they can sustain millions of cycles, can provide fast
+
+∗
+
+Corresponding author. Tel.: +33 5 61 33 62 21; fax: +33 5 61 33 62 08.
+E-mail address: mbrunet@laas.fr (M. Brunet).
+
+0378-7753/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jpowsour.2009.08.085
+
+charge/discharge rates and subsequently high power density, while
+keeping a reasonable energy density [11,12]. EC miniaturized
+to a microscopic scale could satisfy in this sense a variety of
+micro-power demands and complement or replace micro-batteries
+in electrical energy storage and harvesting applications where
+high power delivery or uptake pulses are required in very short
+times.
+
+Very little work has been published on the integration of low-
+proﬁle supercapacitors on a chip, although the applications are
+there: local power sources for Micro-Electro-Mechanical Systems
+(MEMSs) devices, intermediate storage level for energy harvesting
+microsystems and numerous sensors.
+
+Micro-supercapacitors based on pseudocapacitive materials
+have been reported in literature with interdigital ﬁngers as low
+as 50 (cid:2)m [13,14]. Unfortunately, the operating voltage range of
+these devices using hydrogel-polymer electrolyte hardly exceeds
+1 V [15], making them non-functional for most applications.
+
+Yoon et al. have investigated the use of a pseudocapacitive
+amorphous RuO2 electrode with a LiPON solid electrolyte for the
+elaboration of a thin-ﬁlm micro-supercapacitor [16,17]. Despite
+the use of Li+ ions instead of protons H+ intercalation in RuO2
+electrode, they obtained a good capacitance and a high potential
+window.
+
+Unlike pseudocapacitive materials, carbon-based active materi-
+als exhibit true capacitive behavior and excellent chemical stability
+upon cycling [18]. Ho et al. have developed a 5 mm × 5 mm
+carbon EC using a direct write pneumatic dispenser printer
+
+D. Pech et al. / Journal of Power Sources 195 (2010) 1266–1269
+
+1267
+
+[19]. They obtained a cell capacitance of 0.1 mF cm−2 for a
+2 V potential range, despite the use of carbon of low surface
+area.
+
+The ﬁrst microstructured carbon-based EC was reported by
+In et al. with an electrode area of 350 (cid:2)m × 350 (cid:2)m using the
+OrigamiTM process [20]. Their micro-EC displays a cell capacitance
+of 0.4 mF cm−2 for a 0.6 V potential range using aqueous electrolyte.
+The use of hydrogel-polymer electrolyte for the elaboration of
+all solid-state thin-ﬁlm carbon-based EC has also been reported by
+Kaempgen et al. with an estimated cell capacitance of 1.1 mF cm−2,
+but a potential window limited to 1 V [21].
+
+In the present work, a new process based on the inkjet printing
+technology is presented to integrate a microstructured carbon-
+based EC of high surface area on silicon with very few technological
+steps. The inkjet deposition technology has been developed for
+polymers [22], oxides [23], metals [24] and nanoparticles, and
+turns out to be interesting in various applications, but so far, no
+study of the deposition of activated carbon has been reported by
+this technique. Various micro-supercapacitors were designed with
+this technique with interdigital ﬁngers ranging from 40 to 100 (cid:2)m
+width. The developments necessary for the inkjet deposition of the
+active material are described in the ﬁrst part. Then, the electro-
+chemical characterizations of the realized micro-supercapacitors
+are presented and the results discussed. These devices display
+excellent stabilities and electrochemical behaviors over a wide
+potential window.
+
+2. Experimental
+
+Micro-supercapacitors were designed as shown in Fig. 1.
+Two gold current collectors made of 20 interdigital ﬁn-
+gers were deposited by evaporation on an oxidized silicon
+substrate, and patterned using a conventional photolithogra-
+phy/etching process. Activated carbon electrodes were deposited
+by a process based on the inkjet printing technology using
+
+an AltaDrop® equipment
+after.
+
+2.1. Process developments
+
+from Altatech and detailed here-
+
+Silicon dioxide (150 nm) was ﬁrst grown on silicon wafer by
+plasma enhanced chemical vapour deposition (PECVD) followed
+by the evaporation of 150 Å of titanium and 300 nm of gold. The
+electrodes patterns on which activated carbon had to be ﬁxed
+were formed by photolithography and etching of the titanium/gold
+layer.
+
+A stable ink was then prepared by mixing an activated carbon
+of high surface area (1700–1800 m2 g−1 for a 92 F g−1 electrode
+capacitance, Kuraray Chemical Co.) with 5 wt.% polytetraﬂuo-
+roethylene (PTFE) polymer binder in an ethylene glycol solvent.
+The activated carbon composition was set to 3% weight rela-
+tive to ethylene glycol. A Triton X100 (p-(1,3,3,-tetramethylbutyl)
+phenoxy-poly(ethylene glycol)) surfactant was added to the solu-
+tion in order to increase the wettability and the stability of the
+emulsion [25].
+
+This ink was then selectively projected onto the interdigital
+gold ﬁngers. For this purpose, a hydrophobic surface function-
+alisation of the silicon dioxide was performed by means of an
+octadecyltrichlorosilane (OTS) treatment. The gold was therefore
+more hydrophilic, i.e. with a higher surface energy, than the sur-
+rounding hydrophobic silica surface, allowing thus the deposition
+of the ink onto the gold electrodes acting as current collectors.
+
+The substrate temperature was ﬁxed at 140 ◦C during the inkjet
+deposition in order to have an instantaneous evaporation of the
+droplets during impacts and get a homogeneous activated carbon
+deposition located exclusively on the metal patterns. The elec-
+trodes were ﬁnally annealed at a temperature of 240 ◦C.
+
+2.2. Electrochemical characterizations
+
+The two-electrodes EC micro-devices were characterized with
+a 1 M Et4NBF4/anhydrous propylene carbonate electrolyte in a
+glove box under Ar atmosphere with H2O and O2 levels less than
+1 ppm (in order to prevent any early oxidation of the electrolyte),
+using a Biologic VMP potentiostat. Electrochemical impedance
+spectroscopy (EIS) measurements were carried out at open circuit
+potential by applying a sinusoidal signal of 10 mV amplitude and
+frequencies ranging from 100 kHz to 10 mHz.
+
+3. Results and discussions
+
+3.1. Design of the micro-device
+
+Fig. 1. Schematic drawing of the interdigital micro-supercapacitor.
+
+Fig. 2(a) shows the image of a micro-supercapacitor with the
+following dimensions: 20 ﬁngers, 40 (cid:2)m wide (w), 400 (cid:2)m long (L)
+
+Fig. 2. Optical image of (a) a micro-supercapacitor with 20 ﬁngers, 40 (cid:2)m wide, 400 (cid:2)m long and interspaced by 40 (cid:2)m and (b) the chips at lower magniﬁcation.
+
+1268
+
+D. Pech et al. / Journal of Power Sources 195 (2010) 1266–1269
+
+Fig. 3. Cyclic voltammograms of a micro-supercapacitor uncoated and coated with
+activated carbon electrodes in 1 M Et4NBF4 propylene carbonate electrolyte at a scan
+rate of 100 mV s−1.
+
+and 40 (cid:2)m of interspace (i). Gold micro-wires were then bonded
+from the micro-device to the package for electrochemical charac-
+terization (Fig. 2(b)).
+
+A homogeneous deposition of activated carbon is observed
+on the micro-supercapacitor, with a well deﬁned pattern and no
+short circuit between the interdigital electrodes. The thickness of
+the activated carbon deposit estimated from confocal microscopy
+varies between 1 and 2 (cid:2)m depending on the micro-device
+sample.
+
+3.2. Electrochemical characterizations
+
+Fig. 3 shows the cyclic voltammogram (CV) performed on a
+75 (cid:2)m wide (w), 750 (cid:2)m long (L) and 75 (cid:2)m of interspace (i)
+assembled micro-supercapacitor at a scan rate of 100 mV s−1 in 1 M
+Et4NBF4 propylene carbonate. The total surface of the conducting
+electrodes is 2.295 mm2 (0.585 mm2 pad and 0.5625 mm2 ﬁngers).
+It displays a symmetrical capacitive behavior with the typical rect-
+angular shape as expected for double layer capacitive materials. The
+weak redox wave observed at about 1.3 V could be attributed to the
+redox reactions of electroactive surface functional groups present
+on the carbon [26] or could be due to a variation of the capacitance
+with the potential.
+
+Fig. 4. Evolution of the capacitive current (total cell surface 2.295 mm2) deduced
+from CV carried out at different scan rates.
+
+To verify the capacitance provided by the microstructured car-
+bon electrodes, an identical micro-device with bare gold electrodes
+was tested in the same conditions (Fig. 3). We can clearly observe an
+important increase of the current during the CV, directly related to
+the capacitance and the energy of the carbon micro-supercapacitor.
+Inkjet-printed micro-supercapacitors display moreover excel-
+lent capacitive behaviors over a wide potential range of 2.5 V
+in controlled atmosphere. This potential range allows the use of
+micro-supercapacitors in various mobile electronic applications,
+and could satisfy in this sense the growing need for integrated
+energy storage solutions.
+
+Fig. 4 clearly shows a linear dependency of the capacitive cur-
+rent as a function of the scan rate. This current was calculated at
+discharge reversal scan and it was averaged over the whole voltage
+window. Since ion adsorption occurring upon charge processes in
+supercapacitor electrodes involves surface phenomena this kind of
+plot is typical for such electrochemical systems [27]. A small devi-
+ation would imply an under diffusion control process as it is the
+case, for example, at high rate for Faradaic reactions.
+
+A mean cell capacitance of 0.4 mF cm−2 is deduced from the
+slope of Fig. 4, and a maximal cell capacitance CT = 2.1 mF cm−2
+is found at low scan rate (1 mV s−1), which is the highest value
+reported for carbon EC micro-devices [19–21]. The estimated stack
+capacitance lies between 1.6 and 2.7 F cm−3 and the maximal
+energy density we can obtain for the micro-device for a 2.5 V poten-
+tial range is 6.6 mJ cm−2.
+
+Fig. 5. (a) Nyquist plot of a micro-supercapacitor (2.295 mm2) and (b) evolution of the speciﬁc cell capacitance vs. the frequency.
+
+D. Pech et al. / Journal of Power Sources 195 (2010) 1266–1269
+
+1269
+
+3.3. Electrochemical impedance spectroscopy (EIS) measurements
+
+Acknowledgement
+
+The frequency behavior has been studied by EIS at a
+bias voltage of 0 V. Fig. 5(a) shows the Nyquist plot of a
+micro-supercapacitor, and Fig. 5(b) the evolution the speciﬁc
+capacitance as a function of the frequency, calculated from
+[28].
+
+A micro-power of 44.9 mW cm−2 was estimated from the high
+frequency part of the spectrum. When the frequency is decreased
+from 100 Hz down to 10 mHz, the imaginary part of the impedance
+increases corresponding to a capacitive behavior of the micro-
+supercapacitor (Fig. 5(a)), associated with a leak resistance as can
+be seen from the slope with an angle lower than 90◦ [29].
+
+The impedance frequency behavior was also studied using the
+frequency dependence of the complex capacitance (Fig. 5(b)). At
+10 mHz, the speciﬁc capacitance is 1.0 mF cm−2, which is consis-
+tent with the results obtained with CV (Fig. 4). The maximum
+capacitance is nevertheless obtained for frequencies lower than
+10 mHz, revealing a high relaxation time constant (cid:2)0 of the micro-
+device (and therefore a relative low power density), due probably
+to the slight leakage current. Microstructured inkjet-printed EC
+show therefore very promising electrochemical results. Future
+work will be performed on the chemical formulation of the ini-
+tial ink and heat post-treatments of the devices in order to have
+micro-supercapacitors with higher electrochemical performances
+and lower leakage current.
+
+4. Conclusions
+
+An integration process for micro-supercapacitors was presented
+with a speciﬁc inkjet printing technology. Micro-supercapacitors
+with interdigital ﬁngers as low as 40 (cid:2)m width were obtained. Elec-
+trochemical characterizations in 1 M Et4NBF4 propylene carbonate
+reveal an excellent capacitive behavior of the micro-devices over
+a 2.5 V potential range, for a cell capacitance of 2.1 mF cm−2. These
+results are very promising and demonstrate the viability of such
+technique for the elaboration of integrated micro-supercapacitors
+on Si substrate.
+
+Future developments will consist in depositing thicker active
+material, optimizing the active material itself and providing a
+full device encapsulation. This technology of carbon-based micro-
+supercapacitors could address the need for micro-scale energy
+storage.
+
+This work was ﬁnancially supported by the FRAE (Fondation de
+
+Recherche pour l’Aéronautique et l’Espace).
+
+

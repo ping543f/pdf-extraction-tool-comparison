@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/saef/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Performance and stability of electrochemical capacitor based on anthraquinone modified activated carbon</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2011-04">2011-04</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Grégory</forename><surname>Pognon</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Département de Chimie, Université du Québec à Montréal, case postale 8888, succursale centre-ville, Montréal, Québec H3C 3P8, Canada</note>
+								<orgName type="department">Département de Chimie</orgName>
+								<orgName type="institution">Université du Québec à Montréal</orgName>
+								<address>
+									<addrLine>case postale 8888, succursale centre-ville</addrLine>
+									<postCode>H3C 3P8</postCode>
+									<settlement>Montréal</settlement>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thierry</forename><surname>Brousse</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Laboratoire de Génie des Matériaux et Procédés Associés EA 2664, Polytech Nantes, Université de Nantes, BP50609, 44 306 Nantes Cedex 3, France</note>
+								<orgName type="laboratory">Laboratoire de Génie des Matériaux et Procédés Associés EA 2664</orgName>
+								<orgName type="institution">Université de Nantes</orgName>
+								<address>
+									<addrLine>Polytech Nantes</addrLine>
+									<postCode>BP50609, 44 306, Cedex 3</postCode>
+									<settlement>Nantes</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Laurent</forename><surname>Demarconnay</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Département de Chimie, Université du Québec à Montréal, case postale 8888, succursale centre-ville, Montréal, Québec H3C 3P8, Canada</note>
+								<orgName type="department">Département de Chimie</orgName>
+								<orgName type="institution">Université du Québec à Montréal</orgName>
+								<address>
+									<addrLine>case postale 8888, succursale centre-ville</addrLine>
+									<postCode>H3C 3P8</postCode>
+									<settlement>Montréal</settlement>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Daniel</forename><surname>Bélanger</surname></persName>
+							<email>belanger.daniel@uqam.ca</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Département de Chimie, Université du Québec à Montréal, case postale 8888, succursale centre-ville, Montréal, Québec H3C 3P8, Canada</note>
+								<orgName type="department">Département de Chimie</orgName>
+								<orgName type="institution">Université du Québec à Montréal</orgName>
+								<address>
+									<addrLine>case postale 8888, succursale centre-ville</addrLine>
+									<postCode>H3C 3P8</postCode>
+									<settlement>Montréal</settlement>
+									<region>Québec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Performance and stability of electrochemical capacitor based on anthraquinone modified activated carbon</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Power Sources</title>
+						<title level="j" type="abbrev">Journal of Power Sources</title>
+						<idno type="ISSN">0378-7753</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">196</biblScope>
+							<biblScope unit="issue">8</biblScope>
+							<biblScope unit="page" from="4117" to="4122"/>
+							<date type="published" when="2011-04" />
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.jpowsour.2010.09.097</idno>
+					<note type="submission">Received 2 September 2010 Received in revised form 25 September 2010 Accepted 27 September 2010 Available online November 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-07-17T15:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Hybrid multifunctional material Electrochemical capacitor Carbon Organic derivatization Anthraquinone Diazonium</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A series of high surface area activated carbon powders modified with various loadings of electroactive anthraquinone groups was obtained by the spontaneous reduction of the corresponding in situ generated diazonium derivative on activated carbon. The diazotation and grafting reactions are fast and efficient and by varying the stoichiometry of these reactions the grafting amount can be controlled. With appropriate reaction conditions, the attachment of anthraquinone groups allows to double the capacitance of the modified carbonaceous material (195 F g −1 ) compared to the unmodified carbon (100 F g −1 ) due to the contribution of the redox reaction of grafted anthraquinone molecules. Long time galvanostatic charge-discharge cycling experiments were performed for composite electrodes prepared using modified carbons having two different AQ loadings (e.g. 6.7 and 11.1 wt.%). Following 10 000 charge/discharge cycles, only a 17% loss of the faradaic capacitance was observed for these two carbons. Thus, this hybrid bifunctional material appears to be an excellent candidate for application as active electrode in electrochemical capacitors.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>In recent years, porous carbon materials have found applications in electrical energy storage, particularly in electrochemical capacitor, an unique device which can store much more energy than a conventional capacitor that can also offer much higher power density than batteries and capable of cycling millions of time <ref type="bibr">[1,</ref><ref type="bibr" target="#b3">2]</ref>. These systems are based on the double layer capacitance (DLC) at the electrode/electrolyte interface where electric charges accumulated by the electrode surface are compensated by electrolyte ionic species of opposite charge.</p><p>Activated carbons are promising electrode materials for electrical double layer capacitors (EDLCs) because of their relatively low cost and high specific surface area due to their microporous structure <ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr" target="#b18">[6]</ref><ref type="bibr" target="#b19">[7]</ref><ref type="bibr" target="#b20">[8]</ref><ref type="bibr" target="#b21">[9]</ref><ref type="bibr" target="#b22">[10]</ref>. The relationship between their pore size distribution and their electrochemical performances has been widely investigated <ref type="bibr" target="#b3">[2,</ref><ref type="bibr">3]</ref>. Until the recent findings on the role of ultramicropores <ref type="bibr">[5]</ref>, it was believed that mesopores were the most convenient to provide high specific capacitance to the carbon materials and subsequently to increase their energy density.</p><p>Increasing the capacitance by optimization of the pore size distribution, i.e. with a growing amount of micropores and mesopores find some limitation due to activated carbon synthesis. Practically, the useful surface area of activated carbon cannot be enhanced to an infinite value, which results in a maximum double layer capacitance contribution. Other approaches to increase the capacitance of activated carbon are based on chemical surface modification to improve the wettability by the electrolyte <ref type="bibr" target="#b18">[6]</ref><ref type="bibr" target="#b19">[7]</ref><ref type="bibr" target="#b20">[8]</ref><ref type="bibr" target="#b21">[9]</ref><ref type="bibr" target="#b22">[10]</ref> and induce redox reaction with electrochemically active centers, such as nitrogen, oxygen or phosphorus surface functional groups <ref type="bibr" target="#b23">[11]</ref><ref type="bibr" target="#b24">[12]</ref><ref type="bibr">[13]</ref><ref type="bibr" target="#b28">[14]</ref><ref type="bibr" target="#b29">[15]</ref>. Another attractive way is to add a faradaic contribution to the double layer capacitance contribution. This can be done by preparing a multifunctional electrode by mixing a faradaic material with activated carbon, but usually the faradaic material cannot sustain fast charge/discharge rates neither long term cycling which is detrimental to the performance of the composite electrode compared to standard activated carbon <ref type="bibr" target="#b30">[16]</ref>.</p><p>The covalent attachment of molecular species to surfaces by electrochemical and spontaneous reduction of diazonium cations has been widely investigated in the past two decades <ref type="bibr" target="#b31">[17]</ref><ref type="bibr" target="#b32">[18]</ref><ref type="bibr" target="#b33">[19]</ref><ref type="bibr">[20]</ref><ref type="bibr" target="#b36">[21]</ref><ref type="bibr" target="#b38">[22]</ref><ref type="bibr" target="#b39">[23]</ref><ref type="bibr">[24]</ref><ref type="bibr" target="#b41">[25]</ref><ref type="bibr" target="#b42">[26]</ref>. Among these, modification with anthraquinone (AQ) groups has found interest for several applications. Compton and coworkers introduced and optimized the modification of graphitic or glassy carbon powder by chemical reduction of 1-diazo-anthraquinone with H 3 PO 2 <ref type="bibr">[27]</ref>, and used their material to develop a pH probe <ref type="bibr" target="#b45">[28]</ref>. AQ-modified electrodes were also investigated as electrocatalysts for the electrochemical reduction of oxygen <ref type="bibr" target="#b46">[29,</ref><ref type="bibr" target="#b47">30]</ref> and also for electrochemical capacitor applications <ref type="bibr" target="#b48">[31,</ref><ref type="bibr" target="#b49">32]</ref>. Pickup and coworkers have reported a 40% increase of capacitance for an elec- Experimental modification conditions, mass percentage of AQ in the material estimated by electrochemistry, contribution of each electrochemical processes of the system in the total capacitance (the gravimetric specific capacitance of each contribution is given for the total mass of the material).</p><p>trochemical capacitor based on an anthraquinone modified carbon fabric compared to pristine carbon fabric <ref type="bibr" target="#b49">[32]</ref>.</p><p>In this work, AQ groups were grafted at the surface of a high surface area activated carbon (≈1500 m 2 g −1 ). The grafting was performed via the spontaneous reduction of a diazonium derivative of AQ by the carbon powder in acetonitrile. The diazonium cations were formed in situ by reaction of 1aminoanthraquinone with terbutylnitrite. By varying the reaction conditions, the AQ loading was modulated and controlled. The aim of this article is to determine the energy storage properties (e.g. specific capacitance) of several modified carbons from cyclic voltammetry and galvanostatic charge/discharge experiments in an H 2 SO 4 electrolyte. The cycling rate and long-term cycling stability of AQ-modified carbon based electrodes were also investigated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Reagents</head><p>Black Pearls 2000 was obtained from the Cabot Corporation (named BP in the following sections), 1-aminoanthraquinone and tert-butylnitrite (90% solution in acetonitrile) were purchased from Aldrich.</p><p>Unless otherwise stated all reagents were obtained from Aldrich and were used without further purification. All solutions and subsequent dilutions were carried out using deionised water (Barnstead Nanopure II).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Carbon modification</head><p>In a solution of amino-anthraquinone (AAQ) in degassed acetonitrile (for 150 ml of solvent: 192 mg, 0.1 equiv. compared to carbon) was injected the same quantity of tert-butylnitrite (1 equiv. compared to AAQ) after the complete dissolution of the amino derivative. The mixture was stirred for 30 min and 100 mg of activated carbon was added. Then, each 30 min, another 1 equiv. of tert-butylnitrite, was added directly to the organic suspension which was kept at ambient temperature while stirring under N . The conditions of grafting (stoichiometry and total time of reaction after the addition of the carbon powder) are summarized in Table <ref type="table" target="#tab_0">1</ref>. The reaction mixture was finally vacuum filtered on a nylon filtration membrane having a pore size diameter of 0.47 m (Pall) and the carbon powder washed by successive aliquot of acetonitrile, DMF, acetone and methanol and dried under vacuum for 12 h.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Electrode preparation, electrochemical experiments conditions</head><p>The working electrode consists of a composite electrode prepared by mixing, in a small volume of ethanol, the modified activated carbon and PTFE as binder in a 95:5 wt.% ratio until a homogenized paste-like consistency was obtained. The paste was cold rolled and a small square of approximately 0.25 cm in size and 2 mg in weight was placed in a stainless steel grid (80 mesh, 0.127 mm, Alfa Aesar) used as current collector and was pressed for 60 s at 0.9 MPa. A three-electrode configuration was used in a onecompartment cell for the electrochemical characterization of the single activated carbon electrode. The counter electrode consists of a 20 × 60 mm piece of carbon graphite paper placed at 20 mm of the working electrode with a Ag/AgCl reference electrode placed at 5 mm of the working electrode. Degazed aqueous sulfuric acid (0.1 M) was used as electrolyte in all experiments which were performed at room temperature. All potentials are referred to Ag/AgCl electrode. Prior to any measurement, the working electrode was dipped in the electrolyte for 20 min in order to allow the electrolyte to impregnate the electrode porosity.</p><p>Cyclic voltammetry (CV) was carried out using a potentiostat electrochemical interface SI480 (Solartron Instruments) and the electrochemical setups were controlled with DC Corrware software (Scribner Associates, version 2.8d). The gravimetric capacitance C expressed in farads (F) per gram of paste material (carbon modified by anthraquinone and PTFE) and the charge induced by anthraquinone (for the determination of the amount of grafting) was estimated by voltammetry at a scan rate of 10 mV s −1 .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Electrochemical behavior of the modified carbons</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.1.">Amount of grafted anthraquinone</head><p>Fig. <ref type="figure" target="#fig_0">1</ref> shows the electrochemical response of electrodes made with the modified carbons that is characterized by a rectangular shaped cyclic voltammogram (CV) in 0.1 M H SO 4 , due to capacitive behavior of the carbon surface, completed by the reversible redox waves for the anthraquinone groups centered at about −0.2 V. The unmodified carbon only shows the rectangular CV. The changes of the CV following grafting of AQ are similar to those reported for a carbon fabric electrode (Spectracarb 2225) <ref type="bibr" target="#b50">[33]</ref>. The additional redox waves between 0 and 0.3 V can be tentatively attributed to the redox processes of the molecules whose oxygen functionalities are involved in hydrogen bonding between two closely-spaced molecules. Those molecules are oxidized at a more positive poten- tial because of their stabilized exchanged protons. By integrating the anodic or cathodic redox waves and knowing that the redox process of AQ involves two protons and two electrons (Eq. (1)), the amount of grafted anthraquinone was estimated with slow (e.g. 2 mV s −1 ) scan rate CV.</p><p>OH</p><formula xml:id="formula_0">OH O O + 2 H + + 2 e -</formula><p>The AQ loading of the electroactive materials are gathered in Table <ref type="table" target="#tab_0">1</ref> and ranged from 0.8 to 14 wt.%. In this study, the effect of various parameters such as the reaction time, amine concentration, amine/TBN ratio and their concentration on the AQ loading was investigated.</p><p>The study of the influence of grafting time (see Table <ref type="table" target="#tab_0">1</ref>, carbons BP1-BP4) revealed that the reaction is very fast and efficient since it has no considerable effect on the amount of grafted AQ for reaction time longer than 5 min. Similarly, Pickup and coworkers have shown that the spontaneous reduction of a commercially available diazonium salt of AQ, Fast red Al Salt (C 14 H 7 ClN 2 O 2 -0.5ZnCl 2 ) by the activated carbon Vulcan XC72 in a hypophosporous acid solution (50 wt.%) yielded a complete grafting after 30 min <ref type="bibr" target="#b51">[34]</ref>. They observed the same coverage of 6 × 10 −5 mol g −1 with reaction time of either 30 min or 24 h. In this work we have observed that it is only by modifying the stoichiometry of the reactions (diazotization and grafting) that the amount of grafted AQ can be changed, as shown in Table <ref type="table" target="#tab_0">1</ref>. Indeed, increasing the amine and the diazotization agent concentrations, while keeping the same ratio for the two reactants, allow to increase the AQ loading (compare samples BP5 and BP2). Furthermore, the grafting becomes much more efficient and increased by a factor close to 2 when the concentration of the diazotization agent is doubled (BP2 and BP6). Thus, the diazotation reaction is optimized with an excess of TBN. Furthermore, when both the amine and diazotization agent concentrations, as well as the TBN/amine ratio are increased, a high AQ loading of 14 wt.% can be achieved. Finally, it is interesting to note that some AQ is present at the BP surface even if the diazotization agent is not used. This could be due to the adsorption of the 1-aminoanthraquinone molecules at the surface <ref type="bibr" target="#b51">[34]</ref> or spontaneous reaction of the amine with the carbon <ref type="bibr" target="#b52">[35]</ref>. It is interesting to mention that other approaches have been tested to influence and increase the amount of grafted molecules by the diazonium chemistry. For example, Compton and coworkers investigated the role of hypophosphorous acid as the reducing agent for the covalent derivatization of graphite, carbon nanotubes and glassy carbon materials <ref type="bibr">[27]</ref>. They found that in the absence of a reducing agent, the derivatization mechanism likely proceeds via a cationic intermediate, whilst in the presence of hypophosphorous acid (in sufficient quantities) the mechanism proceeds through either a purely radical intermediate. In the presence of the reducing agent, the surface coverage of AQ groups reaches a maximum at about 20 • C (probably due to the increasing rate of competing side reactions beyond this temperature) whereas it continues to increase until 40 • C when no hypophosphorous acid is used. Pickup and coworkers also investigated the effect of the addition of H PO 2 to the reaction mixture and found a 50% decrease of the AQ loading in the presence of this reducing agent <ref type="bibr" target="#b51">[34]</ref>. On the other hand, a preliminary treatment of the carbon surface (e.g. crushing, oxidation by HNO 3 , heating at 700 • C under N , reduction by NaBH ) yielded a variation in the amount of the grafted AQ molecules by a factor of 2 for the resulting modified carbons <ref type="bibr" target="#b49">[32]</ref>. A similar observation has been made for the grafting of 4-nitrobenzene groups on Vulcan although the variation of the surface coverage was smaller diazonium cations <ref type="bibr" target="#b38">[22]</ref>. Thus, the spontaneous reduction of the diazonium cation appears generally as a very fast reaction, that is only slightly influenced by a pretreatment of the carbon material <ref type="bibr" target="#b38">[22,</ref><ref type="bibr" target="#b51">34]</ref> and that the grafting rate appears to be more limited by the diazonium formation (see Table <ref type="table" target="#tab_0">1</ref>).</p><p>The AQ loadings on BP carbons (Table <ref type="table" target="#tab_0">1</ref>) vary over an order of magnitude and can reach 14 wt.% and compare well with literature data. It is interesting to note that a 7 to 10 wt.% loading was achieved on high surface area carbon fabric (Spectracarb 2225) <ref type="bibr" target="#b49">[32]</ref>. As expected, for the lower surface area Vulcan which is characterized by a BET surface area of about 225 m 2 g −1 , a much lower loading of about 2 wt.% (1 × 10 −4 mol g −1 ) was reached.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.2.">Capacitance of the modified carbons</head><p>The contribution of the capacitive and faradaic processes to the total capacitance of the modified carbons were determined from the cyclic voltammogram (see Section 2) recorded in 0.1 M H 2 SO 4 at a scan rate of 10 mV s −1 and are reported in Table <ref type="table" target="#tab_0">1</ref> and Fig. <ref type="figure" target="#fig_1">2</ref>. Table <ref type="table" target="#tab_0">1</ref> shows that the double layer capacitance remains relatively constant up to a grafting of about 7 wt.%. Further increase of the AQ loading led to a decrease of the double layer capacitance. Fig. <ref type="figure" target="#fig_1">2</ref> also shows the variation of the double layer capacitance of the carbon substrate by considering only the fraction of carbon in the modified materials. As expected, the evolution of the double layer capacitance is similar albeit the relative decrease is slightly smaller. A detailed investigation of the effect of AQ grafting on the double layer capacitance has been reported elsewhere <ref type="bibr" target="#b53">[36]</ref>. Briefly, in the latter, it has been shown that the covalent attachment of the AQ groups resulted in a major loss of the microporosity, with pores smaller than 0.65 nm being mainly blocked. The contribution to the double layer capacitance of these small pores was estimated to only 0.9 F cm −2 <ref type="bibr" target="#b53">[36]</ref>. This low value can explain why the double layer capacitance is not strongly affected up to a AQ loading of 7 wt.%, in agreement with previous studies that have shown that the capacitance of carbide derived carbons drastically decreased for calibrated pore size smaller than 0.8 nm [5d]. Interestingly, the contribution of the faradaic process associated to the anthraquinone redox interconversion increases linearly with the AQ loading in the range investigated. Thus, the capacitance of the multifunctional system can be significantly increased, as a result of the contribution of the AQ redox process and to the fact that the double layer capacitance contribution of the carbon is only slightly affected by the AQ grafting. Fig. <ref type="figure" target="#fig_1">2</ref> and Table <ref type="table" target="#tab_0">1</ref> show that the total capacitance of BP increased from 100 to 195 F g −1 following AQ grafting up to a loading of 14 wt.%. On the other hand, Pickup and coworkers have shown that the capacitance of the AQ modified Spectracarb 2225 is 482 F g −1 when averaged between 0 and −0.25 V for an AQ mass loading of 7 wt.% <ref type="bibr" target="#b49">[32]</ref>. This contribution is added to the double layer capacitance of the carbon fabric, which was 199 F g −1 . Thus, the contribution of the grafted AQ molecules to the total capacitance is about 280 F g −1 . This is comparable to the enhancement of the capacitance of 240 F g −1 that could be computed from the data of Table <ref type="table" target="#tab_0">1</ref> for an AQ-modified BP carbon of 6.7 wt.%, when also average over a potential range of 250 mV.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.3.">Cycling rate</head><p>Fig. <ref type="figure" target="#fig_2">3</ref> displays the scan rate dependence of the capacitance (total, double layer and AQ) of various AQ grafted carbon electrodes. As expected, the three different capacitances decreased with the scan rate. Fig. <ref type="figure" target="#fig_2">3</ref>(a) demonstrates that the cycling rate of the AQ-BP electrode with an AQ loading of 11.1 wt.% is similar to that of the unmodified carbon, indicating good kinetics for the redox processes of the surface bound AQ molecules. The decrease of the total capacitance is much more important for the highest AQ loaded electrode and at high scan rate, the total capacitance of this electrode even becomes smaller than that of the lower (11.1 wt.%) AQ-loaded electrode. This is mainly due to the loss of a significant fraction of the AQ signal in the electrochemical window used for the CV experiment, which is limited at the negative potential extremity by the forma-tion of H 2 . Actually in this case, only the total capacitance can be reliably evaluated and accordingly the AQ and double layer capacitances are not included in Fig. <ref type="figure" target="#fig_2">3(b and c</ref>). Nonetheless, the fact that for a 14 wt.% loading the capacitance of BP is twice as large relative to the unmodified carbon at slow scan rate suggests that these high AQ loaded electrodes could be used for low rate applications.</p><p>A close examination of the data of Fig. <ref type="figure" target="#fig_2">3(b and c</ref>) revealed some interesting features. The double layer and AQ capacitances for the 11.1 wt.% loaded BP decreased both monotonously with the scan rate. This is to be contrasted with the sharp decrease of the double layer capacitance for the unmodified BP. This has been discussed in detail elsewhere and is due to the fact that a fraction of the micropores, which contributes to the double layer capacitance, is blocked by the grafted AQ molecules <ref type="bibr" target="#b53">[36]</ref>. As a result, the total capacitance of the 11.1 wt.% AQ loaded electrode is 1.6 time higher than that of pristine BP at low scan rate (2 mV s −1 ), while at faster scan rate (20 mV s −1 ) an attractive gain of 100% of the capacitance is observed and this advantage is kept even at 100 mV s −1 . A decrease of the total capacitance has been also observed for AQ-modified carbon fabric upon increasing the scan rate but the extent of the decrease was not mentioned <ref type="bibr" target="#b49">[32]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Electrochemical stability of the modified carbons</head><p>The cycling stability of an electrochemical capacitor is a key parameter and was investigated by constant current charge/discharge cycling experiments. These measurements were performed under relatively low (2 A g −1 of active material) and high (10 A g −1 ) rate conditions and Fig. <ref type="figure" target="#fig_3">4</ref>(a and b) presents typical potential-time plots recorded for an AQ-modified carbon electrode with a 11 wt.% AQ loading. The first charge curve at 2 A g −1 shows a quasi linear decrease between 0.4 and −0.15 V which corresponds to the double layer region of the carbon electrode and that is followed by a sloped plateau (centered at about 0.2 V) associated to the reduction of the AQ grafted groups. Following the complete reduction of the AQ molecules, another short linear region is observed. During discharge, the reverse processes are occurring with the observation of the two linear regions and the sloped plateau, which appears at a slightly more positive potential, in agreement with the cyclic voltammetry data (Fig. <ref type="figure" target="#fig_0">1</ref>). It is worth noting that the AQ contribution (between −0.3 and −0.5 V) is clearly observed even at a relatively higher current density of 10 A g −1 (Fig. <ref type="figure" target="#fig_3">4(b)</ref>). In addition, at this higher charge/discharge rate, the shape of the discharge curve slightly changes with a very fast decrease from 0.5 to 0.1 V attributed to the resistive character of the electrode. This is followed by a linear decrease corresponding to the contribution of the double layer. At such a high rate, the charge and discharge steps occur in 11 s and the second double layer contribution observed at slower rate is not detected because the reduction of AQ groups is not complete between −0.3 and −0.5 V. These differences observed at these two cycling rates are in agreement with the CV data (vide supra). The evolution of the capacitance (total, double layer and AQ) of BP modified with two different loadings of AQ during 10 000 constant current charge/discharge cycles is shown in Fig. <ref type="figure" target="#fig_3">4(c and d</ref>). A decrease of the total capacitance is noticed during the first 2000 cycles and is mainly due to the loss of the AQ redox waves as the double layer capacitance contribution is barely affected. This phenomenon is amplified when the AQ loading is increased. During the subsequent cycles, the decrease is much less important and after 10 000 charge/discharge cycles, both electrodes lost approximately 17% of their faradaic capacitance (Fig. <ref type="figure" target="#fig_3">4(c and d</ref>)). Since the grafting loadings are different, this loss translates in total capacitance fade of 10 and 14% for 6.7 and 11 wt.% AQ-loaded electrodes, respectively. It is interesting to note that AQ is affected in a similar way, independently of the AQ loading. After the initial capacitance loss observed during the first 2000 cycles, the fade appears to be approximately the same, independently of the grafting amount (1.3% of the AQ capacitance per 1000 charge/discharge cycles for the two electrodes with a current density of 10 A g −1 ). By assuming that the rate of the loss will remain constant upon further cycling, the lifetime of such modified electrodes (before its capacitance has attained the initial value, i.e. the one for the pristine carbon) could be estimated to about 84 000 cycles.</p><p>Even if both electrodes still exhibit higher capacitance compared to the pristine carbon electrode even after 10 000 cycles, it is relevant to understand the cause of the loss of the AQ redox waves because the decrease of the performance of the AQ-modified BP electrode is mainly due to the organic molecules. Firstly, the initial decrease of capacitance observed during the first 2000 cycles can be due to the loss of AQ species that are only physisorbed to the carbon surface. In a recent study, it has been clearly demonstrated that adsorbed species can account for at least 50% of the species immobilized at the surface of carbon powder <ref type="bibr" target="#b51">[34]</ref>. These adsorbed AQ moieties can be effectively removed by washing with benzene. In our work, the washing method that was used to extract the adsorbed molecules consisted of using several liters of different organic solvents (acetonitrile, DMF, acetone and methanol) until complete decoloration of the filtrate. At the beginning of the washing procedure, the filtrate was dark brown, especially with DMF. At the end, a final washing with DMF by sonication for 30 min yielded a colorless solvent. Thus, we believe that this procedure is efficient to dissolve most of the absorbed AQ molecules. Secondly, degradation of the AQ molecules might also occur. This can be demonstrated by cycling experiments performed at a lower scan rate. For example, the decrease of AQ capacitance when the cycling was carried out at 2 A g −1 (instead of 10 A g −1 in Fig. <ref type="figure" target="#fig_3">4(c and d</ref>)), is higher and reaches 55%. As a result the total capacitance will decrease by about 30%. The pronounced loss of capacitance at slower rate can be explained by the fact that in this case the electrodes stay longer at the extreme potential values, which is presumably harmful for the grafted organic species.</p><p>These results suggest that AQ grafting is an interesting approach to improve the capacitance of a carbon electrode. However, the stability of the grafted AQ molecules will have to be improved. Furthermore, to develop a more advanced two-electrode electrochemical capacitor, a similar grafting could be performed to increase the capacitance of the positive electrode. This could be achieved by selecting an appropriate molecule that is characterized by a more positive redox potential.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head><p>The specific capacitance of a high surface area activated carbon was doubled by grafting AQ groups at its surface. With such carbon good performances are maintained during long-term cycling and high current density charge-discharge cycling. However, the grafted carbon exhibits a progressive loss of the electroactivity associated to the grafted species, which will have to be limited if the materials are going to be used in practical electrochemical capacitors. Nevertheless, AQ grafted activated carbon opens the way for the design of improved electrodes for electrochemical energy storage devices. Future work will aim at finding an equivalent to AQ for the positive carbon electrode in order to improve the overall capacitance of the device.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Cyclic voltammograms of unmodified BP (-) and BP modified with 11 wt.% (---) AQ, recorded in 0.1 M H2SO4 at a scan rate of 10 mV s −1 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Plot of the total capacitance (C total), AQ capacitance (C AQ) and double layer capacitance (C DL) of the modified carbons as a function of the AQ loading. The dashed curve represents the double layer capacitance relative to the Black Pearls content of the modified materials.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Evolution of the: (a) total capacitance; (b) AQ capacitance and (c) double layer capacitance of the modified carbons with the scan rate. Full lines for BP8 (11.1 wt.% AQ); dashed lines for BP9 (14 wt.% AQ). The bold curves (with a value of 125 F g −1 at very slow scan rate) in (a) and (c) corresponds to the pristine BP electrode.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Constant current charge/discharge cycles; (a) I = 2 A g −1 ; (b) I = 10 A g −1 ; Variation of the total, AQ and double layer capacitances for: (c) 6.7 wt.% and (d) 11 wt.% AQ loaded electrodes (charge/discharge cycling experiments performed at I = 10 A g −1 ).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Properties of carbons.</figDesc><table><row><cell>Carbons</cell><cell>Grafting conditions</cell><cell></cell><cell></cell><cell>% AQ grafted</cell><cell cols="3">Capacitance features (10 mV s −1 )</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Reaction time</cell><cell>eq. AQ</cell><cell>eq. TBN</cell><cell></cell><cell>CTOT</cell><cell></cell><cell>CDL</cell><cell></cell><cell></cell><cell>C AQ</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>(F g −1 )</cell><cell>( Fm −2 )</cell><cell>( Fg −1 )</cell><cell>( Fm −2 )</cell><cell>%</cell><cell>(F g −1 )</cell><cell>( Fm −2 )</cell><cell>%</cell></row><row><cell>BP</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>100</cell><cell>6.7</cell><cell>100</cell><cell>6.7</cell><cell>100</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>BP1</cell><cell>5 min</cell><cell>0.1</cell><cell>0.1</cell><cell>3.0</cell><cell>123</cell><cell>10.5</cell><cell>96</cell><cell>8.2</cell><cell>78</cell><cell>27</cell><cell>2.3</cell><cell>22</cell></row><row><cell>BP2</cell><cell>1 h</cell><cell>0.1</cell><cell>0.1</cell><cell>3.2</cell><cell>135</cell><cell>12.2</cell><cell>103</cell><cell>9.3</cell><cell>76</cell><cell>32</cell><cell>2.9</cell><cell>24</cell></row><row><cell>BP3</cell><cell>24 h</cell><cell>0.1</cell><cell>0.1</cell><cell>3.7</cell><cell>136</cell><cell>12.3</cell><cell>103</cell><cell>9.3</cell><cell>76</cell><cell>33</cell><cell>3</cell><cell>24</cell></row><row><cell>BP4</cell><cell>48 h</cell><cell>0.1</cell><cell>0.1</cell><cell>3.6</cell><cell>122</cell><cell>13</cell><cell>90</cell><cell>9.6</cell><cell>74</cell><cell>32</cell><cell>3.4</cell><cell>26</cell></row><row><cell>BP5</cell><cell>h</cell><cell>0.01</cell><cell>0.01</cell><cell>0.8</cell><cell>108</cell><cell>9.1</cell><cell>101</cell><cell>8.5</cell><cell>93</cell><cell>7</cell><cell>0.6</cell><cell>7</cell></row><row><cell>BP6</cell><cell>1 h</cell><cell>0.1</cell><cell>0.2</cell><cell>5.6</cell><cell>154</cell><cell>14.9</cell><cell>102</cell><cell>9.9</cell><cell>66</cell><cell>53</cell><cell>5.1</cell><cell>34</cell></row><row><cell>BP7</cell><cell>1.5 h</cell><cell>0.1</cell><cell>0.3</cell><cell>6.7</cell><cell>153</cell><cell>15.5</cell><cell>93</cell><cell>9.4</cell><cell>61</cell><cell>60</cell><cell>6.1</cell><cell>39</cell></row><row><cell>BP8</cell><cell>2.5 h</cell><cell>0.2</cell><cell>0.6</cell><cell>11.1</cell><cell>183</cell><cell>23.8</cell><cell>85</cell><cell>11</cell><cell>46</cell><cell>98</cell><cell>12.7</cell><cell>54</cell></row><row><cell>BP9</cell><cell>4 h</cell><cell>0.3</cell><cell>0.9</cell><cell>14.0</cell><cell>195</cell><cell>28.7</cell><cell>73</cell><cell>10.7</cell><cell>37.5</cell><cell>122</cell><cell>17.9</cell><cell>62.5</cell></row><row><cell>BP10</cell><cell>1 h</cell><cell>0.1</cell><cell>0</cell><cell>1.0</cell><cell>106</cell><cell>7.7</cell><cell>98</cell><cell>7.1</cell><cell>92.5</cell><cell>8</cell><cell>0.6</cell><cell>7.5</cell></row></table><note>0378-7753/$ -see front matter © 2010 Elsevier B.V. All rights reserved. doi:10.1016/j.jpowsour.2010.09.097</note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>This work was supported by the Natural Sciences and Engineering Research Council of Canada (NSERC). NanoQAM is also acknowledged.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page">37</biblScope>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Burke, J. Power Sources 91 (2000) 37;</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Winter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Brodd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Rev</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">4245</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Winter, R.J. Brodd, Chem. Rev. 104 (2004) 4245;</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Pandolfo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Hollenkamp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">157</biblScope>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">(c) A.G. Pandolfo, A.F. Hollenkamp, J. Power Sources 157 (2006) 11.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toupin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Quinn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page">203</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Toupin, D. Bélanger, I.R. Hill, D. Quinn, J. Power Sources 140 (2005) 203.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tanahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nishino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Chem. Soc. Jpn</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page">3611</biblScope>
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. Tanahashi, A. Yoshida, A. Nishino, Bull. Chem. Soc. Jpn. 63 (1990) 3611;</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tanahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nishino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Chem. Soc. Jpn</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page">2755</biblScope>
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. Tanahashi, A. Yoshida, A. Nishino, Bull. Chem. Soc. Jpn. 63 (1990) 2755;</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tanahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nishino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">137</biblScope>
+			<biblScope unit="page">3052</biblScope>
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">I. Tanahashi, A. Yoshida, A. Nishino, J. Electrochem. Soc. 137 (1990) 3052;</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Reichenauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Emmerling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fricke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Pekala</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Non-Cryst. Solids</title>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page">210</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Reichenauer, A. Emmerling, J. Fricke, R.W. Pekala, J. Non-Cryst. Solids 225 (1998) 210.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Conway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page">1539</biblScope>
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B.E. Conway, Electrochim. Acta 138 (1991) 1539;</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page">1633</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Shi, Electrochim. Acta 41 (1995) 1633;</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Saliger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Herta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fricke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Non-Cryst. Solids</title>
+		<imprint>
+			<biblScope unit="volume">225</biblScope>
+			<biblScope unit="page">81</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Saliger, U. Fischer, C. Herta, J. Fricke, J. Non-Cryst. Solids 225 (1998) 81;</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Shi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page">99</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Qu, H. Shi, J. Power Sources 74 (1998) 99;</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><surname>Probstle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schmitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fricke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page">189</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H. Probstle, C. Schmitt, J. Fricke, J. Power Sources 105 (2002) 189;</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">) Y.-Z</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Iwasa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kumagai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page">386</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">(f) Y.-Z. Wei, B. Fang, S. Iwasa, M. Kumagai, J. Power Sources 141 (2005) 386.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chmiola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yushin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Portet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Taberna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="page">1760</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Chmiola, G. Yushin, Y. Gogotsi, C. Portet, P. Simon, P.L. Taberna, Science (2006) 1760;</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Largeot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Portet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chmiola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Taberna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gogotsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page">2730</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Largeot, C. Portet, J. Chmiola, P.L. Taberna, Y. Gogotsi, P. Simon, J. Am. Chem. Soc. 130 (2008) 2730;</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chmiola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Largeot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Taberna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gogotsi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Angew. Chem</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page">3440</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Chmiola, C. Largeot, P.L. Taberna, P. Simon, Y. Gogotsi, Angew. Chem. 120 (2008) 3440;</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chmiola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yushin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gogotsi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page">765</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Chmiola, G. Yushin, R. Dash, Y. Gogotsi, J. Power Sources 158 (2006) 765.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Boehm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">469</biblScope>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">H.P. Boehm, Carbon 32 (1994) 469.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nakajima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Matsuo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">759</biblScope>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Nakajima, Y. Matsuo, Carbon 32 (1994) 759.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Momma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Osaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ushio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ushio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sawada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">249</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Momma, X. Liu, T. Osaka, Y. Ushio, Y. Ushio, Y. Sawada, J. Power Sources 60 (1996) 249.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Liang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">126</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Ma, J. Liang, B. Wei, B. Zhang, C. Xu, D. Wu, J. Power Sources 84 (1999) 126.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y.-Z</forename><surname>Wei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kumagai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page">487</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B. Fang, Y.-Z. Wei, M. Kumagai, J. Power Sources 155 (2006) 487.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hsieh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Teng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">667</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Hsieh, H. Teng, Carbon 40 (2002) 667.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Grzyb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Machnikowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Machnikowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">404</biblScope>
+			<biblScope unit="page">53</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Lota, B. Grzyb, H. Machnikowska, J. Machnikowski, E. Frackowiak, Chem. Phys. Lett. 404 (2005) 53.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jurewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Babel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ziolkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wachowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kozlowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fuel Process. Technol</title>
+		<imprint>
+			<biblScope unit="volume">191</biblScope>
+			<biblScope unit="page">77</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Jurewicz, K. Babel, A. Ziolkowski, H. Wachowska, M. Kozlowski, Fuel Pro- cess. Technol. 191 (2002) 77;</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jurewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Babel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ziolkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wachowska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. Solids</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page">269</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Jurewicz, K. Babel, A. Ziolkowski, H. Wachowska, J. Phys. Chem. Solids 65 (2004) 269;</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jurewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Babel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ziolkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wachowska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">1491</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Jurewicz, K. Babel, A. Ziolkowski, H. Wachowska, Electrochim. Acta 48 (2003) 1491.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Bleda-Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lozano-Castello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Morallon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cazorla-Amoros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Linares-Solano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page">2642</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M.J. Bleda-Martinez, D. Lozano-Castello, E. Morallon, D. Cazorla-Amoros, A. Linares-Solano, Carbon 44 (2006) 2642.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hulicova-Jurcakova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Puziy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">I</forename><surname>Poddubnaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Suarez-Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Tascon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Q</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page">5026</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Hulicova-Jurcakova, A.M. Puziy, O.I. Poddubnaya, F. Suarez-Garcia, J.M. Tas- con, G.Q. Lu, J. Am. Chem. Soc. 131 (2009) 5026.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Leitner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gollas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Winter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Besenhard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page">199</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K.W. Leitner, B. Gollas, M. Winter, J.O. Besenhard, Electrochim. Acta 50 (2004) 199.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Delamar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hitmi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Saveant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page">5883</biblScope>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Delamar, R. Hitmi, J. Pinson, J.M. Saveant, J. Am. Chem. Soc. 114 (1992) 5883.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baranton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Baranton, D. Bélanger, Electrochim. Acta 53 (2008).</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baranton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. B</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page">24401</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S. Baranton, D. Bélanger, J. Phys. Chem. B 109 (2005) 24401.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Downard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electroanalysis</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">1085</biblScope>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A.J. Downard, Electroanalysis 12 (2000) 1085;</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Podvorica</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc. Rev</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">429</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Pinson, F. Podvorica, Chem. Soc. Rev. 34 (2005) 429.</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toupin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="page">5394</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">(a) M. Toupin, D. Bélanger, J. Phys. Chem. C 111 (2007) 5394;</note>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toupin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Langmuir</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">1910</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Toupin, D. Bélanger, Langmuir 24 (2008) 1910.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lyskawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Grondein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">1271</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J. Lyskawa, A. Grondein, D. Bélanger, Carbon 48 (2010) 1271.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Wildgoose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Leventis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Compton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microchim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page">187</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G.G. Wildgoose, C.E. Banks, H.C. Leventis, R.G. Compton, Microchim. Acta 152 (2006) 187.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Cabot Corporation).; (c)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Belmont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S. ; J E</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Belmont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J.A. Belmont, U.S. Patent</title>
+		<editor>j) J.A. Belmont, R.M. Amici, C.P. Galloway, U.S. Patent</editor>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="1996-09-10" />
+		</imprint>
+	</monogr>
+	<note>Cabot Corporation).; (h)</note>
+	<note type="raw_reference">J.A. Belmont, U.S. Patent 5,554,739, September 10 (1996) (Cabot Corpora- tion).; (b) J.A. Belmont, U.S. Patent 5,851,280, December 22 (1998) Cabot Corpora- tion).; (c) J.A. Belmont, C.E. Adams, U.S. Patent 5,895,522, April 20 (1999) (Cabot Cor- poration).; (d) J.E. Johnson, J.A. Belmont, U.S. Patent 5,803,959, September 8 (1998).; (e) J.A. Belmont, C.E. Adams, U.S. Patent 5,713,988, February 3 (1998) (Cabot Corporation).; (f) C.E. Adams, J.A. Belmont, U.S. Patent 5,707,432, January 13 (1998) (Cabot Corporation).; (g) J.A. Belmont, U.S. Patent 5,672,198, September 30 (1997) (Cabot Corpora- tion).; (h) J.A. Belmont, R.M. Amici, C.P. Galloway, U.S. Patent 6,042,643, March 28 (2000).; (i) J.A. Belmont, R.M. Amici, C.P. Galloway, U.S. Patent 6,494,946, December 17 (2002).; (j) J.A. Belmont, R.M. Amici, C.P. Galloway, U.S. Patent 6,740,151, May 25 (2004).</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Allongue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Delamar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Desbat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Fagebaume</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hitmi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Savéant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page">201</biblScope>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Allongue, M. Delamar, B. Desbat, O. Fagebaume, R. Hitmi, J. Pinson, J.-M. Savéant, J. Am. Chem. Soc. 119 (1997) 201.</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J.-M</forename><surname>Chrétien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Ghanem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Bartlett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Kilburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Eur. J</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">2548</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">J.-M. Chrétien, M.A. Ghanem, P.N. Bartlett, J.D. Kilburn, Chem. Eur. J. 14 (2008) 2548.</note>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pandurangappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Compton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Analyst</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">1568</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Pandurangappa, N.S. Lawrence, R.G. Compton, Analyst 127 (2002) 1568;</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poobalasingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Wildgoose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Compton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Org. Chem</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">433</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Poobalasingham, G.G. Wildgoose, R.G. Compton, J. Phys. Org. Chem. 21 (2008) 433.</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Wildgoose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pandurangappa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Lawrence</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G J</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Compton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Talanta</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">887</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G.G. Wildgoose, M. Pandurangappa, N.S. Lawrence, L. Jiang, T.G.J. Jones, R.G. Compton, Talanta 60 (2003) 887.</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Banks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Wildgoose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G R</forename><surname>Heald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Compton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Iran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">60</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C.E. Banks, G.G. Wildgoose, C.G.R. Heald, R.G. Compton, J. Iran. Chem. Soc. 2 (2005) 60.</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jurmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Schiffrin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tammeveski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page">390</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">G. Jurmann, D.J. Schiffrin, K. Tammeveski, Electrochim. Acta 53 (2007) 390.</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Adams</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Patent</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">522</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Yu, C.E. Adams, US Patent, 6,522,522 (2003).</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kalinathan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Desroches</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Pickup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page">182</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Kalinathan, D.P. DesRoches, X. Liu, P.G. Pickup, J. Power Sources 181 (2008) 182.</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Algharaibeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Pickup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">187</biblScope>
+			<biblScope unit="page">640</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Z. Algharaibeh, X. Liu, P.G. Pickup, J. Power Sources 187 (2009) 640.</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Pickup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">2305</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R.D.L. Smith, P.G. Pickup, Electrochim. Acta 54 (2009) 2305.</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gautier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ghodbane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D M</forename><surname>Wayner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">6327</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C. Gautier, O. Ghodbane, D.D.M. Wayner, D. Bélanger, Electrochim. Acta 54 (2009) 6327.</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pognon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brousse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carbon</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>in revision</note>
+	<note type="raw_reference">G. Pognon, T. Brousse, D. Bélanger, Carbon, in revision.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

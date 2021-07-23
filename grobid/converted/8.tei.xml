@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/saef/grobid/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Adjustment of electrodes potential window in an asymmetric carbon/MnO2 supercapacitor</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability status="unknown"><p>Copyright Elsevier BV</p>
+				</availability>
+				<date type="published" when="2010-06-09">9 June 2010</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">L</forename><surname>Demarconnay</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Centre de Recherche sur la Matière Divisée (CRMD), CNRS-Université, 1b Rue de la Férollerie, 45071 Orléans Cedex, France</note>
+								<orgName type="laboratory">Centre de Recherche sur la Matière Divisée (CRMD)</orgName>
+								<orgName type="institution">CNRS-Université</orgName>
+								<address>
+									<addrLine>1b Rue de la Férollerie</addrLine>
+									<postCode>45071</postCode>
+									<settlement>Orléans Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><surname>Raymundo-Piñero</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Centre de Recherche sur la Matière Divisée (CRMD), CNRS-Université, 1b Rue de la Férollerie, 45071 Orléans Cedex, France</note>
+								<orgName type="laboratory">Centre de Recherche sur la Matière Divisée (CRMD)</orgName>
+								<orgName type="institution">CNRS-Université</orgName>
+								<address>
+									<addrLine>1b Rue de la Férollerie</addrLine>
+									<postCode>45071</postCode>
+									<settlement>Orléans Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+							<email>beguin@cnrs-orleans.fr</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Centre de Recherche sur la Matière Divisée (CRMD), CNRS-Université, 1b Rue de la Férollerie, 45071 Orléans Cedex, France</note>
+								<orgName type="laboratory">Centre de Recherche sur la Matière Divisée (CRMD)</orgName>
+								<orgName type="institution">CNRS-Université</orgName>
+								<address>
+									<addrLine>1b Rue de la Férollerie</addrLine>
+									<postCode>45071</postCode>
+									<settlement>Orléans Cedex</settlement>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Adjustment of electrodes potential window in an asymmetric carbon/MnO2 supercapacitor</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Power Sources</title>
+						<title level="j" type="abbrev">Journal of Power Sources</title>
+						<idno type="ISSN">0378-7753</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">196</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="580" to="586"/>
+							<date type="published" when="2010-06-09">9 June 2010</date>
+						</imprint>
+					</monogr>
+					<idno type="DOI">10.1016/j.jpowsour.2010.06.013</idno>
+					<note type="submission">Received 27 March 2010 Received in revised form 8 May 2010 Accepted 2 June 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.2-SNAPSHOT" ident="GROBID" when="2021-07-17T15:45+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Asymmetric supercapacitor Electrode mass ratio Activated carbon Manganese oxide Cycle life Neutral electrolyte</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The electrodes mass ratio of MnO /activated carbon supercapacitors has been varied in order to monitor its influence on the potential window of both electrodes and consequently to optimize the operating voltage. It appeared that the theoretical mass ratio (R = 2), calculated considering an equivalent charge passed across both electrodes, is underestimated. It was demonstrated that R values of 2.5-3 are better adapted for this system; the extreme potential reached for each electrode is close to the stability limits of the electrolyte and active material, allowing a maximum voltage to be reached. During galvanostatic cycling up to 2 V, the best performance was obtained with R = 2.5. The specific capacitance increased from 100 to 113 F g −1 during the first 2000 cycles, then decayed up to 6000 cycles and finally stabilized at 100 F g −1 . SEM images of the manganese based electrode after various numbers of thousands cycles exhibited dramatic morphological modifications. The later are suspected to be due to Mn(IV) oxidation and dissolution at high potential values. Hence, the evolution of specific capacitance during cycling of the asymmetric capacitor is ascribed to structural changes at the positive electrode.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Electrochemical capacitors are of great interest for energy management, being able to deliver a very high power in a short time. However, for broadening the spectrum of their applications, the energy density (E):</p><formula xml:id="formula_0">E = 1 2 CU 2 ,<label>(1)</label></formula><p>(C: capacitance and U: cell voltage) has to be improved <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b1">2]</ref>. The cell voltage depends on the stability window of the electrolyte; the highest values are obtained with non-aqueous electrolytes, reaching 2.7 V in industrial systems <ref type="bibr" target="#b2">[3]</ref>. However, such media are quite expensive, ecologically unfriendly and require cell construction in air-free atmosphere. For aqueous electrolytes, the theoretical stability window is 1.23 V and is practically around 1 V for symmetric capacitors with carbon electrodes <ref type="bibr" target="#b3">[4]</ref>. Although the capacitance values are higher and the equivalent series resistance (ESR) is lower in such electrolyte in comparison to the organic medium, the cell voltage is too low and should be improved in view of potential applications.</p><p>Lately, asymmetric cells coupling electrodes operating reversibly in different potential range have been presented as a promising way to increase voltage in aqueous electrolyte. For the negative electrode, the material of choice is activated carbon (AC) <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b5">6]</ref> because of its low cost, good polarizability, high specific surface area and pore diameter adaptable to the size of ions. Moreover, the presence of heteroatoms (N, O, or P) allows the specific capacitance to be enhanced owing to pseudofaradic charge transfer reactions <ref type="bibr" target="#b0">[1,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref>. In the case of the positive electrode, battery-like metal oxide (operating at constant potential during charging and discharging) is the first electrode material which has been investigated. A voltage of 1.6 V is reached with AC as negative electrode and a battery-like material as positive electrode in alkaline medium; however, this system displays a short cycle life and a low power density <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. Another possibility is to use a Li-intercalation positive electrode with a lithiated electrolyte <ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref>. Even if the capacitance and operating voltage (1.4-1.8 V) seem quite interesting, these supercapacitors exhibit a poor cycle life. Conducting polymers have been also used as positive electrode in acidic medium <ref type="bibr" target="#b16">[17]</ref>. An asymmetric polyaniline/activated carbon cell exhibits a high specific capacitance (more than 300 F g −1 ) but a small voltage, whereas the PEDOT/activated carbon system can operate up to 1.8 V with a lower specific capacitance of 120 F g −1 <ref type="bibr" target="#b16">[17]</ref>. Nevertheless, the use of conducting polymers as positive electrode is limited by the low stability of the materials <ref type="bibr" target="#b17">[18]</ref>.</p><p>Metal oxides presenting a potential swing during charge/discharge were widely investigated, the most popular being ruthenium oxide with capacitance values up to 700 F g −1 <ref type="bibr" target="#b18">[19]</ref>. In a recent work coupling a ruthenium oxide positive elec-trode and a modified activated carbon negative electrode (modified by anthraquinone grafting for enhancing the pseudo-capacitive character) <ref type="bibr" target="#b19">[20]</ref> in acidic medium, the cell voltage reaches 1.3 V and the specific capacitance 95 F g −1 . Beside the moderate performance of this system, the high cost of ruthenium oxide precludes further developments. Therefore, cheap transition metal oxides such as manganese oxide <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref>, iron oxide <ref type="bibr" target="#b25">[26]</ref> and vanadium oxide <ref type="bibr" target="#b26">[27]</ref> have been extensively investigated as positive electrode in supercapacitors. Among the three oxides, V 2 O 5 exhibits the highest specific capacitance, but a quick capacitance decay during cycling <ref type="bibr" target="#b27">[28]</ref>. The asymmetric supercapacitors equipped with Fe 3 O 4 and MnO 2 positive electrodes can operate up to 1.8 and 2 V, respectively <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref>. Taking into account that manganese oxide demonstrates a higher capacitance than iron oxide <ref type="bibr" target="#b27">[28]</ref>, it seems to be the most adapted oxide for the positive electrode of an asymmetric supercapacitor in aqueous medium.</p><p>In order to optimize the voltage of an asymmetric MnO 2 /activated carbon supercapacitor, Khomenko et al. <ref type="bibr" target="#b20">[21]</ref> have studied the pH influence in the range 6.4-10, and found the largest theoretical cell voltage (2.1 V) at pH ≈ 6.4. A practical voltage of 2 V has been validated in 0.1 mol L −1 K 2 SO 4 (pH ≈ 7) by galvanostatic charge/discharge cycling (195,000 cycles, with 12.5% capacitance fade <ref type="bibr" target="#b21">[22]</ref>). The specific capacitance of MnO 2 seems to be essentially controlled by the coating thickness. For thick films (≈100 m), the capacitance value is only 150 F g −1 , whereas it reaches 1380 F g −1 for thin films (&lt;5 m), which is close to the theoretical value (1370 F g −1 ) <ref type="bibr" target="#b28">[29]</ref>. Recently it has also been shown that higher capacitance values (≈250 F g −1 ) can be obtained for spinel like manganese oxide even for thick films (≈200 m) <ref type="bibr" target="#b29">[30]</ref>.</p><p>This contribution aims at optimizing the operating conditions of an asymmetric MnO 2 /AC supercapacitor at pH = 6.4, e.g., in 0.5 mol L −1 Na 2 SO 4 . A MnO /carbon nanotube (CNT) composite <ref type="bibr" target="#b30">[31]</ref> and a commercially available activated carbon were chosen as active materials for the positive and negative electrode, respectively. In order to take advantage of the largest voltage window, the mass ratio (R) between the positive and the negative electrode has been adjusted taking into account formula (2) which expresses that the same charge is passed through both electrodes <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b21">22]</ref>:</p><formula xml:id="formula_1">R = m + m − = C − × E − C + × E +<label>(2)</label></formula><p>where m + and m − are the mass, C + and C − the specific capacitance, and E + and E − the potential window for the positive and negative electrodes, respectively. Then, the performance of asymmetric cells was evaluated by varying R close to the value calculated according to Eq. (2). Thanks to an asymmetric cell equipped with a reference electrode, the potential range of each electrode during cycling of the supercapacitor could be determined. Finally, galvanostatic charge/discharge cycling was carried out to validate the optimized mass ratio for an asymmetric supercapacitor working at 2 V.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Experimental</head><p>A high purity commercial activated carbon (AC, MWV-E510A from MeadWestvaco, USA) was used for negative electrode. The porous texture of the activated carbon was analysed by nitrogen and CO 2 adsorption at 77 and 273 K, respectively (Autosorb-1, Quantachrome Instruments). Before the analysis, the sample was degassed (Flo Vac Degasser, Quantachrome Instruments) overnight at 200 • C. The specific surface area was calculated from the N 2 adsorption isotherm by applying the BET equation. The micropore volume was calculated from the application of the Dubinin-Radushkevich equation to the adsorption data up to P/P 0 ≤0.015 for N and P/P 0 &lt; 0.1 for CO . Pore size distribution has been obtained from the N 2 adsorption data by applying the non-linear  <ref type="bibr" target="#b30">[31]</ref>. The mixture was stirred during 6 h at ambient temperature; the precipitated a-MnO 2 •nH 2 O/CNT composite was filtered and thoroughly washed several times with distilled water, and finally dried at 120 • C overnight. A paste was prepared by mixing the composite (90 wt%) and PTFE (10 wt%). Both pastes of AC and a-MnO 2 •nH 2 O/CNT composite were rolled up in order to obtain films. Electrodes were prepared by punching pellets (1 cm diameter) in the AC and MnO 2 /CNT composite based pastes. Masses were comprised between 5-8 mg and 12-16 mg for the AC and MnO /CNT electrodes, respectively.</p><p>The electrodes were pressed and wetted in deaerated 0.5 mol L −1 Na 2 SO 4 before building the cells. Two-electrode cells were assembled using a Teflon Swagelok ® construction with gold current collectors and glassy fibrous separator. A special twoelectrode cell equipped with a Hg/Hg SO 4 reference electrode (SME) was also used in order to determine the potential window of each electrode during cycling the supercapacitor. For threeelectrode cell experiments, the auxiliary electrode was a graphite rod and SME was the reference electrode. The two-electrode cells were built with deaerated 0.5 mol L −1 Na 2 SO 4 , while the electrolyte was not deaerated when the SME reference was used. All potentials are further expressed versus the normal hydrogen electrode (NHE). A VMP2 (Biologic, France) multichannel potentiostat/galvanostat was used for cyclic voltammetry at a scan rate of 2 mV s −1 and galvanostatic charge/discharge cycling.</p><p>Surface morphology was analysed by scanning electron microscopy (SEM) (Hitachi S4500) on fresh MnO /CNT composite electrodes and on electrodes aged in a supercapacitor during various periods of time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head><p>The nitrogen adsorption isotherm of the activated carbon (AC) (Fig. <ref type="figure" target="#fig_0">1a</ref>) is characteristic of a microporous material with some amount of mesopores favourable for ions transportation <ref type="bibr" target="#b4">[5]</ref>. The data extracted from this isotherm demonstrate a well-developed porosity (Table <ref type="table" target="#tab_0">1</ref>). Fig. <ref type="figure" target="#fig_0">1b</ref> shows a broad distribution of micropores size, with pores ranging from ultramicropores to supermicropores. Beside carbon, oxygen (2.4 at%) was the only element detected by XPS on the surface of AC.</p><p>Fig. <ref type="figure">2</ref> presents the cyclic voltammograms (CV) of AC in nondeaerated 0.5 mol L −1 Na 2 SO 4 for different values of negative potential cut-off, from −0.36 to −1.06 V vs. NHE. The vertical line at −0.377 V vs. NHE corresponds to the equilibrium potential for water reduction in 0.5 mol L −1 Na 2 SO 4 (pH = 6.4). For the smallest potential window, the voltammogram exhibits a quasi rectangular shape, characteristic of a pure capacitive electrode, confirming that the amount of oxygenated surface groups is low. When the negative potential cut-off decreases, few reduction humps appear at −0.2, −0.6 and −0.85 V vs. NHE, respectively, during the negative potential sweep, while an oxidation wave centred at around 0.55 V vs. NHE is observed during the positive potential scan. It must be noted that the amplitude of the oxidation peak increases when the negative potential cut-off reaches lower values and that the hump at −0.2 V vs. NHE is only observable for the two curves with the lowest negative potential cut-off. Since the experiment was carried out in non-deaerated medium, hydrogen peroxide species can be formed at low potentials and may oxidize the carbon surface <ref type="bibr" target="#b31">[32,</ref><ref type="bibr" target="#b32">33]</ref>. By contrast, if CV was recorded in a deaerated medium, such peaks did not appear. Therefore, the reduction hump at −0.2 V vs. NHE, e.g., at higher potential than −0.377 V vs. NHE is attributed to the activity of oxidized species formed during surface oxidation by hydrogen peroxide. The redox peaks located at lower values than the potential for water reduction, e.g., −0.6 and −0.85 V vs. NHE, respectively, can be ascribed to the reversible storage of nascent hydrogen at the surface of the activated carbon <ref type="bibr" target="#b1">[2,</ref><ref type="bibr" target="#b33">34]</ref>. During the operation of a supercapacitor, these pseudofaradic contributions may enhance the specific capacitance of the AC electrode, and the reversibility of the process remains high as long as di-hydrogen is not produced. The current leap appearing at potential values lower than −1 V vs. NHE is ascribed to the formation of di-hydrogen at the surface of the electrode. Consequently, the lowest potential limit for a supercapacitor negative electrode based on AC in 0.5 mol L −1 Na 2 SO 4 is about −0.96 V vs. NHE. In this electrolyte, the over-potential for hydrogen evolution is around 0.6 V with AC, whereas an activated carbon with a specific surface area of 1390 m 2 g −1 and an oxygen amount of ≈2.5 at% demonstrated over-potentials close to 0.35 and 0.1 V in 3 mol L −1 KOH and 3 mol L −1 H 2 SO 4 electrolytes, respectively <ref type="bibr" target="#b33">[34]</ref>.</p><p>Fig. <ref type="figure" target="#fig_2">3</ref> presents the CVs recorded for AC and for the MnO 2 /CNT composite in their maximum stability window for the considered electrolyte, e.g., 0.5 mol L −1 Na 2 SO 4 . As already explained in literature, the CV characteristics of the MnO 2 /CNT composite are essentially related to reversible pseudo-faradic transitions involving ions exchange with the electrolyte <ref type="bibr" target="#b28">[29]</ref>. It clearly appears that the two materials reversibly operate in a different potential range. In other words, by implementing them in an asymmetric supercapacitor, one can expect to extend the voltage window by an appropriate equilibration of electrodes mass.</p><p>Considering the MnO 2 /CNT composite, the potential window is limited by Mn(IV) to Mn(VII) oxidation for the highest limit (at 1.19 V vs. NHE) and Mn(IV) to Mn(II) reduction for the lowest limit (at 0.47 V vs. NHE) <ref type="bibr" target="#b34">[35]</ref>, which implies a maximum theoretical window of 0.72 V for the positive electrode ( E MnO 2 ) of the asymmetric supercapacitor <ref type="bibr" target="#b20">[21]</ref>. According to Fig. <ref type="figure" target="#fig_2">3</ref>, the lowest limit for avoiding di-hydrogen production at the negative AC electrode should be around −0.96 V vs. NHE. All limits are presented on this figure by full vertical lines, and E AC and E MnO 2 represent the theoretical potential variations that both electrodes should undergo,  respectively, in an asymmetric system. The specific capacitance, estimated from the CVs (Fig. <ref type="figure" target="#fig_2">3</ref>) is 178 and 179 F g −1 for the AC and MnO 2 /CNT composite electrodes, respectively. Then, according to Eq. (2), the theoretical R between the positive MnO 2 and negative AC electrodes is around 2.</p><p>Electrochemical investigations were carried out with an electrode mass ratio R = 2 and using a two-electrode cell where a reference electrode was added; in such a way, the operating potential of each electrode and E 0 V , corresponding to the electrodes potential when the cell voltage is 0, could be determined as function of voltage. Fig. <ref type="figure" target="#fig_3">4</ref>(a) presents the extreme potential reached by both electrodes when the cell is galvanostatically cycled from 0 V (E 0 V ) up to different voltage values. For a voltage of 2 V, the E 0 V value is around 0.65 V vs. NHE, which is higher than the expected value of 0.47 V vs. NHE from Fig. <ref type="figure" target="#fig_2">3</ref>. Consequently, the operating window of the MnO 2 /CNT positive electrode is noticeably diminished, and its maximum potential in Fig. <ref type="figure" target="#fig_3">4</ref>(a) reaches the positive limit for Mn(IV) oxidation at a voltage of 1.7 V which is lower than the value of 2-2.1 V expected from three-electrode cell investigations (Fig. <ref type="figure" target="#fig_2">3</ref>). Considering Fig. <ref type="figure" target="#fig_2">3</ref>, it is also interesting to note that the E 0 V value (0.65 V vs. NHE) is higher than the oxidation potential of hydrogen. For this reason, a pseudo-capacitive contribution is added to the classical double layer capacitance of AC, leading to a higher specific capacitance value of 190 F g −1 at the negative electrode. Due to these two features and according to Eq. (2), the theoretical R = 2 is underestimated.</p><p>Fig. <ref type="figure" target="#fig_3">4</ref>(b) and (c) present the extreme potential of the electrodes vs. voltage for mass ratios of 2.5 and 3, respectively. By comparison with Fig. <ref type="figure" target="#fig_3">4</ref>(a), it is now clear that the maximum acceptable potential for the MnO 2 /CNT electrode is reached for a higher voltage, while the minimum potential of the AC electrode is extended towards more negative values. Both mass ratios seem better adapted for this system and may allow cell voltages of 2 V or more to be reached. Fig. <ref type="figure" target="#fig_4">5</ref> shows cyclic voltammograms up to various voltage values for asymmetric two-electrode cells with mass ratios of 2.5 (a) or 3 (b) in deaerated 0.5 mol L −1 Na 2 SO 4 . For low voltage windows, the CVs exhibit a rectangular shape, characteristic of an ideal capacitive behaviour. At higher voltage windows, an increase of capacitance is observed at high voltage and a wave appears during the negative sweep around 0.5 V. As shown in Fig. <ref type="figure" target="#fig_3">4(b</ref>) and (c), at voltage higher than 1.45 V, the potential of the negative electrode becomes lower than the thermodynamic limit for water reduction (−0.377 V vs. NHE) and hydrogen is stored. Therefore, the current leap above U = 1.7 V in Fig. <ref type="figure" target="#fig_4">5</ref> and the associated peak at 0.4-0.5 V during the  negative scan are essentially due to hydrogen storage in AC and its reversible oxidation <ref type="bibr" target="#b33">[34]</ref>, respectively. However, the redox features are more pronounced for the capacitor built with R = 2.5 (Fig. <ref type="figure" target="#fig_4">5</ref>). Since the maximum potential of the positive electrode is higher in Fig. <ref type="figure" target="#fig_3">4</ref>(b) than in (c), partial oxidation of Mn(IV) into Mn(VII) and the subsequent reversible reduction may contribute to the more pronounced redox humps for R = 2.5 in Fig. <ref type="figure" target="#fig_4">5(a)</ref>.</p><p>Fig. <ref type="figure" target="#fig_5">6</ref> presents the galvanostatic charge-discharge characteristics obtained for asymmetric supercapacitors built with R = 2.5 or 3. For a maximum voltage lower than 1.7 V, the curves are close to an isosceles triangle which is characteristic of an ideal capacitive behaviour with a good coulombic efficiency. When the maximum voltage increases, the shape of the curves is modified due to the redox processes linked with hydrogen storage and change of manganese oxidation state.</p><p>From these results, the coulombic efficiency Á was determined according to Eq. (3):</p><formula xml:id="formula_2">Á = q d q c ,<label>(3)</label></formula><p>where q d and q c are the total discharge and charge capacity of the cell, respectively. The specific capacitance C S was also determined according to Eq. (4):</p><formula xml:id="formula_3">C S = 4 C m ,<label>(4)</label></formula><p>where C is the capacitance of the cell and m the total mass of the two electrodes. The voltage dependence of specific capacitance (per total mass of electrodes material) and of coulombic efficiency is presented in Fig. <ref type="figure" target="#fig_6">7</ref> for asymmetric cells with R = 2.5 and 3 in deaerated 0.5 mol L −1 Na 2 SO 4 . According to Fig. <ref type="figure" target="#fig_3">4</ref>, the fast increase of capacitance together with the coulombic efficiency decay for max- imum voltage higher than ≈1.9-2.1 V are essentially attributed to the onset of the Mn(IV) → Mn(VII) transformation at the positive electrode. These effects occur at lower voltage for the cell with R = 2.5 because the potential of the positive electrode is shifted to slightly higher values. From the data shown in Fig. <ref type="figure" target="#fig_6">7</ref>, the highest voltage values are 2 and 2.2 V for the cells with R = 2.5 and 3, respectively.</p><p>In order to evaluate the cycle life of the asymmetric systems, cells built with R = 2.5 and 3 were charged/discharged galvanostatically at 1 A g −1 (Fig. <ref type="figure" target="#fig_7">8</ref>). A deaerated electrolyte was used to improve the stability of the supercapacitors during cycling <ref type="bibr" target="#b21">[22]</ref>. For R = 2.5 and U = 2 V, capacitance first increases, further decreases and reaches stabilization; the initial capacitance is close to 100 F g −1 , then reaches more than 120 F g −1 after 1700 cycles and decreases to stabilize around the initial value of 100 F g −1 after 6000 cycles. For R = 3 and U = 2 V, the trend is comparable with smaller values. Keeping R = 3 and increasing the maximum voltage to 2.1 V leads to a dramatic degradation of the performance (Fig. <ref type="figure" target="#fig_7">8</ref>). Although a good coulombic efficiency was observed up to 2.2 V for this ratio (Fig. <ref type="figure" target="#fig_6">7</ref>), Fig. <ref type="figure" target="#fig_7">8</ref> demonstrates that monitoring the cycle life is the only way for validating a system and its operating parameters. In conclusion, R = 2.5 and a maximum voltage U = 2 V are the optimal conditions for the asymmetric cells based on AC and MnO /CNT composite. Under these conditions, the energy density determined according to Eq. (1) reaches 13.9 Wh kg −1 of total electrode materials, that is slightly higher than the value determined by Brousse et al. <ref type="bibr">(11.7</ref> Wh kg −1 ) <ref type="bibr" target="#b21">[22]</ref>.</p><p>To the best of our knowledge, such trend in specific capacitance variation has not been observed previously during the galvanostatic cycling of MnO 2 /AC cells. Since the evolution is more pronounced  for higher operating voltage, it is probably related with the fact that the electrodes potential reach values beyond the limits shown in Fig. <ref type="figure" target="#fig_3">4</ref>. According to this figure, it seems that the MnO 2 /CNT composite electrode reaches the limit before the AC electrode. Electrode rearrangements due to oxide dissolution and precipitation could be at the origin of the particular evolution of specific capacitance during cycling. Therefore, post-mortem SEM characterizations were performed on MnO 2 /CNT composite electrodes after different numbers of galvanostatic (1 A g −1 ) charge/discharge cycles up to 2 V on asymmetric cells built with R = 2.5 (Fig. <ref type="figure" target="#fig_8">9</ref>). In Fig. <ref type="figure" target="#fig_8">9</ref>(a) the fresh electrode presents a compact cauliflower surface morphology. After 2000 cycles (Fig. <ref type="figure" target="#fig_8">9</ref>(b)), the morphology is slightly modified and small needle-like particles are observed at the surface of the cauliflower structure. In parallel to the modification to this less compact structure, the specific capacitance increases (Fig. <ref type="figure" target="#fig_7">8</ref>) probably because of an increase of specific surface area. After 4000 cycles (Fig. <ref type="figure" target="#fig_8">9(c</ref>)), the needles are better defined due to a diameter increase; the slow capacitance decay in Fig. <ref type="figure" target="#fig_7">8</ref> can be interpreted by a decrease of specific surface area. For a higher number of cycles, the MnO 2 /CNT electrode remained glued to the gold current collector, which indicates another electrode transformation. After 6000 cycles, a petal-like morphology is observed (Fig. <ref type="figure" target="#fig_8">9(d)</ref>). From the forward, these morphological transformations are due to MnO dissolution/precipitation when the potential of the positive electrode is high enough for allowing MnO 2 to be oxidized into Mn(VII).</p><p>In order to support this interpretation, an asymmetric supercapacitor with R = 2.5 was cycled up to U = 1.6 V. After 10,000 cycles, the surface morphology of the positive electrode is still compact (Fig. <ref type="figure" target="#fig_8">9</ref>(e)) and not very different from the fresh electrode. During cycling, the specific capacitance of the cell increases, reaching 88 F g −1 after 3500 cycles and remains stable (Fig. <ref type="figure" target="#fig_7">8</ref>). Hence, these results confirm that the specific capacitance variations at U ≥ V must be attributed to structural modifications of the positive electrode which occur when its potential reaches values allowing Mn(IV) to be oxidized.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head><p>We demonstrated that the performance of an asymmetric MnO 2 /AC supercapacitor operating in 0.5 mol L −1 Na 2 SO 4 can be improved by optimizing the mass ratio between the positive and negative electrode. Based on the equivalence of charge passed through both electrodes and assuming that E 0 V is linked to the Mn(IV) → Mn(II) reduction, a theoretical mass ratio R = 2 was estimated. In practice, with R = 2, the E 0 V determined in a MnO 2 /AC cell with an added reference electrode is higher than the estimated value. Consequently, the mass ratio calculated by this assumption was underestimated. In this work, the best performance was obtained with R = 2.5 and U = 2 V, allowing the extremum potential values for both electrodes to be close to the acceptable stability values.</p><p>This work also revealed the necessity of long-term galvanostatic charge/discharge cycling for validating a system. Although U = 2.2 V seemed to be reachable from short time experiments, galvanostatic cycling revealed that the maximum voltage for this system is 2 V. At this voltage, the morphological transformations of the positive electrode do not seem deleterious for the performance. At higher voltage, the MnO 2 /CNT electrode is considerably transformed due to Mn(IV) → Mn(VII) oxidation. By contrast, during cycling at U = 1.6 V, the morphology of the positive electrode remains unchanged and the capacitance of the system did not decay.</p><p>For future optimizations of the AC/MnO 2 capacitor, it is mandatory to design positive electrodes with enhanced capacitance in order to reduce the value of R.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. N2 adsorption isotherm (a) and DFT pore size distribution (b) of AC.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 . 3 -</head><label>23</label><figDesc>Fig. 2. 3-Electrode cyclic voltammograms of AC in 0.5 mol L −1 Na2SO4 at five different negative cut-off potential; scan rate 2 mV s −1 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Comparative 3-electrode cyclic voltammograms of AC and MnO2/CNT composite in 0.5 mol L −1 Na2SO4; scan rate 2 mV s −1 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Potential extrema reached by each electrode during the galvanostatic cycling (200 mA g −1 ) of a 2-electrode cell (equipped with a reference electrode) from 0 V up to different voltage values. Mass ratio of 2 (a), 2.5 (b) or 3 (c) in 0.5 mol L −1 Na2SO4; scan rate 2 mV s −1 . The horizontal lines show the maximum and minimum potential established in Fig. 3 for the positive and negative electrode, respectively.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Cyclic voltammograms of asymmetric MnO2/AC supercapacitors in deaerated 0.5 mol L −1 Na2SO4 with mass ratios of 2.5 (a) or 3 (b); scan rate 2 mV s −1 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 6 .</head><label>6</label><figDesc>Fig.6. Galvanostatic charge-discharge characteristics of asymmetric cells at a current density of 200 mA g −1 (total mass of both electrodes) in deaerated 0.5 mol L −1 Na2SO4 for mass ratios of 2.5 (a) or 3 (b).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. Coulombic efficiency and specific discharge capacitance (per total mass of electrodes material) of asymmetric cells in deaerated 0.5 mol L −1 Na2SO4 (current density of 200 mA g −1 ). Electrodes mass ratio of 2.5 (full lines) or 3 (dotted lines).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 8 .</head><label>8</label><figDesc>Fig. 8. Evolution of specific discharge capacitance (per total mass of electrodes) during galvanostatic cycling (1 A g −1 : mass of both electrodes) of AC/MnO2 cells in deaerated 0.5 mol L −1 Na2SO4. Influence of the electrodes mass ratio and maximum voltage.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 9 .</head><label>9</label><figDesc>Fig. 9. SEM images of positive MnO2/CNT composite electrodes after different numbers of galvanostatic (1 A g −1 ) charge/discharge cycles of asymmetric MnO2/AC supercapacitors with R = 2.5. (a) Fresh electrode; (b) 2000 cycles up to 2 V; (c) 4000 cycles up to 2 V; (d) 6000 cycles up to 2 V; (e) 10,000 cycles up to 1.6 V.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Specific surface area and pore volume data of AC. SBET(m 2 g −1 ) V ultramicro (CO2) d &lt;0.7 nm (cm 3 g −1 ) XPS) were recorded on the powder with a VG ESCALAB 250 spectrometer using an Al K␣ monochromatic source (15 kV, 15 mA) and a multidetection analyzer, under 10 −8 Pa residual pressure. A paste was prepared by mixing the AC (80%), acetylene black (Pure Black, Superior Graphite Co., USA, 10%) and PTFE (10%) binder. A composite of amorphous manganese oxide (a-MnO 2 •nH 2 O) with carbon nanotubes (CNTs, 15 wt%) was prepared by adding Mn(OAc) 2 •4H 2 O to a suspension of CNTs (Baytubes, Bayer, Germany) in aqueous KMnO 4 , according to reference</figDesc><table><row><cell>V micro (N2)</cell><cell>Vmeso</cell></row><row><cell>d&lt; 2 nm</cell><cell>2 &lt; d &lt; 50 nm</cell></row><row><cell>(cm 3 g −1 )</cell><cell>(cm 3 g −1 )</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>This work was financially supported by the National Agency for Research (Project ABHYS-ANR-07-Stock-E-01). Mrs. A. Richard (Orléans University) is acknowledged for realizing the SEM images. MeadWestvaco (USA) is acknowledged for providing the activated carbon.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Conway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Electrochemical</forename><surname>Supercapacitors</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kluwer</forename><surname>Academic</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>Plenum Publishers</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">B.E. Conway, Electrochemical Supercapacitors, Kluwer Academic, Plenum Pub- lishers, New York, 1999.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Carbon for Electrochemical Energy Storage and Conversion Systems</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Taylor &amp; Francis Group</publisher>
+			<biblScope unit="page" from="329" to="375" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">F. Béguin, E. Frackowiak, Carbon for Electrochemical Energy Storage and Con- version Systems, CRC Press, Taylor &amp; Francis Group, New York, 2010, pp. 329-375, Chap. 8.</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Burke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1083" to="1091" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Burke, Electrochim. Acta 53 (2007) 1083-1091.</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Santamaria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Granda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Blanco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="4481" to="4486" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Ruiz, R. Santamaria, M. Granda, C. Blanco, Electrochim. Acta 54 (2009) 4481-4486.</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="937" to="950" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Frackowiak, F. Béguin, Carbon 39 (2001) 937-950.</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem. Chem. Phys</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1774" to="1785" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Frackowiak, Phys. Chem. Chem. Phys. 9 (2007) 1774-1785.</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Machnikovski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kierzek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochim. Acta</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="2209" to="2214" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Frackowiak, G. Lota, J. Machnikovski, K. Kierzek, C. Vix, F. Béguin, Electrochim. Acta 51 (2005) 2209-2214.</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hulicova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yamashita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Soneda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hatori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kodama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1241" to="1247" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Hulicova, J. Yamashita, Y. Soneda, H. Hatori, M. Kodama, Chem. Mater. 17 (2005) 1241-1247.</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Ania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Khomenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raymundo-Piñero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Parra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Funct. Mater</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1828" to="1836" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">C.O. Ania, V. Khomenko, E. Raymundo-Piñero, J.B. Parra, F. Béguin, Adv. Funct. Mater. 17 (2007) 1828-1836.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raymundo-Piñero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Leroux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Mater</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1877" to="1882" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Raymundo-Piñero, F. Leroux, F. Béguin, Adv. Mater. 18 (2006) 1877-1882.</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hulicova-Jurcakova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Puziy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">I</forename><surname>Poddubnaya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Suarez-Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Tascon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">Q</forename><surname>Lu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Chem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="5026" to="5027" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D. Hulicova-Jurcakova, A.M. Puziy, O.I. Poddubnaya, F. Suarez-Garcia, J.M. Tas- con, G.Q. Lu, J. Am. Chem. Soc. 131 (2009) 5026-5027.</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Razumov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Litvinenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Klementov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Beliakov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Patent</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">500</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">S.N. Razumov, S.V. Litvinenko, A.D. Klementov, A.I. Beliakov, European Patent 1,156,500 (2001).</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Cheng</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="page" from="1563" to="1568" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">D.W. Wang, F. Li, H.M. Cheng, J. Power Sources 185 (2008) 1563-1568.</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">G</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Xia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochem. Commun</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1138" to="1142" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y.G. Wang, Y.Y. Xia, Electrochem. Commun. 7 (2005) 1138-1142.</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">Y</forename><surname>Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">Y</forename><surname>Ji</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Solid State Electrochem</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="905" to="912" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y.J. Hao, Y.Y. Wang, Q.Y. Lai, Y. Zhao, L.M. Chen, X.Y. Ji, J. Solid State Electrochem. 13 (2009) 905-912.</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Xu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Lai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Solid State Electrochem</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1509" to="1513" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Zhao, X. Xu, Q. Lai, Y. Hao, L. Wang, Z. Lin, J. Solid State Electrochem. 14 (2010) 1509-1513.</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Khomenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jurewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="413" to="418" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Frackowiak, V. Khomenko, K. Jurewicz, K. Lota, F. Béguin, J. Power Sources 153 (2006) 413-418.</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Khomenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raymundo-Piñero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. A</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="567" to="573" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Khomenko, E. Raymundo-Piñero, E. Frackowiak, F. Béguin, Appl. Phys. A 82 (2006) 567-573.</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Soudan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gaudet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Guay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schulz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1210" to="1215" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">P. Soudan, J. Gaudet, D. Guay, D. Bélanger, R. Schulz, Chem. Mater. 14 (2002) 1210-1215.</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Algharaibeh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Pickup</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">187</biblScope>
+			<biblScope unit="page" from="640" to="643" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Z. Algharaibeh, X. Liu, P.G. Pickup, J. Power Sources 187 (2009) 640-643.</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><surname>Khomenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raymundo-Piñero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="page" from="183" to="190" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">V. Khomenko, E. Raymundo-Piñero, F. Béguin, J. Power Sources 153 (2006) 183-190.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brousse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Taberna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Crosnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dugas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Guillemet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Scudeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Favier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="633" to="641" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Brousse, P.L. Taberna, O. Crosnier, R. Dugas, P. Guillemet, Y. Scudeller, Y. Zhou, F. Favier, D. Bélanger, P. Simon, J. Power Sources 173 (2007) 633-641.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">D</forename><surname>Yan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Lett</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="3884" to="3886" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Y. Xue, Y. Chen, M.L. Zhang, Y.D. Yan, Mater. Lett. 62 (2008) 3884-3886.</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="14020" to="14027" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Q. Qu, P. Zhang, B. Wang, Y. Chen, S. Tian, Y. Wu, R. Holze, J. Phys. Chem. C 113 (2009) 14020-14027.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Malak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Vix-Guterl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Solid State Electrochem</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="811" to="816" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">A. Malak, K. Fic, G. Lota, C. Vix-Guterl, E. Frackowiak, J. Solid State Electrochem. 14 (2010) 811-816.</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">X</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Jiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. Chem. C</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="2643" to="2646" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">X. Du, C. Wang, M. Chen, Y. Jiao, J. Wang, J. Phys. Chem. C 113 (2009) 2643- 2646.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Q</forename><forename type="middle">T</forename><surname>Qu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">P</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Guan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Holze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Electrochem. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1325" to="1328" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Q.T. Qu, Y. Shi, L.L. Li, W.L. Guo, Y.P. Wu, H.P. Zhang, S.Y. Guan, R. Holze, Elec- trochem. Commun. 11 (2009) 1325-1328.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cottineau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toupin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Delahaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brousse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. A</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="599" to="606" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">T. Cottineau, M. Toupin, T. Delahaye, T. Brousse, D. Bélanger, Appl. Phys. A 82 (2006) 599-606.</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Toupin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Brousse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bélanger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem. Mater</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="3184" to="3190" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Toupin, T. Brousse, D. Bélanger, Chem. Mater. 16 (2004) 3184-3190.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ghodbane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Pascal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Favier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mater. Interf</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1130" to="1139" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">O. Ghodbane, J.L. Pascal, F. Favier, ACS Appl. Mater. Interf. 1 (2009) 1130- 1139.</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Raymundo-Piñero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Khomenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Electrochem. Soc</title>
+		<imprint>
+			<biblScope unit="volume">152</biblScope>
+			<biblScope unit="page" from="A229" to="A235" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">E. Raymundo-Piñero, V. Khomenko, E. Frackowiak, F. Béguin, J. Electrochem. Soc. 152 (2005) A229-A235.</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Berenguer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Marco-Lozar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Quijada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cazorla-Amoros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Morallon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Carbon</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="1018" to="1027" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">R. Berenguer, J.P. Marco-Lozar, C. Quijada, D. Cazorla-Amoros, E. Morallon, Car- bon 47 (2009) 1018-1027.</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Subramanian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Nallathmbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Kumaraguru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Colon-Mercado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">N</forename><surname>Popov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Power Sources</title>
+		<imprint>
+			<biblScope unit="volume">188</biblScope>
+			<biblScope unit="page" from="38" to="44" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">N.P. Subramanian, X. Li, V. Nallathmbi, S.P. Kumaraguru, H. Colon-Mercado, G. Wu, J.W. Lee, B.N. Popov, J. Power Sources 188 (2009) 38-44.</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jurewicz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Frackowiak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Béguin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. A</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="981" to="987" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">K. Jurewicz, E. Frackowiak, F. Béguin, Appl. Phys. A 78 (2004) 981-987.</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Atlas of Electrochemical in Aqueous Solution</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pourbaix</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Association of Corrosion Engineers</title>
+		<imprint>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">M. Pourbaix, Atlas of Electrochemical in Aqueous Solution, National Association of Corrosion Engineers, Houston, TX, 1996.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
